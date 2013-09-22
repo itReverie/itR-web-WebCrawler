@@ -58,7 +58,10 @@ namespace mnConsoleBookmarkAnalyzer
         #endregion
 
         #region Methods
-        public void ProcessingProgressBar()
+        /// <summary>
+        /// Progressing bar
+        /// </summary>
+        private void ProcessingProgressBar()
         {
             Duration MaxTime = new Duration(TimeSpan.FromSeconds(10));
             DoubleAnimation doubleAnimation = new DoubleAnimation(100, MaxTime);
