@@ -1,0 +1,3292 @@
+﻿NODE "Arsenal fans site"  1A 
+NODE "Arsenal blogs"  1A 
+NODE "Arsenal forums" 1A 
+NODE "Arsenal General links" 1A 
+NODE "Arsenal Player Sites" 1A 
+NODE "Arsenal Community" 1A 
+NODE "Arsenal News" 1A 
+NODE "Arsenal games" 1A 
+NODE "Arsenal fantasy" 1A 
+NODE "Arsenal entertainment" 1A 
+NODE "Arsenal Clips" 1A 
+NODE "Arsenal Banners" 1A 
+NODE "Arsenal Kids" 1A 
+NODE "Arsenal Women" 1A 
+NODE "Arsenal Commercial" 1A 
+NODE "Arsenal Contactsl" 1A 
+NODE "Arsenal fantasy Sport" 1A 
+NODE "Arsenal Streaming" 1A 
+NODE "Arsenal affiliate" 1A 
+NODE "Arsenal Supporters" 1A 
+NODE "Arsenal Art" 1A 
+NODE "Arsenal Live Score" 1A 
+NODE "Man U fans site" 1B 
+NODE "Man U blogs" 1B 
+NODE "Man U forums" 1B 
+NODE "Man U General links" 1B 
+NODE "Man U Player Site" 1B 
+NODE "Man U Community" 1B 
+NODE "Man U News" 1B 
+NODE "Man U games" 1B 
+NODE "Man U fantasy" 1B 
+NODE "Man U Entertainment" 1B 
+NODE "Man U Clips" 1B 
+NODE "Man U Banners" 1B 
+NODE "Man U Kids" 1B 
+NODE "Man U Women" 1B 
+NODE "Man U Commercial" 1B 
+NODE "Man U Contacts" 1B 
+NODE "Man U Fantacy Sport" 1B 
+NODE "Man U Streaming" 1B 
+NODE "Man U affiliate" 1B 
+NODE "Man U Supporters" 1B 
+NODE "Man U Art" 1B 
+NODE "Man U Live Score" 1B 
+NODE "Man U Int" 1B 
+NODE "Man U Team" 1B 
+NODE "Man U Music" 1B 
+NODE "Man City fans site" 2A 
+NODE "Man City blogs" 2A 
+NODE "Man City forums" 2A 
+NODE "Man City General links" 2A 
+NODE "Man City Player sites" 2A 
+NODE "Man City Community" 2A 
+NODE "Man City News" 2A 
+NODE "Man City games" 2A 
+NODE "Man City fantasy" 2A 
+NODE "Man City entertainment" 2A 
+NODE "Man City Clips" 2A 
+NODE "Man City Banners" 2A 
+NODE "Man City Kids" 2A 
+NODE "Man City Women" 2A 
+NODE "Man City Commercial" 2A 
+NODE "Man City Contacts" 2A 
+NODE "Man City fantasy sport" 2A 
+NODE "Man City Streaming" 2A 
+NODE "Man City affiliate" 2A 
+NODE "Man City Supporters" 2A 
+NODE "Man City Art" 2A 
+NODE "Man City Live score" 2A 
+NODE "Chlesea fans site"2B 
+NODE "Chlesea blogs" 2B 
+NODE "Chlesea forums" 2B 
+NODE "Chlesea General links" 2B 
+NODE "Chlesea player site" 2B 
+NODE "Chlesea community" 2B 
+NODE "Chlesea News" 2B 
+NODE "Chlesea games" 2B 
+NODE "Chlesea fantasy" 2B 
+NODE "Chlesea entertainment" 2B 
+NODE "Chlesea clips" 2B 
+NODE "Chlesea Banners" 2B 
+NODE "Chlesea Kids" 2B 
+NODE "Chlesea Women" 2B 
+NODE "Chlesea Commercial" 2B 
+NODE "Chlesea Contacts" 2B 
+NODE "Chlesea fantasy sport" 2B 
+NODE "Chlesea Streaming" 2B 
+NODE "Chlesea affiliate" 2B 
+NODE "Chlesea Supporters" 2B 
+NODE "Chlesea Art" 2B 
+NODE "Chlesea live score" 2B 
+NODE "Chlesea Int" 2B 
+NODE "Chlesea Team" 2B 
+NODE "Chlesea Music" 2B 
+NODE "Liverpool fans site"  3A 
+NODE "Liverpool blogs" 3A 
+NODE "Liverpool forums" 3A 
+NODE "Liverpool General links" 3A 
+NODE "Liverpool player sites" 3A 
+NODE "Liverpool community" 3A 
+NODE "Liverpool News" 3A 
+NODE "Liverpool games" 3A 
+NODE "Liverpool fantasy" 3A 
+NODE "Liverpool entertainment" 3A 
+NODE "Liverpool clips" 3A 
+NODE "Liverpool Banners" 3A 
+NODE "Liverpool Kids" 3A 
+NODE "Liverpool women" 3A 
+NODE "Liverpool commercial" 3A 
+NODE "Liverpool contacts" 3A 
+NODE "Liverpool fantasy sport" 3A 
+NODE "Liverpool streaming" 3A 
+NODE "Liverpool affiliate" 3A 
+NODE "Liverpool supporers" 3A 
+NODE "Liverpool Art" 3A 
+NODE "Liverpool live score" 3A 
+NODE "Liverpool int" 3A 
+NODE "Everton fans site" 3B 
+NODE "Everton blogs" 3B 
+NODE "Everton forums" 3B 
+NODE "Everton General links" 3B 
+NODE "Everton Player sites" 3B 
+NODE "Everton community" 3B 
+NODE "Everton News" 3B 
+NODE "Everton games" 3B 
+NODE "Everton fantasy" 3B 
+NODE "Everton entertainment" 3B 
+NODE "Everton clips" 3B 
+NODE "Everton Banners" 3B 
+NODE "Everton Kids" 3B 
+NODE "Everton Women" 3B 
+NODE "Everton commercial" 3B 
+NODE "Everton contacts" 3B 
+NODE "Everton fantasy sport" 3B 
+NODE "Everton streaming" 3B 
+NODE "Everton affiliate" 3B 
+NODE "Everton supporters" 3B 
+NODE "Everton Art" 3B 
+NODE "Tottenham fans site" Teachers 
+NODE "Tottenham blogs" Teachers 
+NODE "Tottenham forums" Teachers 
+NODE "Tottenham General links" Teachers 
+NODE "Tottenham player sites" Teachers 
+NODE "Tottenham community" Teachers 
+NODE "Tottenham News" Teachers 
+NODE "Tottenham games" Teachers 
+NODE "Tottenham entertainment" Teachers 
+NODE "Tottenham Clips" Teachers 
+LINK "Everton fans site" "Everton blogs"  Value: 180 
+LINK "Everton fans site" "Everton forums"  Value: 80 
+LINK "Everton fans site" "Everton General links"  Value: 420 
+LINK "Everton fans site" "Everton Player sites"  Value: 400 
+LINK "Everton fans site" "Everton community"  Value: 40 
+LINK "Everton fans site" "Everton News"  Value: 80 
+LINK "Everton fans site" "Everton games"  Value: 340 
+LINK "Everton fans site" "Everton fantasy"  Value: 300 
+LINK "Everton fans site" "Everton entertainment"  Value: 1020 
+LINK "Everton fans site" "Everton clips"  Value: 20 
+LINK "Everton fans site" "Everton Banners"  Value: 2080 
+LINK "Everton fans site" "Everton Kids"  Value: 100 
+LINK "Everton fans site" "Everton Women"  Value: 1080 
+LINK "Everton fans site" "Man City games"  Value: 20 
+LINK "Everton fans site" "Man U Community"  Value: 20 
+LINK "Everton fans site" "Man U games"  Value: 20 
+LINK "Everton fans site" "Man U fantasy"  Value: 40 
+LINK "Everton fans site" "Everton commercial"  Value: 100 
+LINK "Everton fans site" "Man U Supporters"  Value: 20 
+LINK "Everton fans site" "Everton contacts"  Value: 100 
+LINK "Everton fans site" "Chlesea blogs"  Value: 20 
+LINK "Everton fans site" "Everton fantasy sport"  Value: 1100 
+LINK "Everton fans site" "Tottenham General links"  Value: 100 
+LINK "Everton fans site" "Everton streaming"  Value: 320 
+LINK "Everton fans site" "Liverpool fans site"   Value: 20 
+LINK "Everton fans site" "Liverpool player sites"  Value: 20 
+LINK "Everton fans site" "Everton affiliate"  Value: 80 
+LINK "Everton fans site" "Everton supporters"  Value: 620 
+LINK "Everton fans site" "Liverpool News"  Value: 20 
+LINK "Everton fans site" "Chlesea entertainment"  Value: 20 
+LINK "Everton fans site" "Tottenham community"  Value: 20 
+LINK "Everton fans site" "Liverpool fantasy"  Value: 20 
+LINK "Everton fans site" "Chlesea clips"  Value: 20 
+LINK "Everton fans site" "Arsenal forums"  Value: 60 
+LINK "Everton fans site" "Arsenal General links"  Value: 120 
+LINK "Everton fans site" "Arsenal Community"  Value: 60 
+LINK "Everton fans site" "Liverpool entertainment"  Value: 1100 
+LINK "Everton fans site" "Arsenal games"  Value: 20 
+LINK "Everton fans site" "Liverpool clips"  Value: 120 
+LINK "Everton fans site" "Liverpool Banners"  Value: 40 
+LINK "Everton fans site" "Arsenal Contactsl"  Value: 40 
+LINK "Everton fans site" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton fans site" "Arsenal Streaming"  Value: 20 
+LINK "Everton fans site" "Arsenal Live Score"  Value: 20 
+LINK "Everton fans site" "Liverpool commercial"  Value: 60 
+LINK "Everton fans site" "Liverpool contacts"  Value: 60 
+LINK "Everton fans site" "Liverpool fantasy sport"  Value: 140 
+LINK "Everton fans site" "Liverpool streaming"  Value: 200 
+LINK "Everton fans site" "Liverpool affiliate"  Value: 100 
+LINK "Everton fans site" "Liverpool supporers"  Value: 40 
+LINK "Everton fans site" "Liverpool Art"  Value: 80 
+LINK "Everton fans site" "Chlesea Women"  Value: 20 
+LINK "Everton fans site" "Chlesea live score"  Value: 20 
+LINK "Everton fans site" "Chlesea Int"  Value: 60 
+LINK "Everton fans site" "Man City Commercial"  Value: 20 
+LINK "Everton fans site" "Man U Int"  Value: 20 
+LINK "Everton fans site" "Liverpool int"  Value: 60 
+LINK "Everton fans site" "Man City Art"  Value: 20 
+LINK "Everton blogs" "Everton forums"  Value: 2460 
+LINK "Everton blogs" "Everton General links"  Value: 180 
+LINK "Everton blogs" "Everton Player sites"  Value: 160 
+LINK "Everton blogs" "Everton community"  Value: 2820 
+LINK "Everton blogs" "Everton News"  Value: 60 
+LINK "Everton blogs" "Everton games"  Value: 380 
+LINK "Everton blogs" "Everton fantasy"  Value: 80 
+LINK "Everton blogs" "Everton entertainment"  Value: 240 
+LINK "Everton blogs" "Everton clips"  Value: 640 
+LINK "Everton blogs" "Everton Banners"  Value: 360 
+LINK "Everton blogs" "Everton Kids"  Value: 160 
+LINK "Everton blogs" "Man City games"  Value: 20 
+LINK "Everton blogs" "Man U forums"  Value: 20 
+LINK "Everton blogs" "Man U Community"  Value: 20 
+LINK "Everton blogs" "Man U games"  Value: 40 
+LINK "Everton blogs" "Man U fantasy"  Value: 60 
+LINK "Everton blogs" "Man U Entertainment"  Value: 20 
+LINK "Everton blogs" "Man U Women"  Value: 60 
+LINK "Everton blogs" "Everton commercial"  Value: 1840 
+LINK "Everton blogs" "Man U Fantacy Sport"  Value: 20 
+LINK "Everton blogs" "Man U Supporters"  Value: 20 
+LINK "Everton blogs" "Everton contacts"  Value: 4720 
+LINK "Everton blogs" "Chlesea fans site" Value: 20 
+LINK "Everton blogs" "Chlesea blogs"  Value: 20 
+LINK "Everton blogs" "Everton fantasy sport"  Value: 40 
+LINK "Everton blogs" "Chlesea General links"  Value: 20 
+LINK "Everton blogs" "Tottenham General links"  Value: 200 
+LINK "Everton blogs" "Everton streaming"  Value: 240 
+LINK "Everton blogs" "Liverpool blogs"  Value: 100 
+LINK "Everton blogs" "Liverpool forums"  Value: 720 
+LINK "Everton blogs" "Liverpool General links"  Value: 20 
+LINK "Everton blogs" "Liverpool player sites"  Value: 40 
+LINK "Everton blogs" "Everton affiliate"  Value: 60 
+LINK "Everton blogs" "Everton supporters"  Value: 80 
+LINK "Everton blogs" "Everton Art"  Value: 20 
+LINK "Everton blogs" "Tottenham community"  Value: 100 
+LINK "Everton blogs" "Liverpool fantasy"  Value: 40 
+LINK "Everton blogs" "Chlesea clips"  Value: 20 
+LINK "Everton blogs" "Arsenal blogs"   Value: 40 
+LINK "Everton blogs" "Arsenal Community"  Value: 20 
+LINK "Everton blogs" "Liverpool entertainment"  Value: 120 
+LINK "Everton blogs" "Liverpool clips"  Value: 280 
+LINK "Everton blogs" "Liverpool Banners"  Value: 20 
+LINK "Everton blogs" "Arsenal fantasy Sport"  Value: 140 
+LINK "Everton blogs" "Liverpool Kids"  Value: 40 
+LINK "Everton blogs" "Arsenal Art"  Value: 180 
+LINK "Everton blogs" "Arsenal Live Score"  Value: 20 
+LINK "Everton blogs" "Liverpool commercial"  Value: 160 
+LINK "Everton blogs" "Liverpool contacts"  Value: 20 
+LINK "Everton blogs" "Liverpool streaming"  Value: 20 
+LINK "Everton blogs" "Liverpool affiliate"  Value: 120 
+LINK "Everton blogs" "Liverpool supporers"  Value: 60 
+LINK "Everton blogs" "Liverpool live score"  Value: 60 
+LINK "Everton blogs" "Chlesea Supporters"  Value: 20 
+LINK "Everton blogs" "Liverpool int"  Value: 40 
+LINK "Everton blogs" "Tottenham Clips"  Value: 20 
+LINK "Everton forums" "Everton General links"  Value: 540 
+LINK "Everton forums" "Everton Player sites"  Value: 200 
+LINK "Everton forums" "Everton community"  Value: 80 
+LINK "Everton forums" "Everton games"  Value: 440 
+LINK "Everton forums" "Everton fantasy"  Value: 260 
+LINK "Everton forums" "Everton entertainment"  Value: 160 
+LINK "Everton forums" "Everton clips"  Value: 320 
+LINK "Everton forums" "Everton Banners"  Value: 720 
+LINK "Everton forums" "Everton Kids"  Value: 140 
+LINK "Everton forums" "Everton Women"  Value: 20 
+LINK "Everton forums" "Man City Player sites"  Value: 20 
+LINK "Everton forums" "Man U games"  Value: 20 
+LINK "Everton forums" "Everton commercial"  Value: "Liverpool clips" 
+LINK "Everton forums" "Everton contacts"  Value: 680 
+LINK "Everton forums" "Everton fantasy sport"  Value: 180 
+LINK "Everton forums" "Tottenham General links"  Value: 140 
+LINK "Everton forums" "Everton streaming"  Value: 180 
+LINK "Everton forums" "Liverpool blogs"  Value: 20 
+LINK "Everton forums" "Liverpool forums"  Value: 60 
+LINK "Everton forums" "Liverpool General links"  Value: 860 
+LINK "Everton forums" "Everton affiliate"  Value: 160 
+LINK "Everton forums" "Everton supporters"  Value: 180 
+LINK "Everton forums" "Everton Art"  Value: 120 
+LINK "Everton forums" "Liverpool News"  Value: 1100 
+LINK "Everton forums" "Tottenham community"  Value: 120 
+LINK "Everton forums" "Liverpool clips"  Value: 60 
+LINK "Everton forums" "Liverpool Kids"  Value: 220 
+LINK "Everton forums" "Arsenal Art"  Value: 40 
+LINK "Everton forums" "Liverpool women"  Value: 140 
+LINK "Everton forums" "Liverpool commercial"  Value: 40 
+LINK "Everton forums" "Liverpool contacts"  Value: 40 
+LINK "Everton forums" "Liverpool fantasy sport"  Value: 20 
+LINK "Everton forums" "Liverpool streaming"  Value: 20 
+LINK "Everton forums" "Liverpool affiliate"  Value: 20 
+LINK "Everton forums" "Liverpool supporers"  Value: 60 
+LINK "Everton forums" "Liverpool live score"  Value: 40 
+LINK "Everton forums" "Chlesea Int"  Value: 20 
+LINK "Everton forums" "Liverpool int"  Value: 20 
+LINK "Everton forums" "Man City Streaming"  Value: 20 
+LINK "Everton forums" "Man City Art"  Value: 20 
+LINK "Everton General links" "Everton Player sites"  Value: 560 
+LINK "Everton General links" "Everton community"  Value: 180 
+LINK "Everton General links" "Everton News"  Value: 920 
+LINK "Everton General links" "Everton games"  Value: 3900 
+LINK "Everton General links" "Everton fantasy"  Value: 100 
+LINK "Everton General links" "Everton entertainment"  Value: 160 
+LINK "Everton General links" "Everton clips"  Value: "Everton contacts" 
+LINK "Everton General links" "Everton Banners"  Value: 840 
+LINK "Everton General links" "Everton Kids"  Value: 440 
+LINK "Everton General links" "Everton Women"  Value: 200 
+LINK "Everton General links" "Man City Community"  Value: 20 
+LINK "Everton General links" "Man City fantasy"  Value: 60 
+LINK "Everton General links" "Man U Player Site"  Value: 20 
+LINK "Everton General links" "Man U Entertainment"  Value: 20 
+LINK "Everton General links" "Everton commercial"  Value: 1860 
+LINK "Everton General links" "Everton contacts"  Value: 1300 
+LINK "Everton General links" "Everton fantasy sport"  Value: 320 
+LINK "Everton General links" "Tottenham General links"  Value: 60 
+LINK "Everton General links" "Everton streaming"  Value: 20 
+LINK "Everton General links" "Liverpool fans site"   Value: 100 
+LINK "Everton General links" "Liverpool blogs"  Value: 40 
+LINK "Everton General links" "Liverpool player sites"  Value: 100 
+LINK "Everton General links" "Everton affiliate"  Value: 1200 
+LINK "Everton General links" "Everton supporters"  Value: 440 
+LINK "Everton General links" "Everton Art"  Value: 280 
+LINK "Everton General links" "Liverpool News"  Value: 20 
+LINK "Everton General links" "Arsenal General links"  Value: 20 
+LINK "Everton General links" "Liverpool entertainment"  Value: 520 
+LINK "Everton General links" "Arsenal fantasy"  Value: 20 
+LINK "Everton General links" "Liverpool clips"  Value: 420 
+LINK "Everton General links" "Liverpool Banners"  Value: 20 
+LINK "Everton General links" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton General links" "Arsenal Live Score"  Value: 20 
+LINK "Everton General links" "Liverpool commercial"  Value: 60 
+LINK "Everton General links" "Liverpool contacts"  Value: 20 
+LINK "Everton General links" "Liverpool streaming"  Value: 160 
+LINK "Everton General links" "Liverpool affiliate"  Value: 400 
+LINK "Everton General links" "Chlesea Int"  Value: 60 
+LINK "Everton General links" "Man City Contacts"  Value: 40 
+LINK "Everton General links" "Liverpool int"  Value: 20 
+LINK "Everton General links" "Man City fantasy sport"  Value: 20 
+LINK "Everton General links" "Man U Team"  Value: 20 
+LINK "Everton General links" "Man City Streaming"  Value: 20 
+LINK "Everton Player sites" "Everton community"  Value: 20 
+LINK "Everton Player sites" "Everton games"  Value: 260 
+LINK "Everton Player sites" "Everton fantasy"  Value: 300 
+LINK "Everton Player sites" "Everton entertainment"  Value: 5640 
+LINK "Everton Player sites" "Everton clips"  Value: 160 
+LINK "Everton Player sites" "Everton Banners"  Value: 100 
+LINK "Everton Player sites" "Everton Kids"  Value: 1020 
+LINK "Everton Player sites" "Everton Women"  Value: 980 
+LINK "Everton Player sites" "Man City Player sites"  Value: 20 
+LINK "Everton Player sites" "Man City games"  Value: 20 
+LINK "Everton Player sites" "Man U fans site"  Value: 20 
+LINK "Everton Player sites" "Man U Player Site"  Value: 20 
+LINK "Everton Player sites" "Man U Community"  Value: 20 
+LINK "Everton Player sites" "Man U games"  Value: 20 
+LINK "Everton Player sites" "Man U fantasy"  Value: 60 
+LINK "Everton Player sites" "Man U Women"  Value: 20 
+LINK "Everton Player sites" "Everton commercial"  Value: 260 
+LINK "Everton Player sites" "Man U Streaming"  Value: 40 
+LINK "Everton Player sites" "Everton contacts"  Value: 1500 
+LINK "Everton Player sites" "Everton fantasy sport"  Value: 100 
+LINK "Everton Player sites" "Chlesea General links"  Value: 40 
+LINK "Everton Player sites" "Tottenham General links"  Value: 100 
+LINK "Everton Player sites" "Arsenal fans site"   Value: 20 
+LINK "Everton Player sites" "Everton streaming"  Value: 160 
+LINK "Everton Player sites" "Liverpool blogs"  Value: 20 
+LINK "Everton Player sites" "Liverpool forums"  Value: 20 
+LINK "Everton Player sites" "Liverpool General links"  Value: 40 
+LINK "Everton Player sites" "Everton affiliate"  Value: 420 
+LINK "Everton Player sites" "Everton supporters"  Value: 1080 
+LINK "Everton Player sites" "Everton Art"  Value: 60 
+LINK "Everton Player sites" "Chlesea entertainment"  Value: 20 
+LINK "Everton Player sites" "Tottenham community"  Value: 120 
+LINK "Everton Player sites" "Liverpool fantasy"  Value: 20 
+LINK "Everton Player sites" "Arsenal Community"  Value: 20 
+LINK "Everton Player sites" "Liverpool entertainment"  Value: 20 
+LINK "Everton Player sites" "Man U Art"  Value: 20 
+LINK "Everton Player sites" "Arsenal fantasy"  Value: 20 
+LINK "Everton Player sites" "Liverpool clips"  Value: 40 
+LINK "Everton Player sites" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton Player sites" "Liverpool Kids"  Value: 20 
+LINK "Everton Player sites" "Arsenal Art"  Value: 20 
+LINK "Everton Player sites" "Arsenal Live Score"  Value: 20 
+LINK "Everton Player sites" "Liverpool streaming"  Value: 60 
+LINK "Everton Player sites" "Liverpool affiliate"  Value: 40 
+LINK "Everton Player sites" "Chlesea Banners"  Value: 40 
+LINK "Everton Player sites" "Chlesea Contacts"  Value: 20 
+LINK "Everton Player sites" "Chlesea live score"  Value: 40 
+LINK "Everton Player sites" "Man City fantasy sport"  Value: 40 
+LINK "Everton Player sites" "Man U Team"  Value: 40 
+LINK "Everton Player sites" "Man City affiliate"  Value: 20 
+LINK "Everton Player sites" "Man U Music"  Value: 20 
+LINK "Everton community" "Everton games"  Value: 1260 
+LINK "Everton community" "Everton fantasy"  Value: 160 
+LINK "Everton community" "Everton clips"  Value: 960 
+LINK "Everton community" "Everton Banners"  Value: 80 
+LINK "Everton community" "Everton Women"  Value: 20 
+LINK "Everton community" "Man U Entertainment"  Value: 20 
+LINK "Everton community" "Man U Banners"  Value: 20 
+LINK "Everton community" "Everton commercial"  Value: 1000 
+LINK "Everton community" "Man U Fantacy Sport"  Value: 20 
+LINK "Everton community" "Everton contacts"  Value: 320 
+LINK "Everton community" "Everton fantasy sport"  Value: 860 
+LINK "Everton community" "Tottenham General links"  Value: 180 
+LINK "Everton community" "Everton streaming"  Value: 40 
+LINK "Everton community" "Liverpool blogs"  Value: 40 
+LINK "Everton community" "Liverpool forums"  Value: 160 
+LINK "Everton community" "Liverpool General links"  Value: 20 
+LINK "Everton community" "Everton affiliate"  Value: 320 
+LINK "Everton community" "Everton supporters"  Value: 80 
+LINK "Everton community" "Everton Art"  Value: 20 
+LINK "Everton community" "Liverpool News"  Value: 40 
+LINK "Everton community" "Liverpool games"  Value: 20 
+LINK "Everton community" "Tottenham community"  Value: 80 
+LINK "Everton community" "Liverpool fantasy"  Value: 100 
+LINK "Everton community" "Arsenal blogs"   Value: 20 
+LINK "Everton community" "Arsenal Community"  Value: 20 
+LINK "Everton community" "Liverpool entertainment"  Value: 20 
+LINK "Everton community" "Liverpool Kids"  Value: 40 
+LINK "Everton community" "Arsenal Art"  Value: 140 
+LINK "Everton community" "Liverpool women"  Value: 20 
+LINK "Everton community" "Liverpool commercial"  Value: 100 
+LINK "Everton community" "Liverpool streaming"  Value: 20 
+LINK "Everton community" "Liverpool affiliate"  Value: 20 
+LINK "Everton community" "Liverpool live score"  Value: 60 
+LINK "Everton News" "Everton games"  Value: 340 
+LINK "Everton News" "Everton fantasy"  Value: 440 
+LINK "Everton News" "Everton entertainment"  Value: 40 
+LINK "Everton News" "Everton clips"  Value: 960 
+LINK "Everton News" "Everton Kids"  Value: 380 
+LINK "Everton News" "Everton Women"  Value: 20 
+LINK "Everton News" "Man U Player Site"  Value: 20 
+LINK "Everton News" "Everton commercial"  Value: 20 
+LINK "Everton News" "Everton contacts"  Value: 20 
+LINK "Everton News" "Everton fantasy sport"  Value: 80 
+LINK "Everton News" "Everton streaming"  Value: 20 
+LINK "Everton News" "Liverpool fans site"   Value: 20 
+LINK "Everton News" "Everton supporters"  Value: 20 
+LINK "Everton News" "Everton Art"  Value: 160 
+LINK "Everton News" "Liverpool commercial"  Value: 40 
+LINK "Everton News" "Liverpool streaming"  Value: 40 
+LINK "Everton News" "Liverpool Art"  Value: 40 
+LINK "Everton News" "Chlesea Streaming"  Value: 20 
+LINK "Everton games" "Everton fantasy"  Value: 160 
+LINK "Everton games" "Everton entertainment"  Value: 60 
+LINK "Everton games" "Everton clips"  Value: "Liverpool women" 
+LINK "Everton games" "Everton Banners"  Value: 200 
+LINK "Everton games" "Everton Kids"  Value: 280 
+LINK "Everton games" "Everton Women"  Value: 320 
+LINK "Everton games" "Man City Player sites"  Value: 20 
+LINK "Everton games" "Man U Player Site"  Value: 20 
+LINK "Everton games" "Man U games"  Value: 20 
+LINK "Everton games" "Man U Kids"  Value: 20 
+LINK "Everton games" "Man U Women"  Value: 40 
+LINK "Everton games" "Everton commercial"  Value: 260 
+LINK "Everton games" "Man U Contacts"  Value: 20 
+LINK "Everton games" "Man U affiliate"  Value: 40 
+LINK "Everton games" "Everton contacts"  Value: 360 
+LINK "Everton games" "Chlesea blogs"  Value: 20 
+LINK "Everton games" "Everton fantasy sport"  Value: 1320 
+LINK "Everton games" "Tottenham General links"  Value: 160 
+LINK "Everton games" "Everton streaming"  Value: 120 
+LINK "Everton games" "Liverpool fans site"   Value: 140 
+LINK "Everton games" "Liverpool blogs"  Value: 60 
+LINK "Everton games" "Liverpool General links"  Value: 60 
+LINK "Everton games" "Liverpool player sites"  Value: 280 
+LINK "Everton games" "Everton affiliate"  Value: "Liverpool fantasy sport" 
+LINK "Everton games" "Everton supporters"  Value: 160 
+LINK "Everton games" "Everton Art"  Value: 600 
+LINK "Everton games" "Liverpool community"  Value: 100 
+LINK "Everton games" "Liverpool fantasy"  Value: 20 
+LINK "Everton games" "Arsenal General links"  Value: 20 
+LINK "Everton games" "Arsenal Community"  Value: 20 
+LINK "Everton games" "Liverpool entertainment"  Value: 180 
+LINK "Everton games" "Man U Art"  Value: 20 
+LINK "Everton games" "Liverpool clips"  Value: 340 
+LINK "Everton games" "Liverpool Banners"  Value: 100 
+LINK "Everton games" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton games" "Liverpool Kids"  Value: 180 
+LINK "Everton games" "Arsenal Art"  Value: 20 
+LINK "Everton games" "Arsenal Live Score"  Value: 20 
+LINK "Everton games" "Liverpool commercial"  Value: 20 
+LINK "Everton games" "Liverpool streaming"  Value: 120 
+LINK "Everton games" "Liverpool affiliate"  Value: 160 
+LINK "Everton games" "Liverpool Art"  Value: 20 
+LINK "Everton games" "Chlesea Women"  Value: 20 
+LINK "Everton games" "Liverpool live score"  Value: 80 
+LINK "Everton games" "Chlesea Streaming"  Value: 40 
+LINK "Everton games" "Chlesea live score"  Value: 20 
+LINK "Everton games" "Chlesea Int"  Value: 40 
+LINK "Everton games" "Man U Team"  Value: 20 
+LINK "Everton games" "Man City affiliate"  Value: 20 
+LINK "Everton fantasy" "Everton entertainment"  Value: 440 
+LINK "Everton fantasy" "Everton clips"  Value: 100 
+LINK "Everton fantasy" "Everton Banners"  Value: 60 
+LINK "Everton fantasy" "Everton Kids"  Value: 120 
+LINK "Everton fantasy" "Everton Women"  Value: 80 
+LINK "Everton fantasy" "Everton commercial"  Value: 220 
+LINK "Everton fantasy" "Everton contacts"  Value: 160 
+LINK "Everton fantasy" "Everton fantasy sport"  Value: 20 
+LINK "Everton fantasy" "Tottenham General links"  Value: 140 
+LINK "Everton fantasy" "Everton streaming"  Value: 640 
+LINK "Everton fantasy" "Liverpool fans site"   Value: 200 
+LINK "Everton fantasy" "Liverpool General links"  Value: 20 
+LINK "Everton fantasy" "Everton affiliate"  Value: 100 
+LINK "Everton fantasy" "Everton supporters"  Value: 80 
+LINK "Everton fantasy" "Everton Art"  Value: 900 
+LINK "Everton fantasy" "Liverpool News"  Value: 20 
+LINK "Everton fantasy" "Tottenham community"  Value: 20 
+LINK "Everton fantasy" "Liverpool fantasy"  Value: 100 
+LINK "Everton fantasy" "Liverpool clips"  Value: 20 
+LINK "Everton fantasy" "Liverpool Kids"  Value: 40 
+LINK "Everton fantasy" "Arsenal Art"  Value: 20 
+LINK "Everton fantasy" "Liverpool women"  Value: 20 
+LINK "Everton fantasy" "Liverpool contacts"  Value: 20 
+LINK "Everton fantasy" "Liverpool streaming"  Value: 20 
+LINK "Everton fantasy" "Man City Contacts"  Value: 20 
+LINK "Everton fantasy" "Liverpool int"  Value: 20 
+LINK "Everton fantasy" "Man City fantasy sport"  Value: 20 
+LINK "Everton fantasy" "Man City affiliate"  Value: 40 
+LINK "Everton entertainment" "Everton clips"  Value: 80 
+LINK "Everton entertainment" "Everton Banners"  Value: 200 
+LINK "Everton entertainment" "Everton Kids"  Value: 1080 
+LINK "Everton entertainment" "Everton Women"  Value: 180 
+LINK "Everton entertainment" "Man City Player sites"  Value: 40 
+LINK "Everton entertainment" "Man U Player Site"  Value: 20 
+LINK "Everton entertainment" "Man U Community"  Value: 20 
+LINK "Everton entertainment" "Man U fantasy"  Value: 40 
+LINK "Everton entertainment" "Man U Banners"  Value: 20 
+LINK "Everton entertainment" "Man U Women"  Value: 20 
+LINK "Everton entertainment" "Everton commercial"  Value: 420 
+LINK "Everton entertainment" "Man U Streaming"  Value: 20 
+LINK "Everton entertainment" "Man U affiliate"  Value: 20 
+LINK "Everton entertainment" "Man U Supporters"  Value: 40 
+LINK "Everton entertainment" "Everton contacts"  Value: 720 
+LINK "Everton entertainment" "Everton fantasy sport"  Value: 20 
+LINK "Everton entertainment" "Chlesea General links"  Value: 20 
+LINK "Everton entertainment" "Tottenham General links"  Value: 120 
+LINK "Everton entertainment" "Everton streaming"  Value: 100 
+LINK "Everton entertainment" "Liverpool General links"  Value: 40 
+LINK "Everton entertainment" "Everton affiliate"  Value: 40 
+LINK "Everton entertainment" "Everton supporters"  Value: 40 
+LINK "Everton entertainment" "Everton Art"  Value: 60 
+LINK "Everton entertainment" "Arsenal forums"  Value: 20 
+LINK "Everton entertainment" "Arsenal Community"  Value: 40 
+LINK "Everton entertainment" "Liverpool entertainment"  Value: 40 
+LINK "Everton entertainment" "Arsenal fantasy"  Value: 20 
+LINK "Everton entertainment" "Arsenal Women"  Value: 20 
+LINK "Everton entertainment" "Liverpool clips"  Value: 60 
+LINK "Everton entertainment" "Arsenal Contactsl"  Value: 20 
+LINK "Everton entertainment" "Liverpool Kids"  Value: 20 
+LINK "Everton entertainment" "Liverpool affiliate"  Value: 40 
+LINK "Everton entertainment" "Chlesea Streaming"  Value: 20 
+LINK "Everton entertainment" "Chlesea live score"  Value: 40 
+LINK "Everton entertainment" "Man City Women"  Value: 20 
+LINK "Everton entertainment" "Liverpool int"  Value: 20 
+LINK "Everton clips" "Everton Banners"  Value: 340 
+LINK "Everton clips" "Everton Kids"  Value: 60 
+LINK "Everton clips" "Everton Women"  Value: 40 
+LINK "Everton clips" "Man City General links"  Value: 20 
+LINK "Everton clips" "Man City News"  Value: 20 
+LINK "Everton clips" "Man U Community"  Value: 20 
+LINK "Everton clips" "Tottenham forums"  Value: 20 
+LINK "Everton clips" "Man U Banners"  Value: 20 
+LINK "Everton clips" "Everton commercial"  Value: 780 
+LINK "Everton clips" "Everton contacts"  Value: 1360 
+LINK "Everton clips" "Everton fantasy sport"  Value: 3120 
+LINK "Everton clips" "Tottenham General links"  Value: 160 
+LINK "Everton clips" "Everton streaming"  Value: 1400 
+LINK "Everton clips" "Liverpool fans site"   Value: 20 
+LINK "Everton clips" "Liverpool blogs"  Value: 80 
+LINK "Everton clips" "Liverpool General links"  Value: 60 
+LINK "Everton clips" "Everton affiliate"  Value: "Everton contacts" 
+LINK "Everton clips" "Everton supporters"  Value: 60 
+LINK "Everton clips" "Everton Art"  Value: 100 
+LINK "Everton clips" "Liverpool community"  Value: 40 
+LINK "Everton clips" "Liverpool News"  Value: 40 
+LINK "Everton clips" "Liverpool games"  Value: 20 
+LINK "Everton clips" "Arsenal General links"  Value: 20 
+LINK "Everton clips" "Arsenal Banners"  Value: 20 
+LINK "Everton clips" "Arsenal Kids"  Value: 20 
+LINK "Everton clips" "Liverpool Banners"  Value: 20 
+LINK "Everton clips" "Arsenal Contactsl"  Value: 20 
+LINK "Everton clips" "Liverpool Kids"  Value: 20 
+LINK "Everton clips" "Arsenal Art"  Value: 100 
+LINK "Everton clips" "Liverpool contacts"  Value: 20 
+LINK "Everton clips" "Liverpool supporers"  Value: 80 
+LINK "Everton clips" "Liverpool live score"  Value: 140 
+LINK "Everton clips" "Liverpool int"  Value: 20 
+LINK "Everton clips" "Man City Streaming"  Value: 20 
+LINK "Everton clips" "Man City Live score"  Value: 20 
+LINK "Everton Banners" "Everton Kids"  Value: 80 
+LINK "Everton Banners" "Everton Women"  Value: 520 
+LINK "Everton Banners" "Man City forums"  Value: 80 
+LINK "Everton Banners" "Man City Player sites"  Value: 20 
+LINK "Everton Banners" "Man City games"  Value: 80 
+LINK "Everton Banners" "Man City fantasy"  Value: 20 
+LINK "Everton Banners" "Man U Women"  Value: 40 
+LINK "Everton Banners" "Everton commercial"  Value: 340 
+LINK "Everton Banners" "Man U affiliate"  Value: 20 
+LINK "Everton Banners" "Everton contacts"  Value: 1400 
+LINK "Everton Banners" "Everton fantasy sport"  Value: 840 
+LINK "Everton Banners" "Tottenham General links"  Value: 20 
+LINK "Everton Banners" "Everton streaming"  Value: 100 
+LINK "Everton Banners" "Liverpool blogs"  Value: 80 
+LINK "Everton Banners" "Everton supporters"  Value: 400 
+LINK "Everton Banners" "Everton Art"  Value: 80 
+LINK "Everton Banners" "Liverpool games"  Value: 160 
+LINK "Everton Banners" "Liverpool fantasy"  Value: 60 
+LINK "Everton Banners" "Arsenal forums"  Value: 60 
+LINK "Everton Banners" "Arsenal General links"  Value: 20 
+LINK "Everton Banners" "Liverpool entertainment"  Value: 1940 
+LINK "Everton Banners" "Arsenal News"  Value: 100 
+LINK "Everton Banners" "Man U Art"  Value: 20 
+LINK "Everton Banners" "Arsenal Kids"  Value: 20 
+LINK "Everton Banners" "Liverpool clips"  Value: 120 
+LINK "Everton Banners" "Arsenal Supporters"  Value: 40 
+LINK "Everton Banners" "Liverpool commercial"  Value: 60 
+LINK "Everton Banners" "Liverpool contacts"  Value: 20 
+LINK "Everton Banners" "Liverpool fantasy sport"  Value: 20 
+LINK "Everton Banners" "Liverpool streaming"  Value: 60 
+LINK "Everton Banners" "Liverpool affiliate"  Value: 40 
+LINK "Everton Banners" "Liverpool supporers"  Value: 20 
+LINK "Everton Banners" "Liverpool Art"  Value: 100 
+LINK "Everton Banners" "Chlesea Banners"  Value: 240 
+LINK "Everton Banners" "Chlesea Women"  Value: 20 
+LINK "Everton Banners" "Liverpool live score"  Value: 20 
+LINK "Everton Banners" "Chlesea Streaming"  Value: 20 
+LINK "Everton Banners" "Chlesea live score"  Value: 20 
+LINK "Everton Banners" "Man City Women"  Value: 200 
+LINK "Everton Banners" "Liverpool int"  Value: 20 
+LINK "Everton Banners" "Man U Team"  Value: 20 
+LINK "Everton Banners" "Man City affiliate"  Value: 20 
+LINK "Everton Banners" "Man City Art"  Value: 20 
+LINK "Everton Kids" "Everton Women"  Value: 180 
+LINK "Everton Kids" "Everton commercial"  Value: 3760 
+LINK "Everton Kids" "Everton contacts"  Value: 80 
+LINK "Everton Kids" "Everton fantasy sport"  Value: 180 
+LINK "Everton Kids" "Tottenham General links"  Value: 140 
+LINK "Everton Kids" "Everton streaming"  Value: 40 
+LINK "Everton Kids" "Liverpool fans site"   Value: 160 
+LINK "Everton Kids" "Liverpool blogs"  Value: 60 
+LINK "Everton Kids" "Liverpool forums"  Value: 20 
+LINK "Everton Kids" "Liverpool player sites"  Value: 260 
+LINK "Everton Kids" "Everton affiliate"  Value: 80 
+LINK "Everton Kids" "Everton supporters"  Value: 280 
+LINK "Everton Kids" "Everton Art"  Value: 100 
+LINK "Everton Kids" "Liverpool commercial"  Value: 20 
+LINK "Everton Kids" "Liverpool streaming"  Value: 120 
+LINK "Everton Kids" "Liverpool affiliate"  Value: 20 
+LINK "Everton Kids" "Liverpool supporers"  Value: 20 
+LINK "Everton Kids" "Liverpool live score"  Value: 20 
+LINK "Everton Kids" "Man City Streaming"  Value: 20 
+LINK "Everton Women" "Man U games"  Value: 20 
+LINK "Everton Women" "Everton commercial"  Value: 60 
+LINK "Everton Women" "Everton contacts"  Value: 80 
+LINK "Everton Women" "Everton fantasy sport"  Value: 660 
+LINK "Everton Women" "Tottenham General links"  Value: 80 
+LINK "Everton Women" "Everton streaming"  Value: 280 
+LINK "Everton Women" "Liverpool fans site"   Value: 100 
+LINK "Everton Women" "Liverpool blogs"  Value: 20 
+LINK "Everton Women" "Liverpool player sites"  Value: 140 
+LINK "Everton Women" "Everton affiliate"  Value: 100 
+LINK "Everton Women" "Everton supporters"  Value: 860 
+LINK "Everton Women" "Everton Art"  Value: 60 
+LINK "Everton Women" "Liverpool News"  Value: 20 
+LINK "Everton Women" "Tottenham community"  Value: 180 
+LINK "Everton Women" "Liverpool fantasy"  Value: 40 
+LINK "Everton Women" "Arsenal forums"  Value: 20 
+LINK "Everton Women" "Arsenal Community"  Value: 60 
+LINK "Everton Women" "Arsenal Kids"  Value: 20 
+LINK "Everton Women" "Liverpool Banners"  Value: 180 
+LINK "Everton Women" "Arsenal Supporters"  Value: 20 
+LINK "Everton Women" "Arsenal Live Score"  Value: 20 
+LINK "Everton Women" "Liverpool commercial"  Value: 20 
+LINK "Everton Women" "Liverpool fantasy sport"  Value: 180 
+LINK "Everton Women" "Liverpool streaming"  Value: 20 
+LINK "Everton Women" "Liverpool supporers"  Value: 20 
+LINK "Everton Women" "Liverpool Art"  Value: 40 
+LINK "Everton Women" "Man City Contacts"  Value: 40 
+LINK "Everton Women" "Man City affiliate"  Value: 20 
+LINK "Man City fans site" "Man City blogs"  Value: 300 
+LINK "Man City fans site" "Man City forums"  Value: 40 
+LINK "Man City fans site" "Man City Player sites"  Value: 60 
+LINK "Man City fans site" "Man City News"  Value: 340 
+LINK "Man City fans site" "Man City games"  Value: 40 
+LINK "Man City fans site" "Man City entertainment"  Value: 1100 
+LINK "Man City fans site" "Man City Clips"  Value: 500 
+LINK "Man City fans site" "Man City Banners"  Value: 180 
+LINK "Man City fans site" "Man City Kids"  Value: 20 
+LINK "Man City fans site" "Tottenham fans site"  Value: 20 
+LINK "Man City fans site" "Arsenal games"  Value: 20 
+LINK "Man City fans site" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man City fans site" "Tottenham entertainment"  Value: 20 
+LINK "Man City fans site" "Man City Women"  Value: 40 
+LINK "Man City fans site" "Man City Commercial"  Value: 100 
+LINK "Man City fans site" "Man City Contacts"  Value: 60 
+LINK "Man City fans site" "Man City fantasy sport"  Value: 20 
+LINK "Man City fans site" "Man City Streaming"  Value: 60 
+LINK "Man City fans site" "Man City Supporters"  Value: 60 
+LINK "Man City fans site" "Man City Art"  Value: 80 
+LINK "Man City fans site" "Man City Live score"  Value: 1100 
+LINK "Man City blogs" "Man City forums"  Value: 20 
+LINK "Man City blogs" "Man City General links"  Value: 20 
+LINK "Man City blogs" "Man City Player sites"  Value: 60 
+LINK "Man City blogs" "Man City Community"  Value: 20 
+LINK "Man City blogs" "Man City News"  Value: 80 
+LINK "Man City blogs" "Man City games"  Value: 80 
+LINK "Man City blogs" "Man City fantasy"  Value: 100 
+LINK "Man City blogs" "Man City entertainment"  Value: 20 
+LINK "Man City blogs" "Man City Clips"  Value: 280 
+LINK "Man City blogs" "Man City Banners"  Value: 160 
+LINK "Man City blogs" "Man City Kids"  Value: 20 
+LINK "Man City blogs" "Tottenham fans site"  Value: 40 
+LINK "Man City blogs" "Man U Player Site"  Value: 20 
+LINK "Man City blogs" "Man U Women"  Value: 20 
+LINK "Man City blogs" "Chlesea fans site" Value: 1180 
+LINK "Man City blogs" "Arsenal fans site"   Value: 760 
+LINK "Man City blogs" "Liverpool forums"  Value: 40 
+LINK "Man City blogs" "Liverpool General links"  Value: 20 
+LINK "Man City blogs" "Everton affiliate"  Value: 20 
+LINK "Man City blogs" "Chlesea entertainment"  Value: 100 
+LINK "Man City blogs" "Chlesea clips"  Value: 1660 
+LINK "Man City blogs" "Arsenal forums"  Value: 20 
+LINK "Man City blogs" "Arsenal News"  Value: 280 
+LINK "Man City blogs" "Arsenal Women"  Value: 20 
+LINK "Man City blogs" "Liverpool clips"  Value: 20 
+LINK "Man City blogs" "Liverpool supporers"  Value: 40 
+LINK "Man City blogs" "Tottenham entertainment"  Value: 420 
+LINK "Man City blogs" "Chlesea Contacts"  Value: 40 
+LINK "Man City blogs" "Chlesea Supporters"  Value: 20 
+LINK "Man City blogs" "Chlesea live score"  Value: 20 
+LINK "Man City blogs" "Chlesea Int"  Value: 60 
+LINK "Man City blogs" "Man City Women"  Value: 120 
+LINK "Man City blogs" "Man City Commercial"  Value: 20 
+LINK "Man City blogs" "Man City Contacts"  Value: 20 
+LINK "Man City blogs" "Liverpool int"  Value: 20 
+LINK "Man City blogs" "Man City fantasy sport"  Value: 120 
+LINK "Man City blogs" "Man City Streaming"  Value: 40 
+LINK "Man City blogs" "Man City affiliate"  Value: 40 
+LINK "Man City blogs" "Man City Art"  Value: 40 
+LINK "Man City blogs" "Man City Live score"  Value: 800 
+LINK "Man City forums" "Man City Player sites"  Value: 120 
+LINK "Man City forums" "Man City Community"  Value: 4980 
+LINK "Man City forums" "Man City games"  Value: 200 
+LINK "Man City forums" "Man City fantasy"  Value: 160 
+LINK "Man City forums" "Man City Clips"  Value: 60 
+LINK "Man City forums" "Man City Banners"  Value: 140 
+LINK "Man City forums" "Man City Kids"  Value: 400 
+LINK "Man City forums" "Chlesea News"  Value: 20 
+LINK "Man City forums" "Liverpool games"  Value: 160 
+LINK "Man City forums" "Chlesea clips"  Value: 20 
+LINK "Man City forums" "Liverpool entertainment"  Value: 60 
+LINK "Man City forums" "Liverpool contacts"  Value: 420 
+LINK "Man City forums" "Liverpool Art"  Value: 20 
+LINK "Man City forums" "Tottenham entertainment"  Value: 60 
+LINK "Man City forums" "Man City Women"  Value: 380 
+LINK "Man City forums" "Man City Commercial"  Value: 3460 
+LINK "Man City forums" "Man City fantasy sport"  Value: 40 
+LINK "Man City forums" "Man City Streaming"  Value: 100 
+LINK "Man City forums" "Man City affiliate"  Value: 20 
+LINK "Man City forums" "Man City Art"  Value: 80 
+LINK "Man City forums" "Man City Live score"  Value: 40 
+LINK "Man City General links" "Man City Community"  Value: 340 
+LINK "Man City General links" "Man City News"  Value: 40 
+LINK "Man City General links" "Man City fantasy"  Value: 20 
+LINK "Man City General links" "Man City Clips"  Value: 60 
+LINK "Man City General links" "Man City Kids"  Value: 20 
+LINK "Man City General links" "Arsenal Kids"  Value: 20 
+LINK "Man City General links" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man City General links" "Tottenham entertainment"  Value: 100 
+LINK "Man City General links" "Man City Women"  Value: 60 
+LINK "Man City General links" "Man City Commercial"  Value: 480 
+LINK "Man City General links" "Man City Contacts"  Value: 40 
+LINK "Man City General links" "Man City fantasy sport"  Value: 100 
+LINK "Man City General links" "Man City Streaming"  Value: 20 
+LINK "Man City General links" "Man City affiliate"  Value: 20 
+LINK "Man City General links" "Man City Supporters"  Value: 1520 
+LINK "Man City General links" "Man City Art"  Value: 20 
+LINK "Man City Player sites" "Man City Community"  Value: 120 
+LINK "Man City Player sites" "Man City News"  Value: 40 
+LINK "Man City Player sites" "Man City games"  Value: 160 
+LINK "Man City Player sites" "Man City fantasy"  Value: 4040 
+LINK "Man City Player sites" "Man City entertainment"  Value: 20 
+LINK "Man City Player sites" "Man City Clips"  Value: 40 
+LINK "Man City Player sites" "Man City Banners"  Value: 140 
+LINK "Man City Player sites" "Man City Kids"  Value: 420 
+LINK "Man City Player sites" "Tottenham fans site"  Value: 20 
+LINK "Man City Player sites" "Man U Player Site"  Value: 20 
+LINK "Man City Player sites" "Man U Community"  Value: 80 
+LINK "Man City Player sites" "Man U games"  Value: 300 
+LINK "Man City Player sites" "Man U Entertainment"  Value: 20 
+LINK "Man City Player sites" "Man U Contacts"  Value: 20 
+LINK "Man City Player sites" "Man U affiliate"  Value: 40 
+LINK "Man City Player sites" "Man U Supporters"  Value: 1460 
+LINK "Man City Player sites" "Everton contacts"  Value: 20 
+LINK "Man City Player sites" "Chlesea fans site" Value: 20 
+LINK "Man City Player sites" "Chlesea blogs"  Value: 80 
+LINK "Man City Player sites" "Everton fantasy sport"  Value: 20 
+LINK "Man City Player sites" "Chlesea General links"  Value: 720 
+LINK "Man City Player sites" "Chlesea player site"  Value: 120 
+LINK "Man City Player sites" "Everton streaming"  Value: 20 
+LINK "Man City Player sites" "Liverpool fans site"   Value: 120 
+LINK "Man City Player sites" "Liverpool player sites"  Value: 100 
+LINK "Man City Player sites" "Chlesea games"  Value: 140 
+LINK "Man City Player sites" "Everton Art"  Value: 80 
+LINK "Man City Player sites" "Chlesea entertainment"  Value: 20 
+LINK "Man City Player sites" "Liverpool fantasy"  Value: 120 
+LINK "Man City Player sites" "Arsenal blogs"   Value: 160 
+LINK "Man City Player sites" "Arsenal forums"  Value: 40 
+LINK "Man City Player sites" "Arsenal games"  Value: 40 
+LINK "Man City Player sites" "Arsenal fantasy"  Value: 1520 
+LINK "Man City Player sites" "Arsenal Banners"  Value: 40 
+LINK "Man City Player sites" "Arsenal fantasy Sport"  Value: 60 
+LINK "Man City Player sites" "Arsenal Streaming"  Value: 60 
+LINK "Man City Player sites" "Arsenal Supporters"  Value: 20 
+LINK "Man City Player sites" "Liverpool Kids"  Value: 40 
+LINK "Man City Player sites" "Liverpool streaming"  Value: 140 
+LINK "Man City Player sites" "Liverpool supporers"  Value: 480 
+LINK "Man City Player sites" "Chlesea Banners"  Value: 60 
+LINK "Man City Player sites" "Tottenham entertainment"  Value: 300 
+LINK "Man City Player sites" "Chlesea Women"  Value: 2020 
+LINK "Man City Player sites" "Chlesea Contacts"  Value: 20 
+LINK "Man City Player sites" "Chlesea live score"  Value: 20 
+LINK "Man City Player sites" "Chlesea Int"  Value: 120 
+LINK "Man City Player sites" "Man City Women"  Value: 740 
+LINK "Man City Player sites" "Man City Commercial"  Value: 80 
+LINK "Man City Player sites" "Man City Contacts"  Value: 920 
+LINK "Man City Player sites" "Man City fantasy sport"  Value: 560 
+LINK "Man City Player sites" "Man U Team"  Value: 40 
+LINK "Man City Player sites" "Man City Streaming"  Value: 320 
+LINK "Man City Player sites" "Man City affiliate"  Value: 1520 
+LINK "Man City Player sites" "Man City Supporters"  Value: 20 
+LINK "Man City Player sites" "Man City Art"  Value: 20 
+LINK "Man City Player sites" "Man City Live score"  Value: 80 
+LINK "Man City Community" "Man City Clips"  Value: 20 
+LINK "Man City Community" "Man City Banners"  Value: 160 
+LINK "Man City Community" "Man City Kids"  Value: 20 
+LINK "Man City Community" "Arsenal fans site"   Value: 40 
+LINK "Man City Community" "Liverpool News"  Value: 20 
+LINK "Man City Community" "Tottenham entertainment"  Value: 40 
+LINK "Man City Community" "Man City Women"  Value: 20 
+LINK "Man City Community" "Man City Commercial"  Value: 480 
+LINK "Man City Community" "Man City Contacts"  Value: 40 
+LINK "Man City Community" "Man City fantasy sport"  Value: 120 
+LINK "Man City Community" "Man City Streaming"  Value: 40 
+LINK "Man City Community" "Man City affiliate"  Value: 20 
+LINK "Man City Community" "Man City Supporters"  Value: 180 
+LINK "Man City Community" "Man City Live score"  Value: 20 
+LINK "Man City News" "Man City games"  Value: 60 
+LINK "Man City News" "Man City fantasy"  Value: 20 
+LINK "Man City News" "Man City entertainment"  Value: 4300 
+LINK "Man City News" "Man City Clips"  Value: 20 
+LINK "Man City News" "Man City Kids"  Value: 20 
+LINK "Man City News" "Liverpool player sites"  Value: 20 
+LINK "Man City News" "Everton affiliate"  Value: 20 
+LINK "Man City News" "Liverpool entertainment"  Value: 20 
+LINK "Man City News" "Arsenal Banners"  Value: 20 
+LINK "Man City News" "Arsenal Commercial"  Value: 40 
+LINK "Man City News" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man City News" "Tottenham entertainment"  Value: 220 
+LINK "Man City News" "Man City Women"  Value: 60 
+LINK "Man City News" "Man City Commercial"  Value: 340 
+LINK "Man City News" "Man City Contacts"  Value: 20 
+LINK "Man City News" "Man City fantasy sport"  Value: 420 
+LINK "Man City News" "Man City Streaming"  Value: 40 
+LINK "Man City News" "Man City affiliate"  Value: 120 
+LINK "Man City News" "Man City Supporters"  Value: 60 
+LINK "Man City News" "Man City Art"  Value: 180 
+LINK "Man City News" "Man City Live score"  Value: 20 
+LINK "Man City games" "Man City fantasy"  Value: 2060 
+LINK "Man City games" "Man City entertainment"  Value: 120 
+LINK "Man City games" "Man City Banners"  Value: 620 
+LINK "Man City games" "Man City Kids"  Value: 240 
+LINK "Man City games" "Man U Community"  Value: 20 
+LINK "Man City games" "Man U games"  Value: 20 
+LINK "Man City games" "Man U Women"  Value: 20 
+LINK "Man City games" "Man U Contacts"  Value: 20 
+LINK "Man City games" "Man U Streaming"  Value: 100 
+LINK "Man City games" "Man U affiliate"  Value: 20 
+LINK "Man City games" "Chlesea blogs"  Value: 100 
+LINK "Man City games" "Chlesea General links"  Value: 40 
+LINK "Man City games" "Chlesea player site"  Value: 60 
+LINK "Man City games" "Liverpool forums"  Value: 20 
+LINK "Man City games" "Liverpool General links"  Value: 40 
+LINK "Man City games" "Chlesea games"  Value: 100 
+LINK "Man City games" "Liverpool community"  Value: 20 
+LINK "Man City games" "Liverpool games"  Value: 20 
+LINK "Man City games" "Chlesea entertainment"  Value: 40 
+LINK "Man City games" "Arsenal forums"  Value: 20 
+LINK "Man City games" "Arsenal Community"  Value: 60 
+LINK "Man City games" "Liverpool entertainment"  Value: 60 
+LINK "Man City games" "Arsenal News"  Value: 20 
+LINK "Man City games" "Arsenal fantasy"  Value: 20 
+LINK "Man City games" "Arsenal Banners"  Value: 40 
+LINK "Man City games" "Arsenal Women"  Value: 20 
+LINK "Man City games" "Arsenal Contactsl"  Value: 40 
+LINK "Man City games" "Arsenal affiliate"  Value: 20 
+LINK "Man City games" "Liverpool Kids"  Value: 80 
+LINK "Man City games" "Arsenal Art"  Value: 20 
+LINK "Man City games" "Liverpool contacts"  Value: 80 
+LINK "Man City games" "Liverpool streaming"  Value: 20 
+LINK "Man City games" "Liverpool supporers"  Value: 20 
+LINK "Man City games" "Chlesea Banners"  Value: 1100 
+LINK "Man City games" "Tottenham entertainment"  Value: 340 
+LINK "Man City games" "Chlesea Contacts"  Value: 1480 
+LINK "Man City games" "Chlesea live score"  Value: 480 
+LINK "Man City games" "Chlesea Int"  Value: 40 
+LINK "Man City games" "Man City Women"  Value: 2520 
+LINK "Man City games" "Man City Commercial"  Value: 40 
+LINK "Man City games" "Man City Contacts"  Value: 80 
+LINK "Man City games" "Liverpool int"  Value: 60 
+LINK "Man City games" "Man City fantasy sport"  Value: 1080 
+LINK "Man City games" "Man City Streaming"  Value: 120 
+LINK "Man City games" "Man City affiliate"  Value: 200 
+LINK "Man City games" "Man City Art"  Value: 360 
+LINK "Man City games" "Man City Live score"  Value: 20 
+LINK "Man City fantasy" "Man City Clips"  Value: 540 
+LINK "Man City fantasy" "Man City Banners"  Value: 20 
+LINK "Man City fantasy" "Man City Kids"  Value: 60 
+LINK "Man City fantasy" "Tottenham fans site"  Value: 20 
+LINK "Man City fantasy" "Man U Player Site"  Value: 120 
+LINK "Man City fantasy" "Man U games"  Value: 140 
+LINK "Man City fantasy" "Man U fantasy"  Value: 60 
+LINK "Man City fantasy" "Man U Entertainment"  Value: 20 
+LINK "Man City fantasy" "Man U Women"  Value: 120 
+LINK "Man City fantasy" "Man U Contacts"  Value: 20 
+LINK "Man City fantasy" "Man U Fantacy Sport"  Value: 20 
+LINK "Man City fantasy" "Man U affiliate"  Value: 20 
+LINK "Man City fantasy" "Man U Supporters"  Value: 20 
+LINK "Man City fantasy" "Everton contacts"  Value: 20 
+LINK "Man City fantasy" "Chlesea blogs"  Value: 300 
+LINK "Man City fantasy" "Chlesea General links"  Value: 260 
+LINK "Man City fantasy" "Chlesea player site"  Value: 100 
+LINK "Man City fantasy" "Arsenal fans site"   Value: 60 
+LINK "Man City fantasy" "Liverpool fans site"   Value: 140 
+LINK "Man City fantasy" "Liverpool forums"  Value: 80 
+LINK "Man City fantasy" "Liverpool General links"  Value: 600 
+LINK "Man City fantasy" "Liverpool player sites"  Value: 80 
+LINK "Man City fantasy" "Chlesea games"  Value: 20 
+LINK "Man City fantasy" "Everton Art"  Value: 20 
+LINK "Man City fantasy" "Chlesea entertainment"  Value: 40 
+LINK "Man City fantasy" "Liverpool fantasy"  Value: 60 
+LINK "Man City fantasy" "Arsenal blogs"   Value: 100 
+LINK "Man City fantasy" "Arsenal forums"  Value: 60 
+LINK "Man City fantasy" "Arsenal Player Sites"  Value: 20 
+LINK "Man City fantasy" "Arsenal Community"  Value: 40 
+LINK "Man City fantasy" "Man U Art"  Value: 100 
+LINK "Man City fantasy" "Arsenal fantasy"  Value: 40 
+LINK "Man City fantasy" "Arsenal Banners"  Value: 680 
+LINK "Man City fantasy" "Arsenal Streaming"  Value: 40 
+LINK "Man City fantasy" "Arsenal affiliate"  Value: 40 
+LINK "Man City fantasy" "Liverpool Kids"  Value: 140 
+LINK "Man City fantasy" "Liverpool contacts"  Value: 20 
+LINK "Man City fantasy" "Liverpool streaming"  Value: 120 
+LINK "Man City fantasy" "Liverpool supporers"  Value: 40 
+LINK "Man City fantasy" "Chlesea Banners"  Value: 240 
+LINK "Man City fantasy" "Tottenham entertainment"  Value: 260 
+LINK "Man City fantasy" "Chlesea Women"  Value: 40 
+LINK "Man City fantasy" "Chlesea live score"  Value: 40 
+LINK "Man City fantasy" "Chlesea Int"  Value: 480 
+LINK "Man City fantasy" "Man City Women"  Value: 1060 
+LINK "Man City fantasy" "Man City Commercial"  Value: 80 
+LINK "Man City fantasy" "Man City Contacts"  Value: 120 
+LINK "Man City fantasy" "Liverpool int"  Value: 1140 
+LINK "Man City fantasy" "Man City fantasy sport"  Value: 460 
+LINK "Man City fantasy" "Man U Team"  Value: 40 
+LINK "Man City fantasy" "Man City affiliate"  Value: 680 
+LINK "Man City fantasy" "Man City Live score"  Value: 60 
+LINK "Man City entertainment" "Man City Banners"  Value: 20 
+LINK "Man City entertainment" "Man U Entertainment"  Value: 20 
+LINK "Man City entertainment" "Everton affiliate"  Value: 40 
+LINK "Man City entertainment" "Arsenal forums"  Value: 20 
+LINK "Man City entertainment" "Arsenal Banners"  Value: 20 
+LINK "Man City entertainment" "Liverpool commercial"  Value: 20 
+LINK "Man City entertainment" "Tottenham entertainment"  Value: 180 
+LINK "Man City entertainment" "Chlesea Women"  Value: 20 
+LINK "Man City entertainment" "Man City Women"  Value: 120 
+LINK "Man City entertainment" "Man City Commercial"  Value: 60 
+LINK "Man City entertainment" "Man City Contacts"  Value: 40 
+LINK "Man City entertainment" "Man City fantasy sport"  Value: 40 
+LINK "Man City entertainment" "Man City affiliate"  Value: 80 
+LINK "Man City entertainment" "Man City Supporters"  Value: 20 
+LINK "Man City entertainment" "Man City Art"  Value: 440 
+LINK "Man City entertainment" "Man City Live score"  Value: 20 
+LINK "Man City Clips" "Man City Banners"  Value: 1080 
+LINK "Man City Clips" "Tottenham fans site"  Value: 900 
+LINK "Man City Clips" "Everton affiliate"  Value: 40 
+LINK "Man City Clips" "Liverpool Banners"  Value: 20 
+LINK "Man City Clips" "Tottenham entertainment"  Value: 200 
+LINK "Man City Clips" "Man City Contacts"  Value: 40 
+LINK "Man City Clips" "Man City fantasy sport"  Value: 120 
+LINK "Man City Clips" "Man City Streaming"  Value: 80 
+LINK "Man City Clips" "Man City Art"  Value: 40 
+LINK "Man City Clips" "Man City Live score"  Value: 380 
+LINK "Man City Banners" "Man City Kids"  Value: 20 
+LINK "Man City Banners" "Tottenham fans site"  Value: 160 
+LINK "Man City Banners" "Man U Community"  Value: 20 
+LINK "Man City Banners" "Man U games"  Value: 20 
+LINK "Man City Banners" "Man U fantasy"  Value: 20 
+LINK "Man City Banners" "Man U Entertainment"  Value: 20 
+LINK "Man City Banners" "Man U Streaming"  Value: 140 
+LINK "Man City Banners" "Man U affiliate"  Value: 20 
+LINK "Man City Banners" "Chlesea fans site" Value: 20 
+LINK "Man City Banners" "Chlesea General links"  Value: 20 
+LINK "Man City Banners" "Chlesea entertainment"  Value: 100 
+LINK "Man City Banners" "Chlesea clips"  Value: 20 
+LINK "Man City Banners" "Arsenal forums"  Value: 160 
+LINK "Man City Banners" "Arsenal Community"  Value: 40 
+LINK "Man City Banners" "Arsenal News"  Value: 20 
+LINK "Man City Banners" "Man U Art"  Value: 40 
+LINK "Man City Banners" "Arsenal games"  Value: 20 
+LINK "Man City Banners" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man City Banners" "Liverpool contacts"  Value: 20 
+LINK "Man City Banners" "Liverpool streaming"  Value: 20 
+LINK "Man City Banners" "Liverpool supporers"  Value: 20 
+LINK "Man City Banners" "Chlesea Banners"  Value: 600 
+LINK "Man City Banners" "Tottenham entertainment"  Value: 20 
+LINK "Man City Banners" "Chlesea Women"  Value: 20 
+LINK "Man City Banners" "Chlesea Contacts"  Value: 2660 
+LINK "Man City Banners" "Chlesea live score"  Value: 2780 
+LINK "Man City Banners" "Chlesea Int"  Value: 40 
+LINK "Man City Banners" "Man City Women"  Value: 20 
+LINK "Man City Banners" "Man City Contacts"  Value: 820 
+LINK "Man City Banners" "Man U Int"  Value: 20 
+LINK "Man City Banners" "Liverpool int"  Value: 40 
+LINK "Man City Banners" "Man City fantasy sport"  Value: 40 
+LINK "Man City Banners" "Man U Team"  Value: 40 
+LINK "Man City Banners" "Man City Streaming"  Value: 20 
+LINK "Man City Banners" "Man City affiliate"  Value: 20 
+LINK "Man City Banners" "Man U Music"  Value: 40 
+LINK "Man City Banners" "Man City Live score"  Value: 60 
+LINK "Man City Kids" "Tottenham fans site"  Value: 20 
+LINK "Man City Kids" "Man U Player Site"  Value: 20 
+LINK "Man City Kids" "Everton commercial"  Value: 20 
+LINK "Man City Kids" "Liverpool fantasy"  Value: 20 
+LINK "Man City Kids" "Arsenal blogs"   Value: 40 
+LINK "Man City Kids" "Arsenal News"  Value: 20 
+LINK "Man City Kids" "Arsenal fantasy"  Value: 20 
+LINK "Man City Kids" "Arsenal Streaming"  Value: 60 
+LINK "Man City Kids" "Arsenal Supporters"  Value: 20 
+LINK "Man City Kids" "Liverpool Art"  Value: 40 
+LINK "Man City Kids" "Chlesea Banners"  Value: 40 
+LINK "Man City Kids" "Tottenham entertainment"  Value: 200 
+LINK "Man City Kids" "Man City Women"  Value: 220 
+LINK "Man City Kids" "Man City Commercial"  Value: 800 
+LINK "Man City Kids" "Man City fantasy sport"  Value: 100 
+LINK "Man City Kids" "Man City Streaming"  Value: 20 
+LINK "Man City Kids" "Man City affiliate"  Value: 260 
+LINK "Man City Kids" "Man City Supporters"  Value: 20 
+LINK "Man City Kids" "Man City Live score"  Value: 40 
+LINK "Tottenham fans site" "Tottenham blogs"  Value: 20 
+LINK "Tottenham fans site" "Man U General links"  Value: 20 
+LINK "Tottenham fans site" "Man U Women"  Value: 40 
+LINK "Tottenham fans site" "Man U Contacts"  Value: 20 
+LINK "Tottenham fans site" "Man U Fantacy Sport"  Value: 20 
+LINK "Tottenham fans site" "Chlesea fans site" Value: 140 
+LINK "Tottenham fans site" "Chlesea blogs"  Value: 140 
+LINK "Tottenham fans site" "Chlesea forums"  Value: 360 
+LINK "Tottenham fans site" "Chlesea General links"  Value: 200 
+LINK "Tottenham fans site" "Tottenham General links"  Value: 20 
+LINK "Tottenham fans site" "Chlesea player site"  Value: 80 
+LINK "Tottenham fans site" "Chlesea community"  Value: 140 
+LINK "Tottenham fans site" "Chlesea News"  Value: 480 
+LINK "Tottenham fans site" "Chlesea games"  Value: 140 
+LINK "Tottenham fans site" "Chlesea fantasy"  Value: 120 
+LINK "Tottenham fans site" "Chlesea entertainment"  Value: 140 
+LINK "Tottenham fans site" "Chlesea clips"  Value: 160 
+LINK "Tottenham fans site" "Tottenham games"  Value: 20 
+LINK "Tottenham fans site" "Chlesea Banners"  Value: 360 
+LINK "Tottenham fans site" "Tottenham entertainment"  Value: 20 
+LINK "Tottenham fans site" "Chlesea Women"  Value: 160 
+LINK "Tottenham fans site" "Chlesea Commercial"  Value: 60 
+LINK "Tottenham fans site" "Chlesea Contacts"  Value: 120 
+LINK "Tottenham fans site" "Chlesea fantasy sport"  Value: 140 
+LINK "Tottenham fans site" "Chlesea Streaming"  Value: 180 
+LINK "Tottenham fans site" "Chlesea affiliate"  Value: 100 
+LINK "Tottenham fans site" "Chlesea Supporters"  Value: 280 
+LINK "Tottenham fans site" "Chlesea Art"  Value: 280 
+LINK "Tottenham fans site" "Chlesea live score"  Value: 120 
+LINK "Tottenham fans site" "Chlesea Int"  Value: 280 
+LINK "Tottenham fans site" "Chlesea Team"  Value: 120 
+LINK "Tottenham fans site" "Chlesea Music"  Value: 300 
+LINK "Tottenham fans site" "Man City Commercial"  Value: 20 
+LINK "Tottenham fans site" "Man City Contacts"  Value: 460 
+LINK "Tottenham fans site" "Man City Art"  Value: 20 
+LINK "Tottenham fans site" "Man U Music"  Value: 20 
+LINK "Tottenham fans site" "Man City Live score"  Value: 300 
+LINK "Tottenham blogs" "Man U Player Site"  Value: 20 
+LINK "Tottenham blogs" "Tottenham forums"  Value: 100 
+LINK "Tottenham blogs" "Tottenham player sites"  Value: 20 
+LINK "Tottenham blogs" "Tottenham News"  Value: 100 
+LINK "Tottenham blogs" "Arsenal Streaming"  Value: 20 
+LINK "Tottenham blogs" "Tottenham games"  Value: 40 
+LINK "Tottenham blogs" "Tottenham Clips"  Value: 60 
+LINK "Man U fans site" "Man U blogs"  Value: 260 
+LINK "Man U fans site" "Man U forums"  Value: 160 
+LINK "Man U fans site" "Man U General links"  Value: 20 
+LINK "Man U fans site" "Man U Player Site"  Value: 80 
+LINK "Man U fans site" "Man U Community"  Value: 80 
+LINK "Man U fans site" "Man U News"  Value: 700 
+LINK "Man U fans site" "Man U games"  Value: 500 
+LINK "Man U fans site" "Man U fantasy"  Value: 1060 
+LINK "Man U fans site" "Man U Entertainment"  Value: 3000 
+LINK "Man U fans site" "Man U Clips"  Value: 220 
+LINK "Man U fans site" "Man U Banners"  Value: 120 
+LINK "Man U fans site" "Man U Kids"  Value: 120 
+LINK "Man U fans site" "Man U Women"  Value: 40 
+LINK "Man U fans site" "Man U Commercial"  Value: 20 
+LINK "Man U fans site" "Man U Contacts"  Value: 60 
+LINK "Man U fans site" "Man U Fantacy Sport"  Value: 40 
+LINK "Man U fans site" "Man U Streaming"  Value: 120 
+LINK "Man U fans site" "Man U affiliate"  Value: 340 
+LINK "Man U fans site" "Man U Supporters"  Value: 340 
+LINK "Man U fans site" "Chlesea General links"  Value: 20 
+LINK "Man U fans site" "Chlesea games"  Value: 20 
+LINK "Man U fans site" "Chlesea entertainment"  Value: 20 
+LINK "Man U fans site" "Tottenham player sites"  Value: 60 
+LINK "Man U fans site" "Man U Art"  Value: 900 
+LINK "Man U fans site" "Man U Live Score"  Value: 120 
+LINK "Man U fans site" "Liverpool affiliate"  Value: 20 
+LINK "Man U fans site" "Chlesea Banners"  Value: 20 
+LINK "Man U fans site" "Chlesea Women"  Value: 20 
+LINK "Man U fans site" "Chlesea fantasy sport"  Value: 20 
+LINK "Man U fans site" "Man U Int"  Value: 1040 
+LINK "Man U fans site" "Man U Team"  Value: 120 
+LINK "Man U fans site" "Man U Music"  Value: 240 
+LINK "Man U blogs" "Man U forums"  Value: 460 
+LINK "Man U blogs" "Man U General links"  Value: 320 
+LINK "Man U blogs" "Man U Player Site"  Value: 80 
+LINK "Man U blogs" "Man U Community"  Value: 480 
+LINK "Man U blogs" "Man U News"  Value: 180 
+LINK "Man U blogs" "Man U games"  Value: 1260 
+LINK "Man U blogs" "Man U fantasy"  Value: 40 
+LINK "Man U blogs" "Man U Entertainment"  Value: 200 
+LINK "Man U blogs" "Man U Clips"  Value: 400 
+LINK "Man U blogs" "Man U Banners"  Value: 60 
+LINK "Man U blogs" "Man U Kids"  Value: 3720 
+LINK "Man U blogs" "Man U Women"  Value: 480 
+LINK "Man U blogs" "Man U Commercial"  Value: 460 
+LINK "Man U blogs" "Man U Contacts"  Value: 300 
+LINK "Man U blogs" "Man U Fantacy Sport"  Value: 1460 
+LINK "Man U blogs" "Man U Streaming"  Value: 840 
+LINK "Man U blogs" "Man U affiliate"  Value: 300 
+LINK "Man U blogs" "Man U Supporters"  Value: 120 
+LINK "Man U blogs" "Chlesea blogs"  Value: 20 
+LINK "Man U blogs" "Tottenham player sites"  Value: 400 
+LINK "Man U blogs" "Man U Art"  Value: 60 
+LINK "Man U blogs" "Man U Live Score"  Value: 520 
+LINK "Man U blogs" "Man U Int"  Value: 520 
+LINK "Man U blogs" "Man U Team"  Value: 140 
+LINK "Man U blogs" "Man U Music"  Value: 260 
+LINK "Man U forums" "Man U General links"  Value: 120 
+LINK "Man U forums" "Man U Player Site"  Value: 3980 
+LINK "Man U forums" "Man U Community"  Value: 160 
+LINK "Man U forums" "Man U News"  Value: 300 
+LINK "Man U forums" "Man U games"  Value: 160 
+LINK "Man U forums" "Man U fantasy"  Value: 180 
+LINK "Man U forums" "Man U Entertainment"  Value: 200 
+LINK "Man U forums" "Man U Clips"  Value: 840 
+LINK "Man U forums" "Man U Banners"  Value: 120 
+LINK "Man U forums" "Man U Kids"  Value: 60 
+LINK "Man U forums" "Man U Women"  Value: 920 
+LINK "Man U forums" "Everton commercial"  Value: 20 
+LINK "Man U forums" "Man U Commercial"  Value: 60 
+LINK "Man U forums" "Man U Contacts"  Value: 180 
+LINK "Man U forums" "Man U Fantacy Sport"  Value: 440 
+LINK "Man U forums" "Man U Streaming"  Value: 200 
+LINK "Man U forums" "Man U affiliate"  Value: 240 
+LINK "Man U forums" "Man U Supporters"  Value: 6000 
+LINK "Man U forums" "Chlesea fans site" Value: 20 
+LINK "Man U forums" "Chlesea games"  Value: 20 
+LINK "Man U forums" "Chlesea entertainment"  Value: 80 
+LINK "Man U forums" "Tottenham player sites"  Value: 1420 
+LINK "Man U forums" "Man U Art"  Value: 420 
+LINK "Man U forums" "Man U Live Score"  Value: 1140 
+LINK "Man U forums" "Chlesea Banners"  Value: 20 
+LINK "Man U forums" "Chlesea Kids"  Value: 20 
+LINK "Man U forums" "Chlesea affiliate"  Value: 20 
+LINK "Man U forums" "Chlesea Art"  Value: 20 
+LINK "Man U forums" "Chlesea Music"  Value: 20 
+LINK "Man U forums" "Man U Int"  Value: 560 
+LINK "Man U forums" "Man U Team"  Value: 120 
+LINK "Man U forums" "Man U Music"  Value: 1280 
+LINK "Man U General links" "Man U Player Site"  Value: 100 
+LINK "Man U General links" "Man U Community"  Value: 680 
+LINK "Man U General links" "Man U News"  Value: 220 
+LINK "Man U General links" "Man U games"  Value: 60 
+LINK "Man U General links" "Man U fantasy"  Value: 120 
+LINK "Man U General links" "Man U Entertainment"  Value: 1280 
+LINK "Man U General links" "Man U Clips"  Value: 440 
+LINK "Man U General links" "Man U Banners"  Value: 60 
+LINK "Man U General links" "Man U Kids"  Value: 540 
+LINK "Man U General links" "Man U Women"  Value: 180 
+LINK "Man U General links" "Man U Commercial"  Value: 120 
+LINK "Man U General links" "Man U Contacts"  Value: 2000 
+LINK "Man U General links" "Man U Fantacy Sport"  Value: 120 
+LINK "Man U General links" "Man U Streaming"  Value: 180 
+LINK "Man U General links" "Man U affiliate"  Value: 460 
+LINK "Man U General links" "Man U Supporters"  Value: 200 
+LINK "Man U General links" "Tottenham player sites"  Value: 980 
+LINK "Man U General links" "Man U Art"  Value: 600 
+LINK "Man U General links" "Man U Live Score"  Value: 580 
+LINK "Man U General links" "Chlesea Kids"  Value: 20 
+LINK "Man U General links" "Chlesea Art"  Value: 20 
+LINK "Man U General links" "Man U Int"  Value: 560 
+LINK "Man U General links" "Man U Team"  Value: 220 
+LINK "Man U General links" "Man U Music"  Value: 20 
+LINK "Man U Player Site" "Man U Community"  Value: 420 
+LINK "Man U Player Site" "Man U News"  Value: 20 
+LINK "Man U Player Site" "Man U games"  Value: 180 
+LINK "Man U Player Site" "Man U fantasy"  Value: 180 
+LINK "Man U Player Site" "Man U Entertainment"  Value: 1160 
+LINK "Man U Player Site" "Man U Clips"  Value: 60 
+LINK "Man U Player Site" "Man U Banners"  Value: 220 
+LINK "Man U Player Site" "Man U Kids"  Value: 60 
+LINK "Man U Player Site" "Man U Women"  Value: 120 
+LINK "Man U Player Site" "Everton commercial"  Value: 20 
+LINK "Man U Player Site" "Man U Commercial"  Value: 40 
+LINK "Man U Player Site" "Man U Contacts"  Value: 120 
+LINK "Man U Player Site" "Man U Fantacy Sport"  Value: 140 
+LINK "Man U Player Site" "Man U Streaming"  Value: 120 
+LINK "Man U Player Site" "Man U affiliate"  Value: 620 
+LINK "Man U Player Site" "Man U Supporters"  Value: 860 
+LINK "Man U Player Site" "Chlesea blogs"  Value: 1540 
+LINK "Man U Player Site" "Chlesea General links"  Value: 40 
+LINK "Man U Player Site" "Arsenal fans site"   Value: 20 
+LINK "Man U Player Site" "Liverpool fans site"   Value: 20 
+LINK "Man U Player Site" "Everton supporters"  Value: 60 
+LINK "Man U Player Site" "Chlesea games"  Value: 20 
+LINK "Man U Player Site" "Chlesea entertainment"  Value: 40 
+LINK "Man U Player Site" "Tottenham player sites"  Value: 920 
+LINK "Man U Player Site" "Arsenal blogs"   Value: 80 
+LINK "Man U Player Site" "Arsenal forums"  Value: 40 
+LINK "Man U Player Site" "Arsenal Community"  Value: 20 
+LINK "Man U Player Site" "Arsenal News"  Value: 260 
+LINK "Man U Player Site" "Man U Art"  Value: 160 
+LINK "Man U Player Site" "Arsenal games"  Value: 160 
+LINK "Man U Player Site" "Arsenal fantasy"  Value: 80 
+LINK "Man U Player Site" "Arsenal entertainment"  Value: 60 
+LINK "Man U Player Site" "Arsenal Banners"  Value: 80 
+LINK "Man U Player Site" "Arsenal Women"  Value: 160 
+LINK "Man U Player Site" "Man U Live Score"  Value: 800 
+LINK "Man U Player Site" "Liverpool clips"  Value: 40 
+LINK "Man U Player Site" "Arsenal fantasy Sport"  Value: 60 
+LINK "Man U Player Site" "Arsenal Supporters"  Value: 280 
+LINK "Man U Player Site" "Liverpool fantasy sport"  Value: 20 
+LINK "Man U Player Site" "Liverpool supporers"  Value: 20 
+LINK "Man U Player Site" "Liverpool Art"  Value: 40 
+LINK "Man U Player Site" "Chlesea Banners"  Value: 20 
+LINK "Man U Player Site" "Chlesea Kids"  Value: 20 
+LINK "Man U Player Site" "Chlesea Women"  Value: 40 
+LINK "Man U Player Site" "Liverpool live score"  Value: 20 
+LINK "Man U Player Site" "Chlesea Streaming"  Value: 20 
+LINK "Man U Player Site" "Chlesea affiliate"  Value: 20 
+LINK "Man U Player Site" "Chlesea Art"  Value: 180 
+LINK "Man U Player Site" "Chlesea Int"  Value: 460 
+LINK "Man U Player Site" "Man City Women"  Value: 40 
+LINK "Man U Player Site" "Man U Int"  Value: 140 
+LINK "Man U Player Site" "Liverpool int"  Value: 40 
+LINK "Man U Player Site" "Man U Team"  Value: 2380 
+LINK "Man U Player Site" "Man U Music"  Value: 2240 
+LINK "Man U Community" "Man U News"  Value: 280 
+LINK "Man U Community" "Man U games"  Value: 340 
+LINK "Man U Community" "Man U fantasy"  Value: 400 
+LINK "Man U Community" "Man U Entertainment"  Value: 160 
+LINK "Man U Community" "Man U Clips"  Value: 80 
+LINK "Man U Community" "Man U Banners"  Value: 140 
+LINK "Man U Community" "Man U Kids"  Value: 280 
+LINK "Man U Community" "Man U Women"  Value: 120 
+LINK "Man U Community" "Man U Commercial"  Value: 160 
+LINK "Man U Community" "Man U Contacts"  Value: 880 
+LINK "Man U Community" "Man U Fantacy Sport"  Value: 4440 
+LINK "Man U Community" "Man U Streaming"  Value: 460 
+LINK "Man U Community" "Man U affiliate"  Value: 340 
+LINK "Man U Community" "Man U Supporters"  Value: 220 
+LINK "Man U Community" "Chlesea fans site" Value: 60 
+LINK "Man U Community" "Liverpool fans site"   Value: 100 
+LINK "Man U Community" "Liverpool forums"  Value: 20 
+LINK "Man U Community" "Liverpool player sites"  Value: 100 
+LINK "Man U Community" "Everton affiliate"  Value: 20 
+LINK "Man U Community" "Chlesea fantasy"  Value: 20 
+LINK "Man U Community" "Chlesea entertainment"  Value: 80 
+LINK "Man U Community" "Tottenham player sites"  Value: 580 
+LINK "Man U Community" "Chlesea clips"  Value: 20 
+LINK "Man U Community" "Arsenal blogs"   Value: 20 
+LINK "Man U Community" "Arsenal forums"  Value: 760 
+LINK "Man U Community" "Arsenal Community"  Value: 20 
+LINK "Man U Community" "Man U Art"  Value: 1500 
+LINK "Man U Community" "Arsenal games"  Value: 40 
+LINK "Man U Community" "Arsenal fantasy"  Value: 180 
+LINK "Man U Community" "Arsenal entertainment"  Value: 80 
+LINK "Man U Community" "Arsenal Banners"  Value: 220 
+LINK "Man U Community" "Arsenal Women"  Value: 300 
+LINK "Man U Community" "Man U Live Score"  Value: 100 
+LINK "Man U Community" "Liverpool clips"  Value: 40 
+LINK "Man U Community" "Arsenal fantasy Sport"  Value: 60 
+LINK "Man U Community" "Arsenal Streaming"  Value: 80 
+LINK "Man U Community" "Arsenal affiliate"  Value: 20 
+LINK "Man U Community" "Arsenal Supporters"  Value: 80 
+LINK "Man U Community" "Arsenal Live Score"  Value: 20 
+LINK "Man U Community" "Liverpool contacts"  Value: 20 
+LINK "Man U Community" "Liverpool streaming"  Value: 80 
+LINK "Man U Community" "Chlesea Banners"  Value: 40 
+LINK "Man U Community" "Chlesea Women"  Value: 40 
+LINK "Man U Community" "Chlesea Contacts"  Value: 20 
+LINK "Man U Community" "Chlesea Art"  Value: 40 
+LINK "Man U Community" "Chlesea Int"  Value: 860 
+LINK "Man U Community" "Man U Int"  Value: 520 
+LINK "Man U Community" "Man City fantasy sport"  Value: 20 
+LINK "Man U Community" "Man U Team"  Value: 80 
+LINK "Man U Community" "Man City affiliate"  Value: 60 
+LINK "Man U Community" "Man U Music"  Value: 1420 
+LINK "Tottenham forums" "Everton fantasy sport"  Value: 20 
+LINK "Tottenham forums" "Everton affiliate"  Value: 40 
+LINK "Tottenham forums" "Tottenham player sites"  Value: 20 
+LINK "Tottenham forums" "Arsenal forums"  Value: 20 
+LINK "Tottenham forums" "Arsenal Community"  Value: 40 
+LINK "Tottenham forums" "Liverpool Kids"  Value: 20 
+LINK "Tottenham forums" "Tottenham games"  Value: 360 
+LINK "Tottenham forums" "Man City affiliate"  Value: 20 
+LINK "Man U News" "Man U games"  Value: 260 
+LINK "Man U News" "Man U fantasy"  Value: 560 
+LINK "Man U News" "Man U Entertainment"  Value: 580 
+LINK "Man U News" "Man U Clips"  Value: 220 
+LINK "Man U News" "Man U Banners"  Value: 40 
+LINK "Man U News" "Man U Kids"  Value: 60 
+LINK "Man U News" "Man U Women"  Value: 100 
+LINK "Man U News" "Man U Commercial"  Value: 40 
+LINK "Man U News" "Man U Contacts"  Value: 960 
+LINK "Man U News" "Man U Fantacy Sport"  Value: 60 
+LINK "Man U News" "Man U Streaming"  Value: 540 
+LINK "Man U News" "Man U affiliate"  Value: 160 
+LINK "Man U News" "Man U Supporters"  Value: 280 
+LINK "Man U News" "Chlesea blogs"  Value: 20 
+LINK "Man U News" "Chlesea General links"  Value: 20 
+LINK "Man U News" "Chlesea fantasy"  Value: 20 
+LINK "Man U News" "Liverpool games"  Value: 20 
+LINK "Man U News" "Chlesea entertainment"  Value: 20 
+LINK "Man U News" "Tottenham player sites"  Value: 240 
+LINK "Man U News" "Man U Art"  Value: 180 
+LINK "Man U News" "Man U Live Score"  Value: 20 
+LINK "Man U News" "Liverpool fantasy sport"  Value: 80 
+LINK "Man U News" "Chlesea Kids"  Value: 40 
+LINK "Man U News" "Chlesea Art"  Value: 20 
+LINK "Man U News" "Chlesea Music"  Value: 20 
+LINK "Man U News" "Man U Int"  Value: 280 
+LINK "Man U News" "Man U Team"  Value: 60 
+LINK "Man U News" "Man U Music"  Value: 420 
+LINK "Man U games" "Man U fantasy"  Value: 1320 
+LINK "Man U games" "Man U Entertainment"  Value: 400 
+LINK "Man U games" "Man U Clips"  Value: 80 
+LINK "Man U games" "Man U Banners"  Value: 160 
+LINK "Man U games" "Man U Kids"  Value: 1480 
+LINK "Man U games" "Man U Women"  Value: 220 
+LINK "Man U games" "Man U Commercial"  Value: 900 
+LINK "Man U games" "Man U Contacts"  Value: 500 
+LINK "Man U games" "Man U Fantacy Sport"  Value: 1980 
+LINK "Man U games" "Man U Streaming"  Value: 60 
+LINK "Man U games" "Man U affiliate"  Value: 180 
+LINK "Man U games" "Man U Supporters"  Value: 740 
+LINK "Man U games" "Chlesea General links"  Value: 280 
+LINK "Man U games" "Chlesea player site"  Value: 60 
+LINK "Man U games" "Arsenal fans site"   Value: 40 
+LINK "Man U games" "Liverpool fans site"   Value: 120 
+LINK "Man U games" "Liverpool forums"  Value: 20 
+LINK "Man U games" "Liverpool General links"  Value: 220 
+LINK "Man U games" "Liverpool player sites"  Value: 120 
+LINK "Man U games" "Everton supporters"  Value: 20 
+LINK "Man U games" "Chlesea games"  Value: 20 
+LINK "Man U games" "Chlesea entertainment"  Value: 200 
+LINK "Man U games" "Tottenham player sites"  Value: 320 
+LINK "Man U games" "Arsenal blogs"   Value: 40 
+LINK "Man U games" "Arsenal Community"  Value: 280 
+LINK "Man U games" "Arsenal News"  Value: 20 
+LINK "Man U games" "Man U Art"  Value: 300 
+LINK "Man U games" "Arsenal games"  Value: 60 
+LINK "Man U games" "Arsenal fantasy"  Value: 380 
+LINK "Man U games" "Arsenal Banners"  Value: 20 
+LINK "Man U games" "Arsenal Women"  Value: 80 
+LINK "Man U games" "Arsenal Contactsl"  Value: 60 
+LINK "Man U games" "Arsenal fantasy Sport"  Value: 40 
+LINK "Man U games" "Arsenal affiliate"  Value: 20 
+LINK "Man U games" "Arsenal Supporters"  Value: 340 
+LINK "Man U games" "Liverpool Kids"  Value: 20 
+LINK "Man U games" "Arsenal Art"  Value: 20 
+LINK "Man U games" "Liverpool streaming"  Value: 200 
+LINK "Man U games" "Liverpool supporers"  Value: 20 
+LINK "Man U games" "Chlesea Banners"  Value: 60 
+LINK "Man U games" "Chlesea Kids"  Value: 20 
+LINK "Man U games" "Chlesea Women"  Value: 20 
+LINK "Man U games" "Chlesea Contacts"  Value: 60 
+LINK "Man U games" "Chlesea live score"  Value: 60 
+LINK "Man U games" "Chlesea Int"  Value: 100 
+LINK "Man U games" "Chlesea Music"  Value: 20 
+LINK "Man U games" "Man City Women"  Value: 40 
+LINK "Man U games" "Man U Int"  Value: 540 
+LINK "Man U games" "Liverpool int"  Value: 20 
+LINK "Man U games" "Man City fantasy sport"  Value: 60 
+LINK "Man U games" "Man U Team"  Value: 280 
+LINK "Man U games" "Man City affiliate"  Value: 400 
+LINK "Man U games" "Man City Art"  Value: 20 
+LINK "Man U games" "Man U Music"  Value: 60 
+LINK "Man U fantasy" "Man U Entertainment"  Value: 780 
+LINK "Man U fantasy" "Man U Banners"  Value: 360 
+LINK "Man U fantasy" "Man U Kids"  Value: 60 
+LINK "Man U fantasy" "Man U Women"  Value: 900 
+LINK "Man U fantasy" "Man U Commercial"  Value: 200 
+LINK "Man U fantasy" "Man U Contacts"  Value: 160 
+LINK "Man U fantasy" "Man U Fantacy Sport"  Value: 140 
+LINK "Man U fantasy" "Man U Streaming"  Value: 440 
+LINK "Man U fantasy" "Man U affiliate"  Value: 240 
+LINK "Man U fantasy" "Man U Supporters"  Value: 260 
+LINK "Man U fantasy" "Everton contacts"  Value: 60 
+LINK "Man U fantasy" "Chlesea fans site" Value: 20 
+LINK "Man U fantasy" "Chlesea General links"  Value: 40 
+LINK "Man U fantasy" "Chlesea player site"  Value: 60 
+LINK "Man U fantasy" "Arsenal fans site"   Value: 980 
+LINK "Man U fantasy" "Liverpool General links"  Value: 120 
+LINK "Man U fantasy" "Liverpool player sites"  Value: 580 
+LINK "Man U fantasy" "Chlesea entertainment"  Value: 840 
+LINK "Man U fantasy" "Tottenham player sites"  Value: 600 
+LINK "Man U fantasy" "Chlesea clips"  Value: 20 
+LINK "Man U fantasy" "Arsenal forums"  Value: 40 
+LINK "Man U fantasy" "Arsenal General links"  Value: 20 
+LINK "Man U fantasy" "Arsenal Community"  Value: 60 
+LINK "Man U fantasy" "Man U Art"  Value: 820 
+LINK "Man U fantasy" "Arsenal games"  Value: 20 
+LINK "Man U fantasy" "Arsenal fantasy"  Value: 80 
+LINK "Man U fantasy" "Arsenal Clips"  Value: 20 
+LINK "Man U fantasy" "Arsenal fantasy Sport"  Value: 120 
+LINK "Man U fantasy" "Arsenal Streaming"  Value: 20 
+LINK "Man U fantasy" "Arsenal affiliate"  Value: 120 
+LINK "Man U fantasy" "Arsenal Supporters"  Value: 920 
+LINK "Man U fantasy" "Chlesea Women"  Value: 80 
+LINK "Man U fantasy" "Chlesea Contacts"  Value: 80 
+LINK "Man U fantasy" "Chlesea affiliate"  Value: 20 
+LINK "Man U fantasy" "Chlesea live score"  Value: 280 
+LINK "Man U fantasy" "Chlesea Int"  Value: 420 
+LINK "Man U fantasy" "Man City Women"  Value: 20 
+LINK "Man U fantasy" "Man U Int"  Value: 260 
+LINK "Man U fantasy" "Liverpool int"  Value: 20 
+LINK "Man U fantasy" "Man City fantasy sport"  Value: 20 
+LINK "Man U fantasy" "Man U Team"  Value: 200 
+LINK "Man U fantasy" "Man City affiliate"  Value: 200 
+LINK "Man U fantasy" "Man U Music"  Value: 200 
+LINK "Man U Entertainment" "Man U Clips"  Value: 800 
+LINK "Man U Entertainment" "Man U Banners"  Value: 600 
+LINK "Man U Entertainment" "Man U Kids"  Value: 100 
+LINK "Man U Entertainment" "Man U Women"  Value: 280 
+LINK "Man U Entertainment" "Everton commercial"  Value: 20 
+LINK "Man U Entertainment" "Man U Commercial"  Value: 120 
+LINK "Man U Entertainment" "Man U Contacts"  Value: 1100 
+LINK "Man U Entertainment" "Man U Fantacy Sport"  Value: 280 
+LINK "Man U Entertainment" "Man U Streaming"  Value: 580 
+LINK "Man U Entertainment" "Man U affiliate"  Value: 420 
+LINK "Man U Entertainment" "Man U Supporters"  Value: 480 
+LINK "Man U Entertainment" "Chlesea blogs"  Value: 600 
+LINK "Man U Entertainment" "Chlesea General links"  Value: 40 
+LINK "Man U Entertainment" "Arsenal fans site"   Value: 40 
+LINK "Man U Entertainment" "Liverpool fans site"   Value: 40 
+LINK "Man U Entertainment" "Liverpool player sites"  Value: 20 
+LINK "Man U Entertainment" "Chlesea fantasy"  Value: 40 
+LINK "Man U Entertainment" "Chlesea entertainment"  Value: 20 
+LINK "Man U Entertainment" "Tottenham player sites"  Value: 280 
+LINK "Man U Entertainment" "Arsenal blogs"   Value: 60 
+LINK "Man U Entertainment" "Arsenal forums"  Value: 100 
+LINK "Man U Entertainment" "Arsenal Community"  Value: 20 
+LINK "Man U Entertainment" "Arsenal News"  Value: 20 
+LINK "Man U Entertainment" "Man U Art"  Value: 340 
+LINK "Man U Entertainment" "Arsenal games"  Value: 20 
+LINK "Man U Entertainment" "Arsenal fantasy"  Value: 20 
+LINK "Man U Entertainment" "Arsenal entertainment"  Value: 20 
+LINK "Man U Entertainment" "Arsenal Clips"  Value: 120 
+LINK "Man U Entertainment" "Arsenal Women"  Value: 80 
+LINK "Man U Entertainment" "Man U Live Score"  Value: 40 
+LINK "Man U Entertainment" "Arsenal fantasy Sport"  Value: 640 
+LINK "Man U Entertainment" "Arsenal affiliate"  Value: 160 
+LINK "Man U Entertainment" "Arsenal Supporters"  Value: 60 
+LINK "Man U Entertainment" "Liverpool streaming"  Value: 40 
+LINK "Man U Entertainment" "Liverpool supporers"  Value: 20 
+LINK "Man U Entertainment" "Chlesea Banners"  Value: 40 
+LINK "Man U Entertainment" "Chlesea Women"  Value: 20 
+LINK "Man U Entertainment" "Chlesea Int"  Value: 20 
+LINK "Man U Entertainment" "Man City Women"  Value: 60 
+LINK "Man U Entertainment" "Man U Int"  Value: 560 
+LINK "Man U Entertainment" "Man City fantasy sport"  Value: 40 
+LINK "Man U Entertainment" "Man U Team"  Value: 860 
+LINK "Man U Entertainment" "Man City affiliate"  Value: 20 
+LINK "Man U Entertainment" "Man U Music"  Value: 300 
+LINK "Man U Clips" "Man U Banners"  Value: 140 
+LINK "Man U Clips" "Man U Kids"  Value: 20 
+LINK "Man U Clips" "Man U Women"  Value: 80 
+LINK "Man U Clips" "Everton commercial"  Value: 20 
+LINK "Man U Clips" "Man U Commercial"  Value: 80 
+LINK "Man U Clips" "Man U Contacts"  Value: 1360 
+LINK "Man U Clips" "Man U Fantacy Sport"  Value: 500 
+LINK "Man U Clips" "Man U Streaming"  Value: 220 
+LINK "Man U Clips" "Man U affiliate"  Value: 960 
+LINK "Man U Clips" "Man U Supporters"  Value: 140 
+LINK "Man U Clips" "Chlesea entertainment"  Value: 20 
+LINK "Man U Clips" "Tottenham player sites"  Value: 460 
+LINK "Man U Clips" "Man U Art"  Value: 280 
+LINK "Man U Clips" "Man U Live Score"  Value: 220 
+LINK "Man U Clips" "Chlesea Kids"  Value: 40 
+LINK "Man U Clips" "Chlesea fantasy sport"  Value: 20 
+LINK "Man U Clips" "Man U Int"  Value: 1620 
+LINK "Man U Clips" "Man U Team"  Value: 440 
+LINK "Man U Clips" "Man U Music"  Value: 340 
+LINK "Man U Banners" "Man U Kids"  Value: 560 
+LINK "Man U Banners" "Man U Women"  Value: 80 
+LINK "Man U Banners" "Man U Commercial"  Value: 440 
+LINK "Man U Banners" "Man U Contacts"  Value: 220 
+LINK "Man U Banners" "Man U Fantacy Sport"  Value: 80 
+LINK "Man U Banners" "Man U Streaming"  Value: 40 
+LINK "Man U Banners" "Man U affiliate"  Value: 460 
+LINK "Man U Banners" "Man U Supporters"  Value: 180 
+LINK "Man U Banners" "Chlesea community"  Value: 60 
+LINK "Man U Banners" "Everton affiliate"  Value: 20 
+LINK "Man U Banners" "Chlesea fantasy"  Value: 120 
+LINK "Man U Banners" "Tottenham player sites"  Value: 240 
+LINK "Man U Banners" "Liverpool entertainment"  Value: 20 
+LINK "Man U Banners" "Man U Art"  Value: 2200 
+LINK "Man U Banners" "Chlesea Banners"  Value: 40 
+LINK "Man U Banners" "Chlesea Int"  Value: 40 
+LINK "Man U Banners" "Man U Int"  Value: 1220 
+LINK "Man U Banners" "Man U Team"  Value: 2160 
+LINK "Man U Banners" "Man U Music"  Value: 160 
+LINK "Man U Kids" "Man U Women"  Value: 220 
+LINK "Man U Kids" "Man U Commercial"  Value: 5520 
+LINK "Man U Kids" "Man U Contacts"  Value: 140 
+LINK "Man U Kids" "Man U Fantacy Sport"  Value: 1460 
+LINK "Man U Kids" "Man U Streaming"  Value: 60 
+LINK "Man U Kids" "Man U affiliate"  Value: 200 
+LINK "Man U Kids" "Man U Supporters"  Value: 120 
+LINK "Man U Kids" "Chlesea fans site" Value: 60 
+LINK "Man U Kids" "Chlesea General links"  Value: 20 
+LINK "Man U Kids" "Chlesea community"  Value: 160 
+LINK "Man U Kids" "Chlesea fantasy"  Value: 20 
+LINK "Man U Kids" "Tottenham player sites"  Value: 80 
+LINK "Man U Kids" "Chlesea clips"  Value: 100 
+LINK "Man U Kids" "Man U Art"  Value: 80 
+LINK "Man U Kids" "Man U Live Score"  Value: 280 
+LINK "Man U Kids" "Liverpool supporers"  Value: 20 
+LINK "Man U Kids" "Chlesea affiliate"  Value: 100 
+LINK "Man U Kids" "Chlesea Art"  Value: 20 
+LINK "Man U Kids" "Chlesea Int"  Value: 20 
+LINK "Man U Kids" "Man U Int"  Value: 40 
+LINK "Man U Kids" "Man U Team"  Value: 60 
+LINK "Man U Kids" "Man U Music"  Value: 340 
+LINK "Man U Women" "Man U Commercial"  Value: 60 
+LINK "Man U Women" "Man U Contacts"  Value: 1000 
+LINK "Man U Women" "Man U Fantacy Sport"  Value: 320 
+LINK "Man U Women" "Man U Streaming"  Value: 220 
+LINK "Man U Women" "Man U affiliate"  Value: 800 
+LINK "Man U Women" "Man U Supporters"  Value: 940 
+LINK "Man U Women" "Everton contacts"  Value: 40 
+LINK "Man U Women" "Chlesea blogs"  Value: 60 
+LINK "Man U Women" "Chlesea General links"  Value: 20 
+LINK "Man U Women" "Tottenham General links"  Value: 20 
+LINK "Man U Women" "Arsenal fans site"   Value: 160 
+LINK "Man U Women" "Liverpool General links"  Value: 20 
+LINK "Man U Women" "Chlesea games"  Value: 260 
+LINK "Man U Women" "Chlesea fantasy"  Value: 20 
+LINK "Man U Women" "Tottenham player sites"  Value: 540 
+LINK "Man U Women" "Chlesea clips"  Value: 20 
+LINK "Man U Women" "Arsenal blogs"   Value: 400 
+LINK "Man U Women" "Arsenal forums"  Value: 60 
+LINK "Man U Women" "Arsenal Community"  Value: 20 
+LINK "Man U Women" "Arsenal News"  Value: 20 
+LINK "Man U Women" "Man U Art"  Value: 420 
+LINK "Man U Women" "Arsenal games"  Value: 320 
+LINK "Man U Women" "Arsenal fantasy"  Value: 20 
+LINK "Man U Women" "Arsenal entertainment"  Value: 20 
+LINK "Man U Women" "Arsenal Banners"  Value: 120 
+LINK "Man U Women" "Man U Live Score"  Value: 1160 
+LINK "Man U Women" "Liverpool clips"  Value: 20 
+LINK "Man U Women" "Arsenal fantasy Sport"  Value: 620 
+LINK "Man U Women" "Liverpool Kids"  Value: 60 
+LINK "Man U Women" "Chlesea Commercial"  Value: 20 
+LINK "Man U Women" "Chlesea Streaming"  Value: 20 
+LINK "Man U Women" "Chlesea live score"  Value: 20 
+LINK "Man U Women" "Chlesea Int"  Value: 560 
+LINK "Man U Women" "Man U Int"  Value: 240 
+LINK "Man U Women" "Liverpool int"  Value: 20 
+LINK "Man U Women" "Man City fantasy sport"  Value: 60 
+LINK "Man U Women" "Man U Team"  Value: 200 
+LINK "Man U Women" "Man City affiliate"  Value: 40 
+LINK "Man U Women" "Man U Music"  Value: 320 
+LINK "Everton commercial" "Man U Fantacy Sport"  Value: 80 
+LINK "Everton commercial" "Man U Supporters"  Value: 20 
+LINK "Everton commercial" "Everton contacts"  Value: 160 
+LINK "Everton commercial" "Everton fantasy sport"  Value: 80 
+LINK "Everton commercial" "Tottenham General links"  Value: 140 
+LINK "Everton commercial" "Everton streaming"  Value: 120 
+LINK "Everton commercial" "Liverpool blogs"  Value: 20 
+LINK "Everton commercial" "Liverpool forums"  Value: 200 
+LINK "Everton commercial" "Everton affiliate"  Value: 340 
+LINK "Everton commercial" "Everton supporters"  Value: 240 
+LINK "Everton commercial" "Everton Art"  Value: 60 
+LINK "Everton commercial" "Liverpool News"  Value: 120 
+LINK "Everton commercial" "Liverpool fantasy"  Value: 120 
+LINK "Everton commercial" "Arsenal blogs"   Value: 20 
+LINK "Everton commercial" "Arsenal forums"  Value: 20 
+LINK "Everton commercial" "Arsenal entertainment"  Value: 60 
+LINK "Everton commercial" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton commercial" "Arsenal Art"  Value: 340 
+LINK "Everton commercial" "Liverpool commercial"  Value: 40 
+LINK "Everton commercial" "Liverpool contacts"  Value: 20 
+LINK "Everton commercial" "Liverpool streaming"  Value: 20 
+LINK "Everton commercial" "Liverpool affiliate"  Value: 20 
+LINK "Everton commercial" "Liverpool supporers"  Value: 20 
+LINK "Everton commercial" "Liverpool live score"  Value: 140 
+LINK "Everton commercial" "Chlesea affiliate"  Value: 40 
+LINK "Everton commercial" "Chlesea Music"  Value: 20 
+LINK "Everton commercial" "Man U Music"  Value: 80 
+LINK "Man U Commercial" "Man U Contacts"  Value: 40 
+LINK "Man U Commercial" "Man U Fantacy Sport"  Value: 400 
+LINK "Man U Commercial" "Man U Streaming"  Value: 60 
+LINK "Man U Commercial" "Man U affiliate"  Value: 20 
+LINK "Man U Commercial" "Man U Supporters"  Value: 140 
+LINK "Man U Commercial" "Tottenham player sites"  Value: 60 
+LINK "Man U Commercial" "Man U Art"  Value: 60 
+LINK "Man U Commercial" "Man U Live Score"  Value: 480 
+LINK "Man U Commercial" "Chlesea affiliate"  Value: 60 
+LINK "Man U Commercial" "Man U Int"  Value: 60 
+LINK "Man U Commercial" "Man U Team"  Value: 40 
+LINK "Man U Commercial" "Man City Streaming"  Value: 20 
+LINK "Man U Commercial" "Man U Music"  Value: 700 
+LINK "Man U Contacts" "Man U Fantacy Sport"  Value: 620 
+LINK "Man U Contacts" "Man U Streaming"  Value: 160 
+LINK "Man U Contacts" "Man U affiliate"  Value: 1280 
+LINK "Man U Contacts" "Man U Supporters"  Value: 160 
+LINK "Man U Contacts" "Chlesea fans site" Value: 40 
+LINK "Man U Contacts" "Chlesea blogs"  Value: 40 
+LINK "Man U Contacts" "Chlesea General links"  Value: 1840 
+LINK "Man U Contacts" "Liverpool fans site"   Value: 540 
+LINK "Man U Contacts" "Liverpool General links"  Value: 80 
+LINK "Man U Contacts" "Chlesea entertainment"  Value: 20 
+LINK "Man U Contacts" "Tottenham player sites"  Value: 1380 
+LINK "Man U Contacts" "Arsenal blogs"   Value: 40 
+LINK "Man U Contacts" "Arsenal forums"  Value: 460 
+LINK "Man U Contacts" "Arsenal Community"  Value: 380 
+LINK "Man U Contacts" "Man U Art"  Value: 400 
+LINK "Man U Contacts" "Arsenal Banners"  Value: 20 
+LINK "Man U Contacts" "Arsenal Kids"  Value: 40 
+LINK "Man U Contacts" "Arsenal Women"  Value: 1280 
+LINK "Man U Contacts" "Arsenal fantasy Sport"  Value: 60 
+LINK "Man U Contacts" "Liverpool Kids"  Value: 20 
+LINK "Man U Contacts" "Liverpool streaming"  Value: 660 
+LINK "Man U Contacts" "Chlesea Kids"  Value: 20 
+LINK "Man U Contacts" "Chlesea live score"  Value: 40 
+LINK "Man U Contacts" "Chlesea Int"  Value: 40 
+LINK "Man U Contacts" "Chlesea Music"  Value: 20 
+LINK "Man U Contacts" "Man City Women"  Value: 80 
+LINK "Man U Contacts" "Man U Int"  Value: 460 
+LINK "Man U Contacts" "Liverpool int"  Value: 20 
+LINK "Man U Contacts" "Man City fantasy sport"  Value: 40 
+LINK "Man U Contacts" "Man U Team"  Value: 460 
+LINK "Man U Contacts" "Man City affiliate"  Value: 20 
+LINK "Man U Contacts" "Man U Music"  Value: 280 
+LINK "Man U Fantacy Sport" "Man U Streaming"  Value: 200 
+LINK "Man U Fantacy Sport" "Man U affiliate"  Value: 800 
+LINK "Man U Fantacy Sport" "Man U Supporters"  Value: 40 
+LINK "Man U Fantacy Sport" "Everton contacts"  Value: 20 
+LINK "Man U Fantacy Sport" "Chlesea fans site" Value: 20 
+LINK "Man U Fantacy Sport" "Chlesea blogs"  Value: 40 
+LINK "Man U Fantacy Sport" "Arsenal fans site"   Value: 40 
+LINK "Man U Fantacy Sport" "Liverpool fans site"   Value: 60 
+LINK "Man U Fantacy Sport" "Liverpool forums"  Value: 20 
+LINK "Man U Fantacy Sport" "Chlesea entertainment"  Value: 60 
+LINK "Man U Fantacy Sport" "Tottenham player sites"  Value: 520 
+LINK "Man U Fantacy Sport" "Chlesea clips"  Value: 20 
+LINK "Man U Fantacy Sport" "Arsenal blogs"   Value: 680 
+LINK "Man U Fantacy Sport" "Arsenal forums"  Value: 1440 
+LINK "Man U Fantacy Sport" "Arsenal General links"  Value: 20 
+LINK "Man U Fantacy Sport" "Arsenal Community"  Value: 340 
+LINK "Man U Fantacy Sport" "Man U Art"  Value: 700 
+LINK "Man U Fantacy Sport" "Arsenal games"  Value: 380 
+LINK "Man U Fantacy Sport" "Arsenal entertainment"  Value: 20 
+LINK "Man U Fantacy Sport" "Arsenal Banners"  Value: 200 
+LINK "Man U Fantacy Sport" "Arsenal Women"  Value: 20 
+LINK "Man U Fantacy Sport" "Man U Live Score"  Value: 40 
+LINK "Man U Fantacy Sport" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man U Fantacy Sport" "Arsenal affiliate"  Value: 100 
+LINK "Man U Fantacy Sport" "Arsenal Art"  Value: 60 
+LINK "Man U Fantacy Sport" "Liverpool streaming"  Value: 20 
+LINK "Man U Fantacy Sport" "Liverpool supporers"  Value: 40 
+LINK "Man U Fantacy Sport" "Chlesea Women"  Value: 40 
+LINK "Man U Fantacy Sport" "Chlesea Contacts"  Value: 60 
+LINK "Man U Fantacy Sport" "Chlesea live score"  Value: 80 
+LINK "Man U Fantacy Sport" "Chlesea Int"  Value: 1160 
+LINK "Man U Fantacy Sport" "Man City Women"  Value: 20 
+LINK "Man U Fantacy Sport" "Man U Int"  Value: 120 
+LINK "Man U Fantacy Sport" "Liverpool int"  Value: 80 
+LINK "Man U Fantacy Sport" "Man U Team"  Value: 200 
+LINK "Man U Fantacy Sport" "Man City affiliate"  Value: 40 
+LINK "Man U Fantacy Sport" "Man U Music"  Value: 4860 
+LINK "Man U Streaming" "Man U affiliate"  Value: 100 
+LINK "Man U Streaming" "Everton contacts"  Value: 60 
+LINK "Man U Streaming" "Chlesea blogs"  Value: 20 
+LINK "Man U Streaming" "Chlesea forums"  Value: 20 
+LINK "Man U Streaming" "Tottenham General links"  Value: 20 
+LINK "Man U Streaming" "Chlesea player site"  Value: 20 
+LINK "Man U Streaming" "Arsenal fans site"   Value: 140 
+LINK "Man U Streaming" "Chlesea games"  Value: 20 
+LINK "Man U Streaming" "Tottenham player sites"  Value: 60 
+LINK "Man U Streaming" "Chlesea clips"  Value: 20 
+LINK "Man U Streaming" "Arsenal Community"  Value: 1160 
+LINK "Man U Streaming" "Man U Art"  Value: 40 
+LINK "Man U Streaming" "Arsenal Women"  Value: 20 
+LINK "Man U Streaming" "Man U Live Score"  Value: 460 
+LINK "Man U Streaming" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man U Streaming" "Arsenal affiliate"  Value: 180 
+LINK "Man U Streaming" "Liverpool Kids"  Value: 80 
+LINK "Man U Streaming" "Chlesea Banners"  Value: 280 
+LINK "Man U Streaming" "Chlesea Art"  Value: 40 
+LINK "Man U Streaming" "Chlesea live score"  Value: 100 
+LINK "Man U Streaming" "Chlesea Int"  Value: 60 
+LINK "Man U Streaming" "Man U Int"  Value: 140 
+LINK "Man U Streaming" "Man City fantasy sport"  Value: 1300 
+LINK "Man U Streaming" "Man City affiliate"  Value: 40 
+LINK "Man U Streaming" "Man U Music"  Value: 80 
+LINK "Man U affiliate" "Man U Supporters"  Value: 900 
+LINK "Man U affiliate" "Everton contacts"  Value: 20 
+LINK "Man U affiliate" "Chlesea fans site" Value: 40 
+LINK "Man U affiliate" "Chlesea blogs"  Value: 60 
+LINK "Man U affiliate" "Chlesea General links"  Value: 40 
+LINK "Man U affiliate" "Arsenal fans site"   Value: 40 
+LINK "Man U affiliate" "Liverpool General links"  Value: 20 
+LINK "Man U affiliate" "Liverpool player sites"  Value: 20 
+LINK "Man U affiliate" "Everton supporters"  Value: 40 
+LINK "Man U affiliate" "Chlesea games"  Value: 160 
+LINK "Man U affiliate" "Everton Art"  Value: 20 
+LINK "Man U affiliate" "Chlesea entertainment"  Value: 80 
+LINK "Man U affiliate" "Tottenham player sites"  Value: 920 
+LINK "Man U affiliate" "Chlesea clips"  Value: 40 
+LINK "Man U affiliate" "Arsenal blogs"   Value: 1640 
+LINK "Man U affiliate" "Arsenal forums"  Value: 120 
+LINK "Man U affiliate" "Arsenal Community"  Value: 320 
+LINK "Man U affiliate" "Liverpool entertainment"  Value: 20 
+LINK "Man U affiliate" "Arsenal News"  Value: 160 
+LINK "Man U affiliate" "Man U Art"  Value: 900 
+LINK "Man U affiliate" "Arsenal games"  Value: 1520 
+LINK "Man U affiliate" "Arsenal fantasy"  Value: 20 
+LINK "Man U affiliate" "Arsenal entertainment"  Value: 20 
+LINK "Man U affiliate" "Arsenal Women"  Value: 40 
+LINK "Man U affiliate" "Man U Live Score"  Value: 240 
+LINK "Man U affiliate" "Liverpool clips"  Value: 20 
+LINK "Man U affiliate" "Arsenal Contactsl"  Value: 60 
+LINK "Man U affiliate" "Arsenal fantasy Sport"  Value: 840 
+LINK "Man U affiliate" "Arsenal affiliate"  Value: 40 
+LINK "Man U affiliate" "Arsenal Supporters"  Value: 180 
+LINK "Man U affiliate" "Liverpool streaming"  Value: 20 
+LINK "Man U affiliate" "Liverpool supporers"  Value: 60 
+LINK "Man U affiliate" "Liverpool Art"  Value: 80 
+LINK "Man U affiliate" "Chlesea Banners"  Value: 20 
+LINK "Man U affiliate" "Chlesea Women"  Value: 20 
+LINK "Man U affiliate" "Liverpool live score"  Value: 20 
+LINK "Man U affiliate" "Chlesea Streaming"  Value: 60 
+LINK "Man U affiliate" "Chlesea Music"  Value: 20 
+LINK "Man U affiliate" "Man City Women"  Value: 20 
+LINK "Man U affiliate" "Man U Int"  Value: 520 
+LINK "Man U affiliate" "Liverpool int"  Value: 20 
+LINK "Man U affiliate" "Man City fantasy sport"  Value: 40 
+LINK "Man U affiliate" "Man U Team"  Value: 4220 
+LINK "Man U affiliate" "Man U Music"  Value: 260 
+LINK "Man U Supporters" "Chlesea fans site" Value: 20 
+LINK "Man U Supporters" "Chlesea blogs"  Value: 40 
+LINK "Man U Supporters" "Chlesea General links"  Value: 20 
+LINK "Man U Supporters" "Chlesea community"  Value: 100 
+LINK "Man U Supporters" "Liverpool fans site"   Value: 40 
+LINK "Man U Supporters" "Liverpool blogs"  Value: 20 
+LINK "Man U Supporters" "Liverpool forums"  Value: 20 
+LINK "Man U Supporters" "Liverpool General links"  Value: 20 
+LINK "Man U Supporters" "Liverpool player sites"  Value: 40 
+LINK "Man U Supporters" "Tottenham player sites"  Value: 1240 
+LINK "Man U Supporters" "Arsenal Community"  Value: 100 
+LINK "Man U Supporters" "Arsenal News"  Value: 220 
+LINK "Man U Supporters" "Man U Art"  Value: 300 
+LINK "Man U Supporters" "Arsenal fantasy"  Value: 1640 
+LINK "Man U Supporters" "Arsenal Women"  Value: 480 
+LINK "Man U Supporters" "Man U Live Score"  Value: 80 
+LINK "Man U Supporters" "Liverpool clips"  Value: 40 
+LINK "Man U Supporters" "Arsenal fantasy Sport"  Value: 140 
+LINK "Man U Supporters" "Arsenal Supporters"  Value: 640 
+LINK "Man U Supporters" "Liverpool Kids"  Value: 40 
+LINK "Man U Supporters" "Liverpool streaming"  Value: 20 
+LINK "Man U Supporters" "Liverpool affiliate"  Value: 20 
+LINK "Man U Supporters" "Liverpool supporers"  Value: 740 
+LINK "Man U Supporters" "Chlesea Women"  Value: 840 
+LINK "Man U Supporters" "Chlesea Streaming"  Value: 20 
+LINK "Man U Supporters" "Chlesea Art"  Value: 60 
+LINK "Man U Supporters" "Chlesea live score"  Value: 40 
+LINK "Man U Supporters" "Chlesea Int"  Value: 20 
+LINK "Man U Supporters" "Chlesea Music"  Value: 20 
+LINK "Man U Supporters" "Man U Int"  Value: 520 
+LINK "Man U Supporters" "Man City fantasy sport"  Value: 20 
+LINK "Man U Supporters" "Man U Team"  Value: 280 
+LINK "Man U Supporters" "Man City affiliate"  Value: 880 
+LINK "Man U Supporters" "Man U Music"  Value: 180 
+LINK "Everton contacts" "Everton fantasy sport"  Value: 1360 
+LINK "Everton contacts" "Chlesea General links"  Value: 20 
+LINK "Everton contacts" "Tottenham General links"  Value: 280 
+LINK "Everton contacts" "Arsenal fans site"   Value: 20 
+LINK "Everton contacts" "Everton streaming"  Value: 120 
+LINK "Everton contacts" "Liverpool forums"  Value: 560 
+LINK "Everton contacts" "Liverpool General links"  Value: 20 
+LINK "Everton contacts" "Everton affiliate"  Value: 80 
+LINK "Everton contacts" "Everton supporters"  Value: 140 
+LINK "Everton contacts" "Everton Art"  Value: 120 
+LINK "Everton contacts" "Liverpool News"  Value: 20 
+LINK "Everton contacts" "Chlesea fantasy"  Value: 20 
+LINK "Everton contacts" "Tottenham player sites"  Value: 20 
+LINK "Everton contacts" "Tottenham community"  Value: 80 
+LINK "Everton contacts" "Liverpool fantasy"  Value: 40 
+LINK "Everton contacts" "Arsenal General links"  Value: 40 
+LINK "Everton contacts" "Arsenal Community"  Value: 20 
+LINK "Everton contacts" "Liverpool entertainment"  Value: 1000 
+LINK "Everton contacts" "Arsenal games"  Value: 20 
+LINK "Everton contacts" "Liverpool clips"  Value: 100 
+LINK "Everton contacts" "Arsenal fantasy Sport"  Value: 60 
+LINK "Everton contacts" "Liverpool Kids"  Value: 20 
+LINK "Everton contacts" "Liverpool commercial"  Value: 20 
+LINK "Everton contacts" "Liverpool streaming"  Value: 40 
+LINK "Everton contacts" "Liverpool affiliate"  Value: 100 
+LINK "Everton contacts" "Liverpool supporers"  Value: 20 
+LINK "Everton contacts" "Chlesea Women"  Value: 40 
+LINK "Everton contacts" "Chlesea Streaming"  Value: 20 
+LINK "Everton contacts" "Man U Team"  Value: 20 
+LINK "Everton contacts" "Man City affiliate"  Value: 20 
+LINK "Chlesea fans site""Chlesea blogs"  Value: 240 
+LINK "Chlesea fans site""Chlesea forums"  Value: 460 
+LINK "Chlesea fans site""Chlesea General links"  Value: 100 
+LINK "Chlesea fans site""Arsenal fans site"   Value: 1360 
+LINK "Chlesea fans site""Chlesea News"  Value: 340 
+LINK "Chlesea fans site""Liverpool forums"  Value: 80 
+LINK "Chlesea fans site""Liverpool General links"  Value: 20 
+LINK "Chlesea fans site""Chlesea games"  Value: 140 
+LINK "Chlesea fans site""Chlesea fantasy"  Value: 20 
+LINK "Chlesea fans site""Chlesea entertainment"  Value: 920 
+LINK "Chlesea fans site""Chlesea clips"  Value: 4380 
+LINK "Chlesea fans site""Arsenal Community"  Value: 20 
+LINK "Chlesea fans site""Liverpool entertainment"  Value: 20 
+LINK "Chlesea fans site""Arsenal News"  Value: 480 
+LINK "Chlesea fans site""Man U Art"  Value: 100 
+LINK "Chlesea fans site""Arsenal Kids"  Value: 40 
+LINK "Chlesea fans site""Arsenal Women"  Value: 20 
+LINK "Chlesea fans site""Arsenal Supporters"  Value: 100 
+LINK "Chlesea fans site""Liverpool Kids"  Value: 40 
+LINK "Chlesea fans site""Liverpool streaming"  Value: 20 
+LINK "Chlesea fans site""Chlesea Banners"  Value: 40 
+LINK "Chlesea fans site""Tottenham entertainment"  Value: 20 
+LINK "Chlesea fans site""Chlesea Kids"  Value: 1960 
+LINK "Chlesea fans site""Chlesea Commercial"  Value: 20 
+LINK "Chlesea fans site""Chlesea Contacts"  Value: 160 
+LINK "Chlesea fans site""Chlesea Streaming"  Value: 40 
+LINK "Chlesea fans site""Chlesea affiliate"  Value: 840 
+LINK "Chlesea fans site""Chlesea Supporters"  Value: 80 
+LINK "Chlesea fans site""Chlesea Art"  Value: 140 
+LINK "Chlesea fans site""Chlesea live score"  Value: 4960 
+LINK "Chlesea fans site""Chlesea Int"  Value: 240 
+LINK "Chlesea fans site""Chlesea Team"  Value: 160 
+LINK "Chlesea fans site""Chlesea Music"  Value: 40 
+LINK "Chlesea fans site""Man City fantasy sport"  Value: 20 
+LINK "Chlesea fans site""Man U Team"  Value: 20 
+LINK "Chlesea fans site""Man U Music"  Value: 40 
+LINK "Chlesea blogs" "Chlesea General links"  Value: 160 
+LINK "Chlesea blogs" "Chlesea player site"  Value: 40 
+LINK "Chlesea blogs" "Arsenal fans site"   Value: 40 
+LINK "Chlesea blogs" "Chlesea community"  Value: 1060 
+LINK "Chlesea blogs" "Liverpool fans site"   Value: 40 
+LINK "Chlesea blogs" "Chlesea News"  Value: 100 
+LINK "Chlesea blogs" "Liverpool forums"  Value: 20 
+LINK "Chlesea blogs" "Liverpool player sites"  Value: 20 
+LINK "Chlesea blogs" "Chlesea games"  Value: 280 
+LINK "Chlesea blogs" "Chlesea fantasy"  Value: 40 
+LINK "Chlesea blogs" "Chlesea entertainment"  Value: 480 
+LINK "Chlesea blogs" "Chlesea clips"  Value: 340 
+LINK "Chlesea blogs" "Arsenal blogs"   Value: 140 
+LINK "Chlesea blogs" "Arsenal forums"  Value: 20 
+LINK "Chlesea blogs" "Arsenal Community"  Value: 20 
+LINK "Chlesea blogs" "Man U Art"  Value: 80 
+LINK "Chlesea blogs" "Arsenal games"  Value: 20 
+LINK "Chlesea blogs" "Arsenal entertainment"  Value: 20 
+LINK "Chlesea blogs" "Arsenal Banners"  Value: 40 
+LINK "Chlesea blogs" "Arsenal fantasy Sport"  Value: 20 
+LINK "Chlesea blogs" "Arsenal Streaming"  Value: 20 
+LINK "Chlesea blogs" "Arsenal affiliate"  Value: 20 
+LINK "Chlesea blogs" "Liverpool Kids"  Value: 20 
+LINK "Chlesea blogs" "Liverpool streaming"  Value: 40 
+LINK "Chlesea blogs" "Chlesea Banners"  Value: 300 
+LINK "Chlesea blogs" "Chlesea Kids"  Value: 20 
+LINK "Chlesea blogs" "Chlesea Women"  Value: 220 
+LINK "Chlesea blogs" "Chlesea Commercial"  Value: 20 
+LINK "Chlesea blogs" "Chlesea Contacts"  Value: 440 
+LINK "Chlesea blogs" "Chlesea fantasy sport"  Value: 160 
+LINK "Chlesea blogs" "Chlesea Streaming"  Value: 40 
+LINK "Chlesea blogs" "Chlesea affiliate"  Value: 1640 
+LINK "Chlesea blogs" "Chlesea Supporters"  Value: 200 
+LINK "Chlesea blogs" "Chlesea Art"  Value: 360 
+LINK "Chlesea blogs" "Chlesea live score"  Value: 100 
+LINK "Chlesea blogs" "Chlesea Int"  Value: 660 
+LINK "Chlesea blogs" "Chlesea Team"  Value: 40 
+LINK "Chlesea blogs" "Chlesea Music"  Value: 40 
+LINK "Chlesea blogs" "Man City Women"  Value: 60 
+LINK "Chlesea blogs" "Man City fantasy sport"  Value: 100 
+LINK "Chlesea blogs" "Man U Team"  Value: 1260 
+LINK "Chlesea blogs" "Man U Music"  Value: 20 
+LINK "Chlesea forums" "Chlesea General links"  Value: 220 
+LINK "Chlesea forums" "Chlesea player site"  Value: 40 
+LINK "Chlesea forums" "Chlesea community"  Value: 240 
+LINK "Chlesea forums" "Chlesea News"  Value: 300 
+LINK "Chlesea forums" "Chlesea games"  Value: 60 
+LINK "Chlesea forums" "Chlesea fantasy"  Value: 220 
+LINK "Chlesea forums" "Chlesea entertainment"  Value: 460 
+LINK "Chlesea forums" "Chlesea clips"  Value: 80 
+LINK "Chlesea forums" "Chlesea Banners"  Value: 3020 
+LINK "Chlesea forums" "Chlesea Kids"  Value: 20 
+LINK "Chlesea forums" "Chlesea Commercial"  Value: 100 
+LINK "Chlesea forums" "Chlesea Contacts"  Value: 2700 
+LINK "Chlesea forums" "Chlesea fantasy sport"  Value: 20 
+LINK "Chlesea forums" "Chlesea Streaming"  Value: 100 
+LINK "Chlesea forums" "Chlesea affiliate"  Value: 160 
+LINK "Chlesea forums" "Chlesea Supporters"  Value: 120 
+LINK "Chlesea forums" "Chlesea Art"  Value: 320 
+LINK "Chlesea forums" "Chlesea live score"  Value: 640 
+LINK "Chlesea forums" "Chlesea Int"  Value: 320 
+LINK "Chlesea forums" "Chlesea Team"  Value: 400 
+LINK "Chlesea forums" "Chlesea Music"  Value: 100 
+LINK "Everton fantasy sport" "Tottenham General links"  Value: 140 
+LINK "Everton fantasy sport" "Everton streaming"  Value: 40 
+LINK "Everton fantasy sport" "Liverpool fans site"   Value: 60 
+LINK "Everton fantasy sport" "Liverpool blogs"  Value: 20 
+LINK "Everton fantasy sport" "Liverpool player sites"  Value: 20 
+LINK "Everton fantasy sport" "Everton affiliate"  Value: 280 
+LINK "Everton fantasy sport" "Everton supporters"  Value: 920 
+LINK "Everton fantasy sport" "Everton Art"  Value: 120 
+LINK "Everton fantasy sport" "Tottenham community"  Value: 40 
+LINK "Everton fantasy sport" "Arsenal blogs"   Value: 20 
+LINK "Everton fantasy sport" "Arsenal General links"  Value: 20 
+LINK "Everton fantasy sport" "Arsenal News"  Value: 20 
+LINK "Everton fantasy sport" "Liverpool Banners"  Value: 200 
+LINK "Everton fantasy sport" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton fantasy sport" "Arsenal Live Score"  Value: 20 
+LINK "Everton fantasy sport" "Liverpool commercial"  Value: 20 
+LINK "Everton fantasy sport" "Liverpool fantasy sport"  Value: 440 
+LINK "Everton fantasy sport" "Liverpool streaming"  Value: 120 
+LINK "Everton fantasy sport" "Liverpool affiliate"  Value: 20 
+LINK "Everton fantasy sport" "Liverpool supporers"  Value: 80 
+LINK "Everton fantasy sport" "Liverpool Art"  Value: 100 
+LINK "Everton fantasy sport" "Tottenham entertainment"  Value: 20 
+LINK "Everton fantasy sport" "Man City Contacts"  Value: 60 
+LINK "Everton fantasy sport" "Liverpool int"  Value: 40 
+LINK "Everton fantasy sport" "Man City Art"  Value: 20 
+LINK "Everton fantasy sport" "Man City Live score"  Value: 20 
+LINK "Chlesea General links" "Chlesea player site"  Value: 140 
+LINK "Chlesea General links" "Arsenal fans site"   Value: 60 
+LINK "Chlesea General links" "Chlesea community"  Value: 20 
+LINK "Chlesea General links" "Liverpool fans site"   Value: 400 
+LINK "Chlesea General links" "Chlesea News"  Value: 160 
+LINK "Chlesea General links" "Liverpool forums"  Value: 60 
+LINK "Chlesea General links" "Liverpool player sites"  Value: 120 
+LINK "Chlesea General links" "Chlesea games"  Value: 300 
+LINK "Chlesea General links" "Chlesea fantasy"  Value: 360 
+LINK "Chlesea General links" "Chlesea entertainment"  Value: 2540 
+LINK "Chlesea General links" "Chlesea clips"  Value: 100 
+LINK "Chlesea General links" "Arsenal blogs"   Value: 20 
+LINK "Chlesea General links" "Arsenal forums"  Value: 20 
+LINK "Chlesea General links" "Arsenal Community"  Value: 100 
+LINK "Chlesea General links" "Man U Art"  Value: 20 
+LINK "Chlesea General links" "Arsenal games"  Value: 60 
+LINK "Chlesea General links" "Arsenal fantasy"  Value: 60 
+LINK "Chlesea General links" "Arsenal Women"  Value: 760 
+LINK "Chlesea General links" "Man U Live Score"  Value: 20 
+LINK "Chlesea General links" "Arsenal Contactsl"  Value: 20 
+LINK "Chlesea General links" "Arsenal fantasy Sport"  Value: 20 
+LINK "Chlesea General links" "Arsenal affiliate"  Value: 40 
+LINK "Chlesea General links" "Arsenal Supporters"  Value: 20 
+LINK "Chlesea General links" "Liverpool Kids"  Value: 60 
+LINK "Chlesea General links" "Liverpool streaming"  Value: "Everton Kids" 
+LINK "Chlesea General links" "Liverpool supporers"  Value: 40 
+LINK "Chlesea General links" "Chlesea Banners"  Value: 420 
+LINK "Chlesea General links" "Chlesea Kids"  Value: 20 
+LINK "Chlesea General links" "Chlesea Women"  Value: 800 
+LINK "Chlesea General links" "Chlesea Commercial"  Value: 860 
+LINK "Chlesea General links" "Chlesea Contacts"  Value: 160 
+LINK "Chlesea General links" "Chlesea fantasy sport"  Value: 80 
+LINK "Chlesea General links" "Chlesea Streaming"  Value: 240 
+LINK "Chlesea General links" "Chlesea Supporters"  Value: 200 
+LINK "Chlesea General links" "Chlesea Art"  Value: 220 
+LINK "Chlesea General links" "Chlesea live score"  Value: 40 
+LINK "Chlesea General links" "Chlesea Int"  Value: 240 
+LINK "Chlesea General links" "Chlesea Team"  Value: 280 
+LINK "Chlesea General links" "Chlesea Music"  Value: 40 
+LINK "Chlesea General links" "Man City Women"  Value: 60 
+LINK "Chlesea General links" "Liverpool int"  Value: 20 
+LINK "Chlesea General links" "Man City fantasy sport"  Value: 440 
+LINK "Chlesea General links" "Man U Team"  Value: 40 
+LINK "Chlesea General links" "Man City affiliate"  Value: 540 
+LINK "Chlesea General links" "Man U Music"  Value: 40 
+LINK "Tottenham General links" "Everton streaming"  Value: 180 
+LINK "Tottenham General links" "Liverpool blogs"  Value: 80 
+LINK "Tottenham General links" "Liverpool forums"  Value: 40 
+LINK "Tottenham General links" "Liverpool General links"  Value: 40 
+LINK "Tottenham General links" "Everton affiliate"  Value: 60 
+LINK "Tottenham General links" "Everton supporters"  Value: 100 
+LINK "Tottenham General links" "Everton Art"  Value: 360 
+LINK "Tottenham General links" "Liverpool community"  Value: 40 
+LINK "Tottenham General links" "Liverpool games"  Value: 20 
+LINK "Tottenham General links" "Tottenham player sites"  Value: 20 
+LINK "Tottenham General links" "Tottenham community"  Value: 480 
+LINK "Tottenham General links" "Liverpool fantasy"  Value: 20 
+LINK "Tottenham General links" "Liverpool clips"  Value: 60 
+LINK "Tottenham General links" "Liverpool Banners"  Value: 20 
+LINK "Tottenham General links" "Liverpool Kids"  Value: 40 
+LINK "Tottenham General links" "Liverpool commercial"  Value: 60 
+LINK "Tottenham General links" "Liverpool fantasy sport"  Value: 20 
+LINK "Tottenham General links" "Liverpool streaming"  Value: 60 
+LINK "Tottenham General links" "Liverpool affiliate"  Value: 60 
+LINK "Tottenham General links" "Liverpool Art"  Value: 20 
+LINK "Tottenham General links" "Tottenham entertainment"  Value: 140 
+LINK "Tottenham General links" "Liverpool live score"  Value: 60 
+LINK "Tottenham General links" "Liverpool int"  Value: 80 
+LINK "Tottenham General links" "Man City Streaming"  Value: 20 
+LINK "Tottenham General links" "Tottenham Clips"  Value: 80 
+LINK "Chlesea player site" "Chlesea community"  Value: 40 
+LINK "Chlesea player site" "Liverpool fans site"   Value: 20 
+LINK "Chlesea player site" "Chlesea News"  Value: 80 
+LINK "Chlesea player site" "Chlesea games"  Value: 20 
+LINK "Chlesea player site" "Chlesea entertainment"  Value: 460 
+LINK "Chlesea player site" "Chlesea clips"  Value: 20 
+LINK "Chlesea player site" "Arsenal blogs"   Value: 20 
+LINK "Chlesea player site" "Liverpool clips"  Value: 20 
+LINK "Chlesea player site" "Arsenal Supporters"  Value: 680 
+LINK "Chlesea player site" "Liverpool streaming"  Value: 20 
+LINK "Chlesea player site" "Chlesea Banners"  Value: 40 
+LINK "Chlesea player site" "Chlesea Kids"  Value: 60 
+LINK "Chlesea player site" "Chlesea Women"  Value: 60 
+LINK "Chlesea player site" "Chlesea Contacts"  Value: 40 
+LINK "Chlesea player site" "Chlesea fantasy sport"  Value: 40 
+LINK "Chlesea player site" "Chlesea affiliate"  Value: 20 
+LINK "Chlesea player site" "Chlesea Supporters"  Value: 60 
+LINK "Chlesea player site" "Chlesea Art"  Value: 60 
+LINK "Chlesea player site" "Chlesea Int"  Value: 40 
+LINK "Chlesea player site" "Chlesea Team"  Value: 80 
+LINK "Chlesea player site" "Man City Women"  Value: 240 
+LINK "Chlesea player site" "Man City fantasy sport"  Value: 80 
+LINK "Arsenal fans site"  "Liverpool fans site"   Value: 20 
+LINK "Arsenal fans site"  "Liverpool blogs"  Value: 20 
+LINK "Arsenal fans site"  "Liverpool player sites"  Value: 40 
+LINK "Arsenal fans site"  "Chlesea games"  Value: 20 
+LINK "Arsenal fans site"  "Liverpool community"  Value: 20 
+LINK "Arsenal fans site"  "Chlesea entertainment"  Value: 240 
+LINK "Arsenal fans site"  "Chlesea clips"  Value: 420 
+LINK "Arsenal fans site"  "Arsenal blogs"   Value: 320 
+LINK "Arsenal fans site"  "Tottenham News"  Value: 100 
+LINK "Arsenal fans site"  "Arsenal forums"  Value: 40 
+LINK "Arsenal fans site"  "Arsenal General links"  Value: 3800 
+LINK "Arsenal fans site"  "Arsenal Player Sites"  Value: 180 
+LINK "Arsenal fans site"  "Arsenal Community"  Value: 540 
+LINK "Arsenal fans site"  "Arsenal News"  Value: 500 
+LINK "Arsenal fans site"  "Man U Art"  Value: 520 
+LINK "Arsenal fans site"  "Arsenal games"  Value: 140 
+LINK "Arsenal fans site"  "Arsenal fantasy"  Value: 700 
+LINK "Arsenal fans site"  "Arsenal entertainment"  Value: 140 
+LINK "Arsenal fans site"  "Arsenal Clips"  Value: 60 
+LINK "Arsenal fans site"  "Arsenal Banners"  Value: 220 
+LINK "Arsenal fans site"  "Arsenal Kids"  Value: 660 
+LINK "Arsenal fans site"  "Arsenal Women"  Value: 140 
+LINK "Arsenal fans site"  "Arsenal Commercial"  Value: 300 
+LINK "Arsenal fans site"  "Arsenal Contactsl"  Value: 180 
+LINK "Arsenal fans site"  "Arsenal fantasy Sport"  Value: 1460 
+LINK "Arsenal fans site"  "Arsenal Streaming"  Value: 260 
+LINK "Arsenal fans site"  "Arsenal affiliate"  Value: 320 
+LINK "Arsenal fans site"  "Arsenal Supporters"  Value: 120 
+LINK "Arsenal fans site"  "Arsenal Art"  Value: 160 
+LINK "Arsenal fans site"  "Arsenal Live Score"  Value: 40 
+LINK "Arsenal fans site"  "Liverpool streaming"  Value: 40 
+LINK "Arsenal fans site"  "Chlesea Women"  Value: 40 
+LINK "Arsenal fans site"  "Chlesea Contacts"  Value: 80 
+LINK "Arsenal fans site"  "Chlesea live score"  Value: 140 
+LINK "Arsenal fans site"  "Chlesea Int"  Value: 60 
+LINK "Arsenal fans site"  "Man City Women"  Value: 40 
+LINK "Arsenal fans site"  "Man City Contacts"  Value: 20 
+LINK "Arsenal fans site"  "Liverpool int"  Value: 60 
+LINK "Arsenal fans site"  "Man U Team"  Value: 60 
+LINK "Arsenal fans site"  "Man City affiliate"  Value: 80 
+LINK "Everton streaming" "Liverpool blogs"  Value: 40 
+LINK "Everton streaming" "Liverpool General links"  Value: 20 
+LINK "Everton streaming" "Everton affiliate"  Value: "Everton Player sites" 
+LINK "Everton streaming" "Everton supporters"  Value: 120 
+LINK "Everton streaming" "Everton Art"  Value: 60 
+LINK "Everton streaming" "Liverpool community"  Value: 20 
+LINK "Everton streaming" "Liverpool News"  Value: 20 
+LINK "Everton streaming" "Tottenham community"  Value: 100 
+LINK "Everton streaming" "Arsenal Community"  Value: 20 
+LINK "Everton streaming" "Liverpool entertainment"  Value: 20 
+LINK "Everton streaming" "Arsenal games"  Value: 20 
+LINK "Everton streaming" "Arsenal Clips"  Value: 20 
+LINK "Everton streaming" "Liverpool Banners"  Value: 20 
+LINK "Everton streaming" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton streaming" "Liverpool commercial"  Value: 20 
+LINK "Everton streaming" "Liverpool contacts"  Value: 20 
+LINK "Everton streaming" "Liverpool fantasy sport"  Value: 20 
+LINK "Everton streaming" "Liverpool live score"  Value: 60 
+LINK "Everton streaming" "Man City Women"  Value: 20 
+LINK "Chlesea community" "Chlesea News"  Value: 140 
+LINK "Chlesea community" "Chlesea games"  Value: 40 
+LINK "Chlesea community" "Chlesea fantasy"  Value: 660 
+LINK "Chlesea community" "Chlesea entertainment"  Value: 140 
+LINK "Chlesea community" "Chlesea clips"  Value: 140 
+LINK "Chlesea community" "Chlesea Banners"  Value: 60 
+LINK "Chlesea community" "Chlesea Kids"  Value: 40 
+LINK "Chlesea community" "Chlesea Women"  Value: 80 
+LINK "Chlesea community" "Chlesea Commercial"  Value: 60 
+LINK "Chlesea community" "Chlesea Contacts"  Value: 120 
+LINK "Chlesea community" "Chlesea fantasy sport"  Value: "Liverpool clips" 
+LINK "Chlesea community" "Chlesea Streaming"  Value: 40 
+LINK "Chlesea community" "Chlesea affiliate"  Value: 60 
+LINK "Chlesea community" "Chlesea Supporters"  Value: 60 
+LINK "Chlesea community" "Chlesea Art"  Value: 100 
+LINK "Chlesea community" "Chlesea live score"  Value: 20 
+LINK "Chlesea community" "Chlesea Int"  Value: 120 
+LINK "Chlesea community" "Chlesea Team"  Value: 280 
+LINK "Chlesea community" "Chlesea Music"  Value: 40 
+LINK "Liverpool fans site"  "Liverpool blogs"  Value: 240 
+LINK "Liverpool fans site"  "Liverpool forums"  Value: 180 
+LINK "Liverpool fans site"  "Liverpool General links"  Value: 100 
+LINK "Liverpool fans site"  "Liverpool player sites"  Value: 1480 
+LINK "Liverpool fans site"  "Everton supporters"  Value: 40 
+LINK "Liverpool fans site"  "Chlesea games"  Value: 40 
+LINK "Liverpool fans site"  "Everton Art"  Value: 460 
+LINK "Liverpool fans site"  "Liverpool community"  Value: 80 
+LINK "Liverpool fans site"  "Liverpool News"  Value: 40 
+LINK "Liverpool fans site"  "Chlesea entertainment"  Value: 20 
+LINK "Liverpool fans site"  "Arsenal forums"  Value: 20 
+LINK "Liverpool fans site"  "Liverpool entertainment"  Value: 300 
+LINK "Liverpool fans site"  "Arsenal News"  Value: 20 
+LINK "Liverpool fans site"  "Arsenal fantasy"  Value: 180 
+LINK "Liverpool fans site"  "Arsenal Women"  Value: 340 
+LINK "Liverpool fans site"  "Liverpool clips"  Value: 140 
+LINK "Liverpool fans site"  "Liverpool Banners"  Value: 80 
+LINK "Liverpool fans site"  "Arsenal Supporters"  Value: 80 
+LINK "Liverpool fans site"  "Liverpool Kids"  Value: 780 
+LINK "Liverpool fans site"  "Arsenal Live Score"  Value: 20 
+LINK "Liverpool fans site"  "Liverpool women"  Value: 20 
+LINK "Liverpool fans site"  "Liverpool commercial"  Value: 80 
+LINK "Liverpool fans site"  "Liverpool fantasy sport"  Value: 40 
+LINK "Liverpool fans site"  "Liverpool streaming"  Value: 2260 
+LINK "Liverpool fans site"  "Liverpool affiliate"  Value: 40 
+LINK "Liverpool fans site"  "Liverpool supporers"  Value: 140 
+LINK "Liverpool fans site"  "Liverpool Art"  Value: 120 
+LINK "Liverpool fans site"  "Chlesea Banners"  Value: 20 
+LINK "Liverpool fans site"  "Chlesea Women"  Value: 40 
+LINK "Liverpool fans site"  "Liverpool live score"  Value: 60 
+LINK "Liverpool fans site"  "Chlesea Contacts"  Value: 40 
+LINK "Liverpool fans site"  "Chlesea live score"  Value: 40 
+LINK "Liverpool fans site"  "Man City Women"  Value: 20 
+LINK "Liverpool fans site"  "Man City Contacts"  Value: 20 
+LINK "Liverpool fans site"  "Liverpool int"  Value: 240 
+LINK "Liverpool fans site"  "Man City fantasy sport"  Value: 80 
+LINK "Liverpool fans site"  "Man U Team"  Value: 20 
+LINK "Liverpool fans site"  "Man City affiliate"  Value: 280 
+LINK "Chlesea News" "Chlesea games"  Value: 120 
+LINK "Chlesea News" "Chlesea entertainment"  Value: 120 
+LINK "Chlesea News" "Chlesea clips"  Value: 600 
+LINK "Chlesea News" "Chlesea Banners"  Value: 200 
+LINK "Chlesea News" "Chlesea Kids"  Value: 40 
+LINK "Chlesea News" "Chlesea Women"  Value: "Liverpool women" 
+LINK "Chlesea News" "Chlesea Commercial"  Value: 600 
+LINK "Chlesea News" "Chlesea Contacts"  Value: 320 
+LINK "Chlesea News" "Chlesea Streaming"  Value: 480 
+LINK "Chlesea News" "Chlesea affiliate"  Value: 200 
+LINK "Chlesea News" "Chlesea Supporters"  Value: 100 
+LINK "Chlesea News" "Chlesea Art"  Value: 3080 
+LINK "Chlesea News" "Chlesea live score"  Value: 80 
+LINK "Chlesea News" "Chlesea Int"  Value: 400 
+LINK "Chlesea News" "Chlesea Team"  Value: 500 
+LINK "Chlesea News" "Chlesea Music"  Value: 60 
+LINK "Liverpool blogs" "Liverpool forums"  Value: 580 
+LINK "Liverpool blogs" "Liverpool General links"  Value: 20 
+LINK "Liverpool blogs" "Liverpool player sites"  Value: 620 
+LINK "Liverpool blogs" "Everton affiliate"  Value: 60 
+LINK "Liverpool blogs" "Everton supporters"  Value: 100 
+LINK "Liverpool blogs" "Liverpool community"  Value: 40 
+LINK "Liverpool blogs" "Liverpool News"  Value: 20 
+LINK "Liverpool blogs" "Liverpool games"  Value: 260 
+LINK "Liverpool blogs" "Tottenham community"  Value: 100 
+LINK "Liverpool blogs" "Liverpool fantasy"  Value: 2140 
+LINK "Liverpool blogs" "Liverpool entertainment"  Value: 40 
+LINK "Liverpool blogs" "Arsenal News"  Value: 20 
+LINK "Liverpool blogs" "Arsenal Clips"  Value: 60 
+LINK "Liverpool blogs" "Arsenal Commercial"  Value: 20 
+LINK "Liverpool blogs" "Liverpool clips"  Value: 140 
+LINK "Liverpool blogs" "Liverpool Banners"  Value: 600 
+LINK "Liverpool blogs" "Arsenal affiliate"  Value: 40 
+LINK "Liverpool blogs" "Liverpool Kids"  Value: 120 
+LINK "Liverpool blogs" "Liverpool women"  Value: 40 
+LINK "Liverpool blogs" "Liverpool commercial"  Value: 900 
+LINK "Liverpool blogs" "Liverpool contacts"  Value: 340 
+LINK "Liverpool blogs" "Liverpool fantasy sport"  Value: 140 
+LINK "Liverpool blogs" "Liverpool streaming"  Value: 220 
+LINK "Liverpool blogs" "Liverpool affiliate"  Value: 200 
+LINK "Liverpool blogs" "Liverpool supporers"  Value: 40 
+LINK "Liverpool blogs" "Liverpool Art"  Value: 860 
+LINK "Liverpool blogs" "Liverpool live score"  Value: "Arsenal Player Sites" 
+LINK "Liverpool blogs" "Liverpool int"  Value: 180 
+LINK "Liverpool blogs" "Man City fantasy sport"  Value: 20 
+LINK "Liverpool forums" "Liverpool General links"  Value: 620 
+LINK "Liverpool forums" "Chlesea games"  Value: 20 
+LINK "Liverpool forums" "Liverpool community"  Value: 400 
+LINK "Liverpool forums" "Liverpool News"  Value: 120 
+LINK "Liverpool forums" "Chlesea entertainment"  Value: 40 
+LINK "Liverpool forums" "Tottenham community"  Value: 140 
+LINK "Liverpool forums" "Liverpool fantasy"  Value: 220 
+LINK "Liverpool forums" "Chlesea clips"  Value: 20 
+LINK "Liverpool forums" "Arsenal blogs"   Value: 20 
+LINK "Liverpool forums" "Arsenal forums"  Value: 60 
+LINK "Liverpool forums" "Arsenal General links"  Value: 20 
+LINK "Liverpool forums" "Arsenal Community"  Value: 860 
+LINK "Liverpool forums" "Liverpool entertainment"  Value: 100 
+LINK "Liverpool forums" "Man U Art"  Value: 40 
+LINK "Liverpool forums" "Arsenal games"  Value: 60 
+LINK "Liverpool forums" "Arsenal fantasy"  Value: 20 
+LINK "Liverpool forums" "Liverpool clips"  Value: 100 
+LINK "Liverpool forums" "Liverpool Banners"  Value: 20 
+LINK "Liverpool forums" "Arsenal Contactsl"  Value: 20 
+LINK "Liverpool forums" "Arsenal fantasy Sport"  Value: 20 
+LINK "Liverpool forums" "Arsenal Supporters"  Value: 20 
+LINK "Liverpool forums" "Liverpool Kids"  Value: 720 
+LINK "Liverpool forums" "Arsenal Art"  Value: 40 
+LINK "Liverpool forums" "Liverpool women"  Value: 20 
+LINK "Liverpool forums" "Liverpool commercial"  Value: 580 
+LINK "Liverpool forums" "Liverpool contacts"  Value: 20 
+LINK "Liverpool forums" "Liverpool streaming"  Value: 180 
+LINK "Liverpool forums" "Liverpool affiliate"  Value: 160 
+LINK "Liverpool forums" "Liverpool supporers"  Value: 560 
+LINK "Liverpool forums" "Liverpool Art"  Value: 920 
+LINK "Liverpool forums" "Chlesea Banners"  Value: 160 
+LINK "Liverpool forums" "Liverpool live score"  Value: 120 
+LINK "Liverpool forums" "Chlesea live score"  Value: 180 
+LINK "Liverpool forums" "Chlesea Int"  Value: 60 
+LINK "Liverpool forums" "Man City Women"  Value: 20 
+LINK "Liverpool forums" "Liverpool int"  Value: 1260 
+LINK "Liverpool forums" "Man City fantasy sport"  Value: 120 
+LINK "Liverpool forums" "Man City affiliate"  Value: 40 
+LINK "Liverpool General links" "Liverpool player sites"  Value: 80 
+LINK "Liverpool General links" "Chlesea games"  Value: 20 
+LINK "Liverpool General links" "Liverpool News"  Value: 1620 
+LINK "Liverpool General links" "Tottenham community"  Value: 200 
+LINK "Liverpool General links" "Liverpool fantasy"  Value: 20 
+LINK "Liverpool General links" "Chlesea clips"  Value: 40 
+LINK "Liverpool General links" "Arsenal blogs"   Value: 20 
+LINK "Liverpool General links" "Arsenal forums"  Value: 40 
+LINK "Liverpool General links" "Arsenal General links"  Value: 20 
+LINK "Liverpool General links" "Arsenal Community"  Value: 60 
+LINK "Liverpool General links" "Liverpool entertainment"  Value: 60 
+LINK "Liverpool General links" "Arsenal fantasy"  Value: 20 
+LINK "Liverpool General links" "Arsenal Banners"  Value: 120 
+LINK "Liverpool General links" "Arsenal Kids"  Value: 40 
+LINK "Liverpool General links" "Arsenal Women"  Value: 40 
+LINK "Liverpool General links" "Liverpool clips"  Value: 120 
+LINK "Liverpool General links" "Liverpool Banners"  Value: 40 
+LINK "Liverpool General links" "Arsenal fantasy Sport"  Value: 20 
+LINK "Liverpool General links" "Arsenal Streaming"  Value: 20 
+LINK "Liverpool General links" "Arsenal affiliate"  Value: 20 
+LINK "Liverpool General links" "Liverpool Kids"  Value: 2760 
+LINK "Liverpool General links" "Arsenal Art"  Value: 20 
+LINK "Liverpool General links" "Liverpool women"  Value: 220 
+LINK "Liverpool General links" "Liverpool commercial"  Value: 60 
+LINK "Liverpool General links" "Liverpool contacts"  Value: 60 
+LINK "Liverpool General links" "Liverpool fantasy sport"  Value: 240 
+LINK "Liverpool General links" "Liverpool streaming"  Value: 120 
+LINK "Liverpool General links" "Liverpool affiliate"  Value: 1180 
+LINK "Liverpool General links" "Liverpool supporers"  Value: 360 
+LINK "Liverpool General links" "Liverpool Art"  Value: 60 
+LINK "Liverpool General links" "Chlesea Women"  Value: 40 
+LINK "Liverpool General links" "Liverpool live score"  Value: 120 
+LINK "Liverpool General links" "Chlesea live score"  Value: 20 
+LINK "Liverpool General links" "Chlesea Int"  Value: 20 
+LINK "Liverpool General links" "Man City Women"  Value: 540 
+LINK "Liverpool General links" "Liverpool int"  Value: 800 
+LINK "Liverpool General links" "Man City fantasy sport"  Value: 60 
+LINK "Liverpool General links" "Man U Team"  Value: 20 
+LINK "Liverpool player sites" "Everton Art"  Value: 20 
+LINK "Liverpool player sites" "Liverpool community"  Value: 20 
+LINK "Liverpool player sites" "Liverpool News"  Value: 20 
+LINK "Liverpool player sites" "Liverpool games"  Value: 100 
+LINK "Liverpool player sites" "Chlesea entertainment"  Value: 180 
+LINK "Liverpool player sites" "Tottenham community"  Value: 100 
+LINK "Liverpool player sites" "Liverpool fantasy"  Value: 80 
+LINK "Liverpool player sites" "Chlesea clips"  Value: 20 
+LINK "Liverpool player sites" "Liverpool entertainment"  Value: 180 
+LINK "Liverpool player sites" "Arsenal News"  Value: 100 
+LINK "Liverpool player sites" "Arsenal Banners"  Value: 20 
+LINK "Liverpool player sites" "Liverpool clips"  Value: 20 
+LINK "Liverpool player sites" "Arsenal Streaming"  Value: 20 
+LINK "Liverpool player sites" "Arsenal Supporters"  Value: 660 
+LINK "Liverpool player sites" "Liverpool Kids"  Value: 120 
+LINK "Liverpool player sites" "Liverpool women"  Value: 20 
+LINK "Liverpool player sites" "Liverpool commercial"  Value: 140 
+LINK "Liverpool player sites" "Liverpool contacts"  Value: 2380 
+LINK "Liverpool player sites" "Liverpool fantasy sport"  Value: 120 
+LINK "Liverpool player sites" "Liverpool streaming"  Value: 1840 
+LINK "Liverpool player sites" "Liverpool affiliate"  Value: 60 
+LINK "Liverpool player sites" "Liverpool supporers"  Value: 120 
+LINK "Liverpool player sites" "Liverpool Art"  Value: 180 
+LINK "Liverpool player sites" "Chlesea Banners"  Value: 20 
+LINK "Liverpool player sites" "Chlesea Women"  Value: 20 
+LINK "Liverpool player sites" "Liverpool live score"  Value: 20 
+LINK "Liverpool player sites" "Chlesea Int"  Value: 20 
+LINK "Liverpool player sites" "Man City Women"  Value: 20 
+LINK "Liverpool player sites" "Liverpool int"  Value: 40 
+LINK "Liverpool player sites" "Man City fantasy sport"  Value: 100 
+LINK "Liverpool player sites" "Man City affiliate"  Value: 180 
+LINK "Everton affiliate" "Everton supporters"  Value: "Liverpool clips" 
+LINK "Everton affiliate" "Everton Art"  Value: 320 
+LINK "Everton affiliate" "Liverpool community"  Value: 20 
+LINK "Everton affiliate" "Tottenham community"  Value: 20 
+LINK "Everton affiliate" "Liverpool fantasy"  Value: 20 
+LINK "Everton affiliate" "Arsenal General links"  Value: 20 
+LINK "Everton affiliate" "Arsenal Community"  Value: 20 
+LINK "Everton affiliate" "Arsenal games"  Value: 20 
+LINK "Everton affiliate" "Arsenal entertainment"  Value: 20 
+LINK "Everton affiliate" "Arsenal Commercial"  Value: 20 
+LINK "Everton affiliate" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton affiliate" "Arsenal Live Score"  Value: 40 
+LINK "Everton affiliate" "Liverpool commercial"  Value: 20 
+LINK "Everton affiliate" "Liverpool fantasy sport"  Value: 20 
+LINK "Everton affiliate" "Liverpool live score"  Value: 20 
+LINK "Everton affiliate" "Liverpool int"  Value: 20 
+LINK "Everton affiliate" "Man City Streaming"  Value: 20 
+LINK "Everton supporters" "Everton Art"  Value: 180 
+LINK "Everton supporters" "Tottenham community"  Value: 20 
+LINK "Everton supporters" "Arsenal forums"  Value: 20 
+LINK "Everton supporters" "Arsenal General links"  Value: 20 
+LINK "Everton supporters" "Arsenal Kids"  Value: 20 
+LINK "Everton supporters" "Liverpool clips"  Value: 40 
+LINK "Everton supporters" "Liverpool Banners"  Value: 20 
+LINK "Everton supporters" "Arsenal fantasy Sport"  Value: 20 
+LINK "Everton supporters" "Arsenal Supporters"  Value: 20 
+LINK "Everton supporters" "Liverpool fantasy sport"  Value: 60 
+LINK "Everton supporters" "Liverpool streaming"  Value: 100 
+LINK "Everton supporters" "Liverpool Art"  Value: 620 
+LINK "Everton supporters" "Liverpool int"  Value: 20 
+LINK "Chlesea games" "Chlesea entertainment"  Value: 20 
+LINK "Chlesea games" "Chlesea clips"  Value: 40 
+LINK "Chlesea games" "Arsenal blogs"   Value: 60 
+LINK "Chlesea games" "Arsenal games"  Value: 320 
+LINK "Chlesea games" "Arsenal entertainment"  Value: 20 
+LINK "Chlesea games" "Liverpool clips"  Value: 100 
+LINK "Chlesea games" "Arsenal fantasy Sport"  Value: 280 
+LINK "Chlesea games" "Arsenal Streaming"  Value: 20 
+LINK "Chlesea games" "Arsenal affiliate"  Value: 40 
+LINK "Chlesea games" "Arsenal Art"  Value: 20 
+LINK "Chlesea games" "Liverpool streaming"  Value: 20 
+LINK "Chlesea games" "Liverpool affiliate"  Value: 20 
+LINK "Chlesea games" "Chlesea Banners"  Value: 40 
+LINK "Chlesea games" "Chlesea Kids"  Value: 100 
+LINK "Chlesea games" "Chlesea Women"  Value: 180 
+LINK "Chlesea games" "Chlesea Contacts"  Value: 40 
+LINK "Chlesea games" "Chlesea fantasy sport"  Value: 80 
+LINK "Chlesea games" "Chlesea affiliate"  Value: 20 
+LINK "Chlesea games" "Chlesea Supporters"  Value: 160 
+LINK "Chlesea games" "Chlesea Art"  Value: 240 
+LINK "Chlesea games" "Chlesea live score"  Value: "Everton Player sites" 
+LINK "Chlesea games" "Chlesea Int"  Value: 420 
+LINK "Chlesea games" "Chlesea Team"  Value: 540 
+LINK "Chlesea games" "Chlesea Music"  Value: 60 
+LINK "Chlesea games" "Man City Women"  Value: 40 
+LINK "Chlesea games" "Liverpool int"  Value: 20 
+LINK "Chlesea games" "Man City fantasy sport"  Value: 140 
+LINK "Chlesea games" "Man U Team"  Value: 40 
+LINK "Chlesea games" "Man City affiliate"  Value: 20 
+LINK "Everton Art" "Liverpool community"  Value: 60 
+LINK "Everton Art" "Tottenham community"  Value: 120 
+LINK "Everton Art" "Liverpool fantasy"  Value: 160 
+LINK "Everton Art" "Arsenal Art"  Value: 20 
+LINK "Everton Art" "Arsenal Live Score"  Value: 20 
+LINK "Everton Art" "Liverpool commercial"  Value: 20 
+LINK "Everton Art" "Liverpool affiliate"  Value: 20 
+LINK "Everton Art" "Man City affiliate"  Value: 40 
+LINK "Liverpool community" "Liverpool News"  Value: 680 
+LINK "Liverpool community" "Liverpool games"  Value: 100 
+LINK "Liverpool community" "Tottenham community"  Value: 100 
+LINK "Liverpool community" "Liverpool fantasy"  Value: 20 
+LINK "Liverpool community" "Liverpool entertainment"  Value: 20 
+LINK "Liverpool community" "Liverpool clips"  Value: 1020 
+LINK "Liverpool community" "Liverpool Banners"  Value: 40 
+LINK "Liverpool community" "Liverpool Kids"  Value: 20 
+LINK "Liverpool community" "Liverpool commercial"  Value: 60 
+LINK "Liverpool community" "Liverpool contacts"  Value: 20 
+LINK "Liverpool community" "Liverpool fantasy sport"  Value: 100 
+LINK "Liverpool community" "Liverpool streaming"  Value: 60 
+LINK "Liverpool community" "Liverpool affiliate"  Value: 20 
+LINK "Liverpool community" "Liverpool supporers"  Value: 80 
+LINK "Liverpool community" "Liverpool Art"  Value: 160 
+LINK "Liverpool community" "Liverpool live score"  Value: 100 
+LINK "Liverpool community" "Man City Contacts"  Value: 20 
+LINK "Liverpool community" "Liverpool int"  Value: 2200 
+LINK "Liverpool News" "Liverpool games"  Value: 40 
+LINK "Liverpool News" "Tottenham community"  Value: 20 
+LINK "Liverpool News" "Liverpool fantasy"  Value: 60 
+LINK "Liverpool News" "Arsenal Community"  Value: 20 
+LINK "Liverpool News" "Arsenal entertainment"  Value: 40 
+LINK "Liverpool News" "Liverpool clips"  Value: 1220 
+LINK "Liverpool News" "Liverpool Banners"  Value: 40 
+LINK "Liverpool News" "Arsenal Contactsl"  Value: 20 
+LINK "Liverpool News" "Liverpool Kids"  Value: 260 
+LINK "Liverpool News" "Arsenal Art"  Value: 20 
+LINK "Liverpool News" "Liverpool women"  Value: 260 
+LINK "Liverpool News" "Liverpool commercial"  Value: 100 
+LINK "Liverpool News" "Liverpool contacts"  Value: 80 
+LINK "Liverpool News" "Liverpool streaming"  Value: 100 
+LINK "Liverpool News" "Liverpool affiliate"  Value: 40 
+LINK "Liverpool News" "Liverpool supporers"  Value: 20 
+LINK "Liverpool News" "Liverpool Art"  Value: 120 
+LINK "Liverpool News" "Liverpool live score"  Value: 40 
+LINK "Liverpool News" "Man City Commercial"  Value: 40 
+LINK "Liverpool News" "Liverpool int"  Value: 860 
+LINK "Chlesea fantasy" "Chlesea entertainment"  Value: 260 
+LINK "Chlesea fantasy" "Chlesea clips"  Value: 160 
+LINK "Chlesea fantasy" "Chlesea Banners"  Value: 60 
+LINK "Chlesea fantasy" "Chlesea Kids"  Value: 20 
+LINK "Chlesea fantasy" "Chlesea Commercial"  Value: 300 
+LINK "Chlesea fantasy" "Chlesea Contacts"  Value: 40 
+LINK "Chlesea fantasy" "Chlesea Streaming"  Value: 2500 
+LINK "Chlesea fantasy" "Chlesea affiliate"  Value: 60 
+LINK "Chlesea fantasy" "Chlesea live score"  Value: 20 
+LINK "Chlesea fantasy" "Chlesea Int"  Value: 120 
+LINK "Chlesea fantasy" "Chlesea Team"  Value: 80 
+LINK "Chlesea fantasy" "Chlesea Music"  Value: 20 
+LINK "Chlesea fantasy" "Man U Int"  Value: 20 
+LINK "Chlesea fantasy" "Man U Music"  Value: 20 
+LINK "Liverpool games" "Liverpool fantasy"  Value: 40 
+LINK "Liverpool games" "Arsenal General links"  Value: 20 
+LINK "Liverpool games" "Arsenal Community"  Value: 20 
+LINK "Liverpool games" "Liverpool entertainment"  Value: 600 
+LINK "Liverpool games" "Arsenal News"  Value: 20 
+LINK "Liverpool games" "Liverpool clips"  Value: 260 
+LINK "Liverpool games" "Liverpool Banners"  Value: 60 
+LINK "Liverpool games" "Arsenal Contactsl"  Value: 20 
+LINK "Liverpool games" "Arsenal fantasy Sport"  Value: 20 
+LINK "Liverpool games" "Liverpool Kids"  Value: 80 
+LINK "Liverpool games" "Arsenal Live Score"  Value: 20 
+LINK "Liverpool games" "Liverpool women"  Value: 20 
+LINK "Liverpool games" "Liverpool commercial"  Value: 160 
+LINK "Liverpool games" "Liverpool contacts"  Value: 580 
+LINK "Liverpool games" "Liverpool fantasy sport"  Value: 100 
+LINK "Liverpool games" "Liverpool streaming"  Value: 60 
+LINK "Liverpool games" "Liverpool affiliate"  Value: 80 
+LINK "Liverpool games" "Liverpool supporers"  Value: 120 
+LINK "Liverpool games" "Liverpool Art"  Value: 240 
+LINK "Liverpool games" "Liverpool live score"  Value: 40 
+LINK "Liverpool games" "Liverpool int"  Value: 80 
+LINK "Liverpool games" "Man City Streaming"  Value: 20 
+LINK "Liverpool games" "Man City Art"  Value: 80 
+LINK "Liverpool games" "Man City Live score"  Value: 20 
+LINK "Chlesea entertainment" "Chlesea clips"  Value: 1100 
+LINK "Chlesea entertainment" "Arsenal blogs"   Value: 60 
+LINK "Chlesea entertainment" "Arsenal forums"  Value: 60 
+LINK "Chlesea entertainment" "Liverpool entertainment"  Value: 20 
+LINK "Chlesea entertainment" "Arsenal News"  Value: 80 
+LINK "Chlesea entertainment" "Man U Art"  Value: 40 
+LINK "Chlesea entertainment" "Arsenal games"  Value: 40 
+LINK "Chlesea entertainment" "Arsenal fantasy Sport"  Value: 20 
+LINK "Chlesea entertainment" "Arsenal affiliate"  Value: 120 
+LINK "Chlesea entertainment" "Arsenal Supporters"  Value: 1600 
+LINK "Chlesea entertainment" "Liverpool streaming"  Value: 20 
+LINK "Chlesea entertainment" "Chlesea Banners"  Value: 140 
+LINK "Chlesea entertainment" "Chlesea Women"  Value: 100 
+LINK "Chlesea entertainment" "Chlesea Commercial"  Value: 100 
+LINK "Chlesea entertainment" "Chlesea Contacts"  Value: 880 
+LINK "Chlesea entertainment" "Chlesea fantasy sport"  Value: 300 
+LINK "Chlesea entertainment" "Chlesea Streaming"  Value: 140 
+LINK "Chlesea entertainment" "Chlesea affiliate"  Value: 120 
+LINK "Chlesea entertainment" "Chlesea Supporters"  Value: 460 
+LINK "Chlesea entertainment" "Chlesea Art"  Value: 2000 
+LINK "Chlesea entertainment" "Chlesea live score"  Value: 740 
+LINK "Chlesea entertainment" "Chlesea Int"  Value: 140 
+LINK "Chlesea entertainment" "Chlesea Team"  Value: 40 
+LINK "Chlesea entertainment" "Chlesea Music"  Value: 600 
+LINK "Chlesea entertainment" "Liverpool int"  Value: 20 
+LINK "Chlesea entertainment" "Man U Team"  Value: 120 
+LINK "Chlesea entertainment" "Man U Music"  Value: 60 
+LINK "Tottenham player sites" "Chlesea clips"  Value: 20 
+LINK "Tottenham player sites" "Tottenham News"  Value: 40 
+LINK "Tottenham player sites" "Arsenal News"  Value: 20 
+LINK "Tottenham player sites" "Man U Art"  Value: 460 
+LINK "Tottenham player sites" "Arsenal entertainment"  Value: 220 
+LINK "Tottenham player sites" "Man U Live Score"  Value: 280 
+LINK "Tottenham player sites" "Tottenham games"  Value: 20 
+LINK "Tottenham player sites" "Chlesea Art"  Value: 20 
+LINK "Tottenham player sites" "Man U Int"  Value: 340 
+LINK "Tottenham player sites" "Man City fantasy sport"  Value: 20 
+LINK "Tottenham player sites" "Man U Team"  Value: 480 
+LINK "Tottenham player sites" "Man City affiliate"  Value: 20 
+LINK "Tottenham player sites" "Man U Music"  Value: 140 
+LINK "Tottenham player sites" "Tottenham Clips"  Value: 100 
+LINK "Tottenham community" "Liverpool fantasy"  Value: 120 
+LINK "Tottenham community" "Tottenham News"  Value: 40 
+LINK "Tottenham community" "Liverpool entertainment"  Value: 140 
+LINK "Tottenham community" "Arsenal fantasy"  Value: 20 
+LINK "Tottenham community" "Liverpool clips"  Value: 140 
+LINK "Tottenham community" "Liverpool Banners"  Value: 60 
+LINK "Tottenham community" "Liverpool Kids"  Value: 220 
+LINK "Tottenham community" "Liverpool women"  Value: 20 
+LINK "Tottenham community" "Liverpool commercial"  Value: 260 
+LINK "Tottenham community" "Liverpool contacts"  Value: 180 
+LINK "Tottenham community" "Liverpool fantasy sport"  Value: 60 
+LINK "Tottenham community" "Liverpool streaming"  Value: 80 
+LINK "Tottenham community" "Liverpool affiliate"  Value: 80 
+LINK "Tottenham community" "Liverpool supporers"  Value: 300 
+LINK "Tottenham community" "Liverpool Art"  Value: 180 
+LINK "Tottenham community" "Tottenham entertainment"  Value: 60 
+LINK "Tottenham community" "Liverpool int"  Value: 320 
+LINK "Tottenham community" "Tottenham Clips"  Value: 120 
+LINK "Liverpool fantasy" "Liverpool entertainment"  Value: 40 
+LINK "Liverpool fantasy" "Arsenal Women"  Value: 20 
+LINK "Liverpool fantasy" "Liverpool clips"  Value: 60 
+LINK "Liverpool fantasy" "Liverpool Banners"  Value: 300 
+LINK "Liverpool fantasy" "Liverpool Kids"  Value: 60 
+LINK "Liverpool fantasy" "Arsenal Art"  Value: 20 
+LINK "Liverpool fantasy" "Liverpool commercial"  Value: 200 
+LINK "Liverpool fantasy" "Liverpool contacts"  Value: 540 
+LINK "Liverpool fantasy" "Liverpool fantasy sport"  Value: 120 
+LINK "Liverpool fantasy" "Liverpool streaming"  Value: 260 
+LINK "Liverpool fantasy" "Liverpool affiliate"  Value: 1040 
+LINK "Liverpool fantasy" "Liverpool supporers"  Value: 100 
+LINK "Liverpool fantasy" "Liverpool Art"  Value: 80 
+LINK "Liverpool fantasy" "Liverpool live score"  Value: 380 
+LINK "Liverpool fantasy" "Man City Commercial"  Value: 20 
+LINK "Liverpool fantasy" "Liverpool int"  Value: 40 
+LINK "Liverpool fantasy" "Man City affiliate"  Value: 20 
+LINK "Liverpool fantasy" "Man City Supporters"  Value: 20 
+LINK "Chlesea clips" "Arsenal forums"  Value: 40 
+LINK "Chlesea clips" "Arsenal Community"  Value: 20 
+LINK "Chlesea clips" "Arsenal News"  Value: 840 
+LINK "Chlesea clips" "Arsenal Supporters"  Value: 100 
+LINK "Chlesea clips" "Liverpool Kids"  Value: 20 
+LINK "Chlesea clips" "Liverpool streaming"  Value: 20 
+LINK "Chlesea clips" "Chlesea Banners"  Value: 60 
+LINK "Chlesea clips" "Chlesea Kids"  Value: 60 
+LINK "Chlesea clips" "Chlesea Women"  Value: 160 
+LINK "Chlesea clips" "Chlesea Commercial"  Value: 100 
+LINK "Chlesea clips" "Chlesea Contacts"  Value: 220 
+LINK "Chlesea clips" "Chlesea fantasy sport"  Value: 2260 
+LINK "Chlesea clips" "Chlesea Streaming"  Value: 60 
+LINK "Chlesea clips" "Chlesea affiliate"  Value: 340 
+LINK "Chlesea clips" "Chlesea Supporters"  Value: 1940 
+LINK "Chlesea clips" "Chlesea Art"  Value: 40 
+LINK "Chlesea clips" "Chlesea live score"  Value: 220 
+LINK "Chlesea clips" "Chlesea Int"  Value: 240 
+LINK "Chlesea clips" "Chlesea Team"  Value: 80 
+LINK "Chlesea clips" "Chlesea Music"  Value: 40 
+LINK "Chlesea clips" "Man City Women"  Value: 20 
+LINK "Chlesea clips" "Man City Commercial"  Value: 20 
+LINK "Chlesea clips" "Man City fantasy sport"  Value: 40 
+LINK "Chlesea clips" "Man City affiliate"  Value: 60 
+LINK "Arsenal blogs"  "Tottenham News"  Value: 80 
+LINK "Arsenal blogs"  "Arsenal forums"  Value: 300 
+LINK "Arsenal blogs"  "Arsenal General links"  Value: 240 
+LINK "Arsenal blogs"  "Arsenal Player Sites"  Value: 80 
+LINK "Arsenal blogs"  "Arsenal Community"  Value: 380 
+LINK "Arsenal blogs"  "Arsenal News"  Value: 500 
+LINK "Arsenal blogs"  "Man U Art"  Value: 20 
+LINK "Arsenal blogs"  "Arsenal games"  Value: "Liverpool forums" 
+LINK "Arsenal blogs"  "Arsenal fantasy"  Value: 320 
+LINK "Arsenal blogs"  "Arsenal entertainment"  Value: 100 
+LINK "Arsenal blogs"  "Arsenal Clips"  Value: 40 
+LINK "Arsenal blogs"  "Arsenal Banners"  Value: 420 
+LINK "Arsenal blogs"  "Arsenal Kids"  Value: 40 
+LINK "Arsenal blogs"  "Arsenal Women"  Value: 100 
+LINK "Arsenal blogs"  "Arsenal Commercial"  Value: 40 
+LINK "Arsenal blogs"  "Liverpool clips"  Value: 40 
+LINK "Arsenal blogs"  "Arsenal Contactsl"  Value: 460 
+LINK "Arsenal blogs"  "Arsenal fantasy Sport"  Value: 1220 
+LINK "Arsenal blogs"  "Arsenal Streaming"  Value: 120 
+LINK "Arsenal blogs"  "Arsenal affiliate"  Value: 60 
+LINK "Arsenal blogs"  "Arsenal Supporters"  Value: 180 
+LINK "Arsenal blogs"  "Liverpool Kids"  Value: 20 
+LINK "Arsenal blogs"  "Arsenal Art"  Value: 140 
+LINK "Arsenal blogs"  "Arsenal Live Score"  Value: 120 
+LINK "Arsenal blogs"  "Liverpool Art"  Value: 20 
+LINK "Arsenal blogs"  "Chlesea Int"  Value: 60 
+LINK "Arsenal blogs"  "Liverpool int"  Value: 40 
+LINK "Arsenal blogs"  "Man City fantasy sport"  Value: 40 
+LINK "Arsenal blogs"  "Man U Team"  Value: 120 
+LINK "Arsenal blogs"  "Man City Streaming"  Value: 20 
+LINK "Arsenal blogs"  "Man City affiliate"  Value: 80 
+LINK "Arsenal blogs"  "Man U Music"  Value: 120 
+LINK "Tottenham News" "Arsenal forums"  Value: 20 
+LINK "Tottenham News" "Arsenal General links"  Value: 40 
+LINK "Tottenham News" "Arsenal Player Sites"  Value: 120 
+LINK "Tottenham News" "Arsenal Community"  Value: 180 
+LINK "Tottenham News" "Arsenal News"  Value: 20 
+LINK "Tottenham News" "Arsenal fantasy"  Value: 100 
+LINK "Tottenham News" "Arsenal entertainment"  Value: 40 
+LINK "Tottenham News" "Arsenal Clips"  Value: 60 
+LINK "Tottenham News" "Arsenal Banners"  Value: 80 
+LINK "Tottenham News" "Arsenal Kids"  Value: 120 
+LINK "Tottenham News" "Arsenal Commercial"  Value: 40 
+LINK "Tottenham News" "Arsenal Contactsl"  Value: 160 
+LINK "Tottenham News" "Arsenal fantasy Sport"  Value: 60 
+LINK "Tottenham News" "Arsenal Streaming"  Value: 60 
+LINK "Tottenham News" "Arsenal Supporters"  Value: 20 
+LINK "Tottenham News" "Arsenal Art"  Value: 20 
+LINK "Tottenham News" "Arsenal Live Score"  Value: 20 
+LINK "Tottenham News" "Man City fantasy sport"  Value: 20 
+LINK "Tottenham News" "Tottenham Clips"  Value: 40 
+LINK "Arsenal forums" "Arsenal General links"  Value: 200 
+LINK "Arsenal forums" "Arsenal Player Sites"  Value: 780 
+LINK "Arsenal forums" "Arsenal Community"  Value: 740 
+LINK "Arsenal forums" "Liverpool entertainment"  Value: 20 
+LINK "Arsenal forums" "Arsenal News"  Value: 20 
+LINK "Arsenal forums" "Man U Art"  Value: 400 
+LINK "Arsenal forums" "Arsenal games"  Value: 160 
+LINK "Arsenal forums" "Arsenal fantasy"  Value: 40 
+LINK "Arsenal forums" "Arsenal entertainment"  Value: 1320 
+LINK "Arsenal forums" "Arsenal Clips"  Value: 80 
+LINK "Arsenal forums" "Arsenal Banners"  Value: 120 
+LINK "Arsenal forums" "Arsenal Kids"  Value: 440 
+LINK "Arsenal forums" "Arsenal Women"  Value: 100 
+LINK "Arsenal forums" "Arsenal Commercial"  Value: 520 
+LINK "Arsenal forums" "Arsenal Contactsl"  Value: 880 
+LINK "Arsenal forums" "Arsenal fantasy Sport"  Value: 280 
+LINK "Arsenal forums" "Arsenal Streaming"  Value: 1220 
+LINK "Arsenal forums" "Arsenal affiliate"  Value: 60 
+LINK "Arsenal forums" "Arsenal Supporters"  Value: 880 
+LINK "Arsenal forums" "Arsenal Art"  Value: 340 
+LINK "Arsenal forums" "Arsenal Live Score"  Value: 60 
+LINK "Arsenal forums" "Liverpool contacts"  Value: 20 
+LINK "Arsenal forums" "Liverpool streaming"  Value: 40 
+LINK "Arsenal forums" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal forums" "Liverpool supporers"  Value: 20 
+LINK "Arsenal forums" "Chlesea Women"  Value: 20 
+LINK "Arsenal forums" "Chlesea live score"  Value: 120 
+LINK "Arsenal forums" "Chlesea Int"  Value: 640 
+LINK "Arsenal forums" "Man City Women"  Value: 20 
+LINK "Arsenal forums" "Man U Team"  Value: 100 
+LINK "Arsenal forums" "Man City Streaming"  Value: 40 
+LINK "Arsenal forums" "Man U Music"  Value: 2380 
+LINK "Arsenal General links" "Arsenal Player Sites"  Value: 240 
+LINK "Arsenal General links" "Arsenal Community"  Value: 360 
+LINK "Arsenal General links" "Arsenal News"  Value: 280 
+LINK "Arsenal General links" "Arsenal games"  Value: 300 
+LINK "Arsenal General links" "Arsenal fantasy"  Value: 1180 
+LINK "Arsenal General links" "Arsenal entertainment"  Value: 100 
+LINK "Arsenal General links" "Arsenal Clips"  Value: 20 
+LINK "Arsenal General links" "Arsenal Banners"  Value: 100 
+LINK "Arsenal General links" "Arsenal Kids"  Value: 300 
+LINK "Arsenal General links" "Arsenal Women"  Value: 720 
+LINK "Arsenal General links" "Arsenal Commercial"  Value: 120 
+LINK "Arsenal General links" "Arsenal Contactsl"  Value: 420 
+LINK "Arsenal General links" "Arsenal fantasy Sport"  Value: "Man U Clips" 
+LINK "Arsenal General links" "Arsenal Streaming"  Value: 160 
+LINK "Arsenal General links" "Arsenal affiliate"  Value: 140 
+LINK "Arsenal General links" "Arsenal Supporters"  Value: 160 
+LINK "Arsenal General links" "Arsenal Art"  Value: 160 
+LINK "Arsenal General links" "Arsenal Live Score"  Value: 240 
+LINK "Arsenal General links" "Liverpool commercial"  Value: 40 
+LINK "Arsenal General links" "Liverpool supporers"  Value: 20 
+LINK "Arsenal General links" "Chlesea Women"  Value: 20 
+LINK "Arsenal General links" "Man City fantasy sport"  Value: 40 
+LINK "Arsenal General links" "Man City Supporters"  Value: 20 
+LINK "Arsenal Player Sites" "Arsenal Community"  Value: 120 
+LINK "Arsenal Player Sites" "Arsenal News"  Value: 140 
+LINK "Arsenal Player Sites" "Arsenal games"  Value: 480 
+LINK "Arsenal Player Sites" "Arsenal entertainment"  Value: 1840 
+LINK "Arsenal Player Sites" "Arsenal Clips"  Value: 540 
+LINK "Arsenal Player Sites" "Arsenal Banners"  Value: 80 
+LINK "Arsenal Player Sites" "Arsenal Kids"  Value: 160 
+LINK "Arsenal Player Sites" "Arsenal Women"  Value: 40 
+LINK "Arsenal Player Sites" "Arsenal Commercial"  Value: 60 
+LINK "Arsenal Player Sites" "Arsenal Contactsl"  Value: 80 
+LINK "Arsenal Player Sites" "Arsenal fantasy Sport"  Value: 60 
+LINK "Arsenal Player Sites" "Arsenal Streaming"  Value: 60 
+LINK "Arsenal Player Sites" "Arsenal affiliate"  Value: 120 
+LINK "Arsenal Player Sites" "Arsenal Supporters"  Value: 20 
+LINK "Arsenal Player Sites" "Arsenal Art"  Value: 1440 
+LINK "Arsenal Player Sites" "Arsenal Live Score"  Value: 380 
+LINK "Arsenal Player Sites" "Chlesea live score"  Value: 20 
+LINK "Arsenal Player Sites" "Man City Commercial"  Value: 20 
+LINK "Arsenal Player Sites" "Liverpool int"  Value: 20 
+LINK "Arsenal Community" "Liverpool entertainment"  Value: 20 
+LINK "Arsenal Community" "Arsenal News"  Value: 40 
+LINK "Arsenal Community" "Arsenal games"  Value: 300 
+LINK "Arsenal Community" "Arsenal fantasy"  Value: 260 
+LINK "Arsenal Community" "Arsenal entertainment"  Value: 100 
+LINK "Arsenal Community" "Arsenal Clips"  Value: 80 
+LINK "Arsenal Community" "Arsenal Banners"  Value: 100 
+LINK "Arsenal Community" "Arsenal Kids"  Value: 120 
+LINK "Arsenal Community" "Arsenal Women"  Value: 360 
+LINK "Arsenal Community" "Arsenal Commercial"  Value: 40 
+LINK "Arsenal Community" "Arsenal Contactsl"  Value: 1500 
+LINK "Arsenal Community" "Arsenal fantasy Sport"  Value: 180 
+LINK "Arsenal Community" "Arsenal Streaming"  Value: 460 
+LINK "Arsenal Community" "Arsenal affiliate"  Value: 60 
+LINK "Arsenal Community" "Arsenal Supporters"  Value: 40 
+LINK "Arsenal Community" "Liverpool Kids"  Value: 40 
+LINK "Arsenal Community" "Arsenal Art"  Value: 80 
+LINK "Arsenal Community" "Arsenal Live Score"  Value: 40 
+LINK "Arsenal Community" "Liverpool contacts"  Value: 40 
+LINK "Arsenal Community" "Liverpool fantasy sport"  Value: 40 
+LINK "Arsenal Community" "Liverpool streaming"  Value: 20 
+LINK "Arsenal Community" "Chlesea Banners"  Value: 760 
+LINK "Arsenal Community" "Liverpool live score"  Value: 20 
+LINK "Arsenal Community" "Chlesea Contacts"  Value: 20 
+LINK "Arsenal Community" "Chlesea live score"  Value: 40 
+LINK "Arsenal Community" "Chlesea Int"  Value: 20 
+LINK "Arsenal Community" "Liverpool int"  Value: 60 
+LINK "Arsenal Community" "Man City fantasy sport"  Value: 1080 
+LINK "Arsenal Community" "Man U Team"  Value: 100 
+LINK "Arsenal Community" "Man City Streaming"  Value: 20 
+LINK "Arsenal Community" "Man City affiliate"  Value: 20 
+LINK "Arsenal Community" "Man U Music"  Value: 120 
+LINK "Liverpool entertainment" "Man U Art"  Value: 20 
+LINK "Liverpool entertainment" "Liverpool clips"  Value: 60 
+LINK "Liverpool entertainment" "Liverpool Banners"  Value: 60 
+LINK "Liverpool entertainment" "Arsenal Streaming"  Value: 20 
+LINK "Liverpool entertainment" "Arsenal Supporters"  Value: 20 
+LINK "Liverpool entertainment" "Liverpool Kids"  Value: 100 
+LINK "Liverpool entertainment" "Liverpool commercial"  Value: 40 
+LINK "Liverpool entertainment" "Liverpool contacts"  Value: 620 
+LINK "Liverpool entertainment" "Liverpool fantasy sport"  Value: 40 
+LINK "Liverpool entertainment" "Liverpool streaming"  Value: 240 
+LINK "Liverpool entertainment" "Liverpool affiliate"  Value: 220 
+LINK "Liverpool entertainment" "Liverpool supporers"  Value: 240 
+LINK "Liverpool entertainment" "Liverpool Art"  Value: 20 
+LINK "Liverpool entertainment" "Tottenham entertainment"  Value: 80 
+LINK "Liverpool entertainment" "Man City Women"  Value: 40 
+LINK "Liverpool entertainment" "Liverpool int"  Value: 220 
+LINK "Liverpool entertainment" "Man City Streaming"  Value: 20 
+LINK "Liverpool entertainment" "Man City Art"  Value: 40 
+LINK "Arsenal News" "Man U Art"  Value: 140 
+LINK "Arsenal News" "Arsenal games"  Value: 20 
+LINK "Arsenal News" "Arsenal fantasy"  Value: 140 
+LINK "Arsenal News" "Arsenal entertainment"  Value: 120 
+LINK "Arsenal News" "Arsenal Clips"  Value: 180 
+LINK "Arsenal News" "Arsenal Banners"  Value: 240 
+LINK "Arsenal News" "Arsenal Kids"  Value: 840 
+LINK "Arsenal News" "Arsenal Women"  Value: 520 
+LINK "Arsenal News" "Arsenal Commercial"  Value: 120 
+LINK "Arsenal News" "Liverpool Banners"  Value: 20 
+LINK "Arsenal News" "Arsenal Contactsl"  Value: 160 
+LINK "Arsenal News" "Arsenal fantasy Sport"  Value: 420 
+LINK "Arsenal News" "Arsenal Streaming"  Value: 80 
+LINK "Arsenal News" "Arsenal affiliate"  Value: 20 
+LINK "Arsenal News" "Arsenal Supporters"  Value: 1660 
+LINK "Arsenal News" "Liverpool Kids"  Value: 20 
+LINK "Arsenal News" "Arsenal Art"  Value: 180 
+LINK "Arsenal News" "Arsenal Live Score"  Value: 160 
+LINK "Arsenal News" "Liverpool streaming"  Value: 20 
+LINK "Arsenal News" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal News" "Liverpool Art"  Value: 20 
+LINK "Arsenal News" "Chlesea Banners"  Value: 20 
+LINK "Arsenal News" "Chlesea Women"  Value: 40 
+LINK "Arsenal News" "Man City Women"  Value: 20 
+LINK "Arsenal News" "Man U Team"  Value: 300 
+LINK "Arsenal News" "Man City Streaming"  Value: 20 
+LINK "Arsenal News" "Man City affiliate"  Value: 20 
+LINK "Man U Art" "Arsenal fantasy"  Value: 20 
+LINK "Man U Art" "Arsenal entertainment"  Value: 20 
+LINK "Man U Art" "Arsenal Banners"  Value: 40 
+LINK "Man U Art" "Arsenal Women"  Value: 60 
+LINK "Man U Art" "Man U Live Score"  Value: 920 
+LINK "Man U Art" "Liverpool clips"  Value: 20 
+LINK "Man U Art" "Arsenal fantasy Sport"  Value: 20 
+LINK "Man U Art" "Arsenal affiliate"  Value: 20 
+LINK "Man U Art" "Arsenal Supporters"  Value: 40 
+LINK "Man U Art" "Liverpool Kids"  Value: 40 
+LINK "Man U Art" "Chlesea Banners"  Value: 20 
+LINK "Man U Art" "Chlesea Kids"  Value: 80 
+LINK "Man U Art" "Chlesea Women"  Value: 20 
+LINK "Man U Art" "Chlesea Contacts"  Value: 20 
+LINK "Man U Art" "Chlesea live score"  Value: 80 
+LINK "Man U Art" "Chlesea Int"  Value: 1120 
+LINK "Man U Art" "Chlesea Team"  Value: 20 
+LINK "Man U Art" "Man City Women"  Value: 40 
+LINK "Man U Art" "Man U Int"  Value: 2320 
+LINK "Man U Art" "Man City fantasy sport"  Value: 80 
+LINK "Man U Art" "Man U Team"  Value: 640 
+LINK "Man U Art" "Man U Music"  Value: 1020 
+LINK "Arsenal games" "Arsenal fantasy"  Value: 420 
+LINK "Arsenal games" "Arsenal entertainment"  Value: 20 
+LINK "Arsenal games" "Arsenal Clips"  Value: 860 
+LINK "Arsenal games" "Arsenal Banners"  Value: 1860 
+LINK "Arsenal games" "Arsenal Kids"  Value: 220 
+LINK "Arsenal games" "Arsenal Women"  Value: 60 
+LINK "Arsenal games" "Arsenal Commercial"  Value: 40 
+LINK "Arsenal games" "Arsenal Contactsl"  Value: 160 
+LINK "Arsenal games" "Arsenal fantasy Sport"  Value: 860 
+LINK "Arsenal games" "Arsenal Streaming"  Value: 160 
+LINK "Arsenal games" "Arsenal affiliate"  Value: 200 
+LINK "Arsenal games" "Arsenal Supporters"  Value: 140 
+LINK "Arsenal games" "Liverpool Kids"  Value: 40 
+LINK "Arsenal games" "Arsenal Art"  Value: 180 
+LINK "Arsenal games" "Arsenal Live Score"  Value: 380 
+LINK "Arsenal games" "Liverpool supporers"  Value: 20 
+LINK "Arsenal games" "Liverpool Art"  Value: 20 
+LINK "Arsenal games" "Chlesea Banners"  Value: 20 
+LINK "Arsenal games" "Chlesea Contacts"  Value: 40 
+LINK "Arsenal games" "Chlesea live score"  Value: 80 
+LINK "Arsenal games" "Chlesea Int"  Value: 60 
+LINK "Arsenal games" "Man City Women"  Value: 40 
+LINK "Arsenal games" "Liverpool int"  Value: 20 
+LINK "Arsenal games" "Man City fantasy sport"  Value: 40 
+LINK "Arsenal games" "Man U Team"  Value: 40 
+LINK "Arsenal games" "Man City affiliate"  Value: 20 
+LINK "Arsenal games" "Man U Music"  Value: 80 
+LINK "Arsenal fantasy" "Arsenal entertainment"  Value: 60 
+LINK "Arsenal fantasy" "Arsenal Clips"  Value: 20 
+LINK "Arsenal fantasy" "Arsenal Banners"  Value: 40 
+LINK "Arsenal fantasy" "Arsenal Kids"  Value: 260 
+LINK "Arsenal fantasy" "Arsenal Women"  Value: 580 
+LINK "Arsenal fantasy" "Arsenal Commercial"  Value: 60 
+LINK "Arsenal fantasy" "Liverpool clips"  Value: 60 
+LINK "Arsenal fantasy" "Arsenal Contactsl"  Value: 180 
+LINK "Arsenal fantasy" "Arsenal fantasy Sport"  Value: 2300 
+LINK "Arsenal fantasy" "Arsenal Streaming"  Value: 180 
+LINK "Arsenal fantasy" "Arsenal affiliate"  Value: 340 
+LINK "Arsenal fantasy" "Arsenal Supporters"  Value: 100 
+LINK "Arsenal fantasy" "Arsenal Art"  Value: 40 
+LINK "Arsenal fantasy" "Arsenal Live Score"  Value: 80 
+LINK "Arsenal fantasy" "Liverpool streaming"  Value: 200 
+LINK "Arsenal fantasy" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal fantasy" "Liverpool supporers"  Value: 660 
+LINK "Arsenal fantasy" "Chlesea Banners"  Value: 20 
+LINK "Arsenal fantasy" "Chlesea Women"  Value: 800 
+LINK "Arsenal fantasy" "Chlesea Contacts"  Value: 20 
+LINK "Arsenal fantasy" "Chlesea Int"  Value: 40 
+LINK "Arsenal fantasy" "Liverpool int"  Value: 20 
+LINK "Arsenal fantasy" "Man City fantasy sport"  Value: 100 
+LINK "Arsenal fantasy" "Man City affiliate"  Value: 1060 
+LINK "Arsenal fantasy" "Man U Music"  Value: 40 
+LINK "Arsenal entertainment" "Arsenal Clips"  Value: 360 
+LINK "Arsenal entertainment" "Arsenal Banners"  Value: 60 
+LINK "Arsenal entertainment" "Arsenal Kids"  Value: 60 
+LINK "Arsenal entertainment" "Arsenal Women"  Value: 80 
+LINK "Arsenal entertainment" "Arsenal Commercial"  Value: 180 
+LINK "Arsenal entertainment" "Arsenal Contactsl"  Value: 560 
+LINK "Arsenal entertainment" "Arsenal fantasy Sport"  Value: 220 
+LINK "Arsenal entertainment" "Arsenal Streaming"  Value: 100 
+LINK "Arsenal entertainment" "Arsenal affiliate"  Value: 80 
+LINK "Arsenal entertainment" "Arsenal Supporters"  Value: 200 
+LINK "Arsenal entertainment" "Arsenal Art"  Value: 880 
+LINK "Arsenal entertainment" "Arsenal Live Score"  Value: 860 
+LINK "Arsenal entertainment" "Liverpool women"  Value: 20 
+LINK "Arsenal entertainment" "Liverpool affiliate"  Value: 40 
+LINK "Arsenal entertainment" "Liverpool live score"  Value: 40 
+LINK "Arsenal entertainment" "Man City Commercial"  Value: 20 
+LINK "Arsenal entertainment" "Man City Contacts"  Value: 20 
+LINK "Arsenal entertainment" "Man City fantasy sport"  Value: 20 
+LINK "Arsenal entertainment" "Man City affiliate"  Value: 20 
+LINK "Arsenal Clips" "Arsenal Banners"  Value: 200 
+LINK "Arsenal Clips" "Arsenal Kids"  Value: 300 
+LINK "Arsenal Clips" "Arsenal Commercial"  Value: 140 
+LINK "Arsenal Clips" "Arsenal Contactsl"  Value: 60 
+LINK "Arsenal Clips" "Arsenal fantasy Sport"  Value: 60 
+LINK "Arsenal Clips" "Arsenal Streaming"  Value: 20 
+LINK "Arsenal Clips" "Arsenal affiliate"  Value: 20 
+LINK "Arsenal Clips" "Arsenal Supporters"  Value: 140 
+LINK "Arsenal Clips" "Arsenal Art"  Value: 180 
+LINK "Arsenal Clips" "Arsenal Live Score"  Value: 160 
+LINK "Arsenal Clips" "Man City Commercial"  Value: 20 
+LINK "Arsenal Clips" "Man U Music"  Value: 20 
+LINK "Arsenal Banners" "Arsenal Kids"  Value: 700 
+LINK "Arsenal Banners" "Arsenal Women"  Value: 1300 
+LINK "Arsenal Banners" "Arsenal Commercial"  Value: 140 
+LINK "Arsenal Banners" "Liverpool clips"  Value: 20 
+LINK "Arsenal Banners" "Liverpool Banners"  Value: 20 
+LINK "Arsenal Banners" "Arsenal Contactsl"  Value: 320 
+LINK "Arsenal Banners" "Arsenal fantasy Sport"  Value: 920 
+LINK "Arsenal Banners" "Arsenal Streaming"  Value: 260 
+LINK "Arsenal Banners" "Arsenal affiliate"  Value: 80 
+LINK "Arsenal Banners" "Arsenal Supporters"  Value: 240 
+LINK "Arsenal Banners" "Liverpool Kids"  Value: 500 
+LINK "Arsenal Banners" "Arsenal Live Score"  Value: 840 
+LINK "Arsenal Banners" "Liverpool contacts"  Value: 40 
+LINK "Arsenal Banners" "Liverpool streaming"  Value: 20 
+LINK "Arsenal Banners" "Tottenham entertainment"  Value: 20 
+LINK "Arsenal Banners" "Chlesea Int"  Value: 40 
+LINK "Arsenal Banners" "Man City Women"  Value: 440 
+LINK "Arsenal Banners" "Liverpool int"  Value: 460 
+LINK "Arsenal Banners" "Man U Team"  Value: 20 
+LINK "Arsenal Banners" "Man City Supporters"  Value: 20 
+LINK "Arsenal Banners" "Man City Art"  Value: 20 
+LINK "Arsenal Kids" "Arsenal Women"  Value: "Everton contacts" 
+LINK "Arsenal Kids" "Arsenal Commercial"  Value: 180 
+LINK "Arsenal Kids" "Liverpool clips"  Value: 20 
+LINK "Arsenal Kids" "Arsenal Contactsl"  Value: 120 
+LINK "Arsenal Kids" "Arsenal fantasy Sport"  Value: 180 
+LINK "Arsenal Kids" "Arsenal Streaming"  Value: 100 
+LINK "Arsenal Kids" "Arsenal affiliate"  Value: 20 
+LINK "Arsenal Kids" "Arsenal Supporters"  Value: 60 
+LINK "Arsenal Kids" "Arsenal Art"  Value: 80 
+LINK "Arsenal Kids" "Arsenal Live Score"  Value: 60 
+LINK "Arsenal Kids" "Liverpool commercial"  Value: 20 
+LINK "Arsenal Kids" "Man City Commercial"  Value: 20 
+LINK "Arsenal Kids" "Man City fantasy sport"  Value: 40 
+LINK "Arsenal Kids" "Man U Music"  Value: 60 
+LINK "Arsenal Women" "Arsenal Commercial"  Value: 120 
+LINK "Arsenal Women" "Arsenal Contactsl"  Value: 300 
+LINK "Arsenal Women" "Arsenal fantasy Sport"  Value: 900 
+LINK "Arsenal Women" "Arsenal Streaming"  Value: 320 
+LINK "Arsenal Women" "Arsenal affiliate"  Value: 560 
+LINK "Arsenal Women" "Arsenal Supporters"  Value: 220 
+LINK "Arsenal Women" "Arsenal Art"  Value: 80 
+LINK "Arsenal Women" "Arsenal Live Score"  Value: 40 
+LINK "Arsenal Women" "Liverpool streaming"  Value: 160 
+LINK "Arsenal Women" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal Women" "Liverpool supporers"  Value: 20 
+LINK "Arsenal Women" "Chlesea Banners"  Value: 40 
+LINK "Arsenal Women" "Chlesea live score"  Value: 20 
+LINK "Arsenal Women" "Chlesea Int"  Value: 60 
+LINK "Arsenal Women" "Man City Women"  Value: 20 
+LINK "Arsenal Women" "Liverpool int"  Value: 60 
+LINK "Arsenal Women" "Man City fantasy sport"  Value: 20 
+LINK "Arsenal Women" "Man U Team"  Value: 20 
+LINK "Arsenal Commercial" "Arsenal Contactsl"  Value: 40 
+LINK "Arsenal Commercial" "Arsenal fantasy Sport"  Value: 120 
+LINK "Arsenal Commercial" "Arsenal Streaming"  Value: 740 
+LINK "Arsenal Commercial" "Arsenal affiliate"  Value: 80 
+LINK "Arsenal Commercial" "Arsenal Supporters"  Value: 560 
+LINK "Arsenal Commercial" "Arsenal Art"  Value: 180 
+LINK "Arsenal Commercial" "Arsenal Live Score"  Value: 60 
+LINK "Arsenal Commercial" "Man City Streaming"  Value: 20 
+LINK "Man U Live Score" "Arsenal Streaming"  Value: 20 
+LINK "Man U Live Score" "Chlesea Kids"  Value: 20 
+LINK "Man U Live Score" "Chlesea Women"  Value: 20 
+LINK "Man U Live Score" "Chlesea Art"  Value: 20 
+LINK "Man U Live Score" "Man U Int"  Value: 100 
+LINK "Man U Live Score" "Man U Team"  Value: 40 
+LINK "Man U Live Score" "Man U Music"  Value: "Man U Clips" 
+LINK "Liverpool clips" "Liverpool Banners"  Value: 60 
+LINK "Liverpool clips" "Arsenal Contactsl"  Value: 40 
+LINK "Liverpool clips" "Liverpool Kids"  Value: 120 
+LINK "Liverpool clips" "Arsenal Live Score"  Value: 20 
+LINK "Liverpool clips" "Liverpool women"  Value: 60 
+LINK "Liverpool clips" "Liverpool commercial"  Value: 520 
+LINK "Liverpool clips" "Liverpool contacts"  Value: 20 
+LINK "Liverpool clips" "Liverpool fantasy sport"  Value: 100 
+LINK "Liverpool clips" "Liverpool streaming"  Value: 240 
+LINK "Liverpool clips" "Liverpool affiliate"  Value: 2860 
+LINK "Liverpool clips" "Liverpool supporers"  Value: 180 
+LINK "Liverpool clips" "Liverpool Art"  Value: 220 
+LINK "Liverpool clips" "Chlesea Women"  Value: 20 
+LINK "Liverpool clips" "Liverpool live score"  Value: 40 
+LINK "Liverpool clips" "Chlesea Int"  Value: 20 
+LINK "Liverpool clips" "Liverpool int"  Value: 460 
+LINK "Liverpool clips" "Man City fantasy sport"  Value: 20 
+LINK "Liverpool clips" "Man U Team"  Value: 20 
+LINK "Liverpool clips" "Man City Supporters"  Value: 20 
+LINK "Liverpool Banners" "Arsenal Contactsl"  Value: 20 
+LINK "Liverpool Banners" "Liverpool Kids"  Value: 60 
+LINK "Liverpool Banners" "Liverpool women"  Value: 20 
+LINK "Liverpool Banners" "Liverpool commercial"  Value: 140 
+LINK "Liverpool Banners" "Liverpool contacts"  Value: 120 
+LINK "Liverpool Banners" "Liverpool fantasy sport"  Value: 880 
+LINK "Liverpool Banners" "Liverpool streaming"  Value: 20 
+LINK "Liverpool Banners" "Liverpool affiliate"  Value: 140 
+LINK "Liverpool Banners" "Liverpool supporers"  Value: 80 
+LINK "Liverpool Banners" "Liverpool Art"  Value: 60 
+LINK "Liverpool Banners" "Liverpool live score"  Value: 1520 
+LINK "Liverpool Banners" "Man City Contacts"  Value: 40 
+LINK "Liverpool Banners" "Man U Int"  Value: 20 
+LINK "Liverpool Banners" "Liverpool int"  Value: 40 
+LINK "Liverpool Banners" "Man City fantasy sport"  Value: 20 
+LINK "Liverpool Banners" "Man City affiliate"  Value: 20 
+LINK "Arsenal Contactsl" "Arsenal fantasy Sport"  Value: 340 
+LINK "Arsenal Contactsl" "Arsenal Streaming"  Value: 300 
+LINK "Arsenal Contactsl" "Arsenal affiliate"  Value: 120 
+LINK "Arsenal Contactsl" "Arsenal Supporters"  Value: 240 
+LINK "Arsenal Contactsl" "Arsenal Art"  Value: 340 
+LINK "Arsenal Contactsl" "Arsenal Live Score"  Value: 420 
+LINK "Arsenal Contactsl" "Liverpool women"  Value: 20 
+LINK "Arsenal Contactsl" "Liverpool contacts"  Value: 20 
+LINK "Arsenal Contactsl" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal Contactsl" "Man U Team"  Value: 20 
+LINK "Arsenal Contactsl" "Man City affiliate"  Value: 20 
+LINK "Arsenal fantasy Sport" "Arsenal Streaming"  Value: 60 
+LINK "Arsenal fantasy Sport" "Arsenal affiliate"  Value: 120 
+LINK "Arsenal fantasy Sport" "Arsenal Supporters"  Value: 340 
+LINK "Arsenal fantasy Sport" "Liverpool Kids"  Value: 40 
+LINK "Arsenal fantasy Sport" "Arsenal Art"  Value: 180 
+LINK "Arsenal fantasy Sport" "Arsenal Live Score"  Value: 60 
+LINK "Arsenal fantasy Sport" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal fantasy Sport" "Chlesea Banners"  Value: 20 
+LINK "Arsenal fantasy Sport" "Man City fantasy sport"  Value: 40 
+LINK "Arsenal fantasy Sport" "Man U Team"  Value: 40 
+LINK "Arsenal fantasy Sport" "Man City affiliate"  Value: 20 
+LINK "Arsenal fantasy Sport" "Man City Live score"  Value: 20 
+LINK "Arsenal Streaming" "Arsenal affiliate"  Value: 180 
+LINK "Arsenal Streaming" "Arsenal Supporters"  Value: 300 
+LINK "Arsenal Streaming" "Arsenal Live Score"  Value: 60 
+LINK "Arsenal Streaming" "Liverpool streaming"  Value: 20 
+LINK "Arsenal Streaming" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal Streaming" "Chlesea Contacts"  Value: 20 
+LINK "Arsenal Streaming" "Man City Women"  Value: 20 
+LINK "Arsenal Streaming" "Man City fantasy sport"  Value: 60 
+LINK "Arsenal Streaming" "Man City affiliate"  Value: 20 
+LINK "Arsenal affiliate" "Arsenal Supporters"  Value: 40 
+LINK "Arsenal affiliate" "Liverpool Kids"  Value: 40 
+LINK "Arsenal affiliate" "Arsenal Live Score"  Value: 20 
+LINK "Arsenal affiliate" "Liverpool supporers"  Value: 20 
+LINK "Arsenal affiliate" "Chlesea Banners"  Value: 280 
+LINK "Arsenal affiliate" "Chlesea Women"  Value: 100 
+LINK "Arsenal affiliate" "Chlesea Contacts"  Value: 20 
+LINK "Arsenal affiliate" "Liverpool int"  Value: 40 
+LINK "Arsenal affiliate" "Man City fantasy sport"  Value: 60 
+LINK "Arsenal affiliate" "Man U Team"  Value: 40 
+LINK "Arsenal affiliate" "Man City affiliate"  Value: 20 
+LINK "Arsenal affiliate" "Man U Music"  Value: 160 
+LINK "Arsenal Supporters" "Arsenal Art"  Value: 80 
+LINK "Arsenal Supporters" "Arsenal Live Score"  Value: 220 
+LINK "Arsenal Supporters" "Liverpool affiliate"  Value: 20 
+LINK "Arsenal Supporters" "Chlesea Banners"  Value: 20 
+LINK "Arsenal Supporters" "Chlesea live score"  Value: 20 
+LINK "Arsenal Supporters" "Chlesea Int"  Value: 40 
+LINK "Arsenal Supporters" "Liverpool int"  Value: 20 
+LINK "Arsenal Supporters" "Man City fantasy sport"  Value: 20 
+LINK "Arsenal Supporters" "Man U Team"  Value: 100 
+LINK "Liverpool Kids" "Arsenal Art"  Value: 20 
+LINK "Liverpool Kids" "Liverpool women"  Value: 360 
+LINK "Liverpool Kids" "Liverpool commercial"  Value: 120 
+LINK "Liverpool Kids" "Liverpool contacts"  Value: 100 
+LINK "Liverpool Kids" "Liverpool fantasy sport"  Value: 80 
+LINK "Liverpool Kids" "Liverpool streaming"  Value: 640 
+LINK "Liverpool Kids" "Liverpool affiliate"  Value: 100 
+LINK "Liverpool Kids" "Liverpool supporers"  Value: 440 
+LINK "Liverpool Kids" "Liverpool Art"  Value: 20 
+LINK "Liverpool Kids" "Tottenham entertainment"  Value: 20 
+LINK "Liverpool Kids" "Chlesea Women"  Value: 40 
+LINK "Liverpool Kids" "Liverpool live score"  Value: 980 
+LINK "Liverpool Kids" "Chlesea Contacts"  Value: 20 
+LINK "Liverpool Kids" "Chlesea Int"  Value: 20 
+LINK "Liverpool Kids" "Man City Women"  Value: 180 
+LINK "Liverpool Kids" "Liverpool int"  Value: 720 
+LINK "Liverpool Kids" "Man City fantasy sport"  Value: 60 
+LINK "Liverpool Kids" "Man U Team"  Value: 20 
+LINK "Liverpool Kids" "Man City affiliate"  Value: 20 
+LINK "Liverpool Kids" "Man City Art"  Value: 20 
+LINK "Arsenal Art" "Arsenal Live Score"  Value: 940 
+LINK "Arsenal Art" "Liverpool live score"  Value: 20 
+LINK "Arsenal Art" "Chlesea Int"  Value: 20 
+LINK "Arsenal Live Score" "Liverpool contacts"  Value: 20 
+LINK "Arsenal Live Score" "Liverpool affiliate"  Value: 40 
+LINK "Arsenal Live Score" "Liverpool supporers"  Value: 20 
+LINK "Arsenal Live Score" "Liverpool Art"  Value: 60 
+LINK "Arsenal Live Score" "Chlesea Women"  Value: 20 
+LINK "Liverpool women" "Liverpool commercial"  Value: 60 
+LINK "Liverpool women" "Liverpool contacts"  Value: 60 
+LINK "Liverpool women" "Liverpool fantasy sport"  Value: 980 
+LINK "Liverpool women" "Liverpool streaming"  Value: 40 
+LINK "Liverpool women" "Liverpool affiliate"  Value: 40 
+LINK "Liverpool women" "Liverpool supporers"  Value: 660 
+LINK "Liverpool women" "Liverpool Art"  Value: 60 
+LINK "Liverpool women" "Tottenham entertainment"  Value: 20 
+LINK "Liverpool women" "Liverpool live score"  Value: 120 
+LINK "Liverpool women" "Liverpool int"  Value: 40 
+LINK "Liverpool commercial" "Liverpool contacts"  Value: 20 
+LINK "Liverpool commercial" "Liverpool fantasy sport"  Value: 20 
+LINK "Liverpool commercial" "Liverpool streaming"  Value: 1140 
+LINK "Liverpool commercial" "Liverpool affiliate"  Value: 440 
+LINK "Liverpool commercial" "Liverpool supporers"  Value: 160 
+LINK "Liverpool commercial" "Liverpool Art"  Value: 320 
+LINK "Liverpool commercial" "Liverpool live score"  Value: 900 
+LINK "Liverpool commercial" "Liverpool int"  Value: 120 
+LINK "Liverpool contacts" "Liverpool fantasy sport"  Value: 60 
+LINK "Liverpool contacts" "Liverpool streaming"  Value: 220 
+LINK "Liverpool contacts" "Liverpool affiliate"  Value: 220 
+LINK "Liverpool contacts" "Liverpool Art"  Value: 180 
+LINK "Liverpool contacts" "Liverpool live score"  Value: 20 
+LINK "Liverpool contacts" "Liverpool int"  Value: 60 
+LINK "Liverpool contacts" "Man City Streaming"  Value: 60 
+LINK "Liverpool contacts" "Man City Art"  Value: 100 
+LINK "Liverpool fantasy sport" "Liverpool streaming"  Value: 60 
+LINK "Liverpool fantasy sport" "Liverpool affiliate"  Value: 1100 
+LINK "Liverpool fantasy sport" "Liverpool supporers"  Value: 600 
+LINK "Liverpool fantasy sport" "Liverpool Art"  Value: 140 
+LINK "Liverpool fantasy sport" "Liverpool live score"  Value: 100 
+LINK "Liverpool fantasy sport" "Man City Contacts"  Value: 60 
+LINK "Liverpool fantasy sport" "Man U Int"  Value: 40 
+LINK "Liverpool streaming" "Liverpool affiliate"  Value: 300 
+LINK "Liverpool streaming" "Liverpool supporers"  Value: 180 
+LINK "Liverpool streaming" "Liverpool Art"  Value: 180 
+LINK "Liverpool streaming" "Chlesea Banners"  Value: 20 
+LINK "Liverpool streaming" "Chlesea Women"  Value: 20 
+LINK "Liverpool streaming" "Liverpool live score"  Value: 340 
+LINK "Liverpool streaming" "Chlesea live score"  Value: 60 
+LINK "Liverpool streaming" "Chlesea Int"  Value: 60 
+LINK "Liverpool streaming" "Man City Women"  Value: 20 
+LINK "Liverpool streaming" "Man City Commercial"  Value: 20 
+LINK "Liverpool streaming" "Liverpool int"  Value: 240 
+LINK "Liverpool streaming" "Man City fantasy sport"  Value: 160 
+LINK "Liverpool streaming" "Man U Team"  Value: 60 
+LINK "Liverpool streaming" "Man City affiliate"  Value: 240 
+LINK "Tottenham games" "Tottenham Clips"  Value: 80 
+LINK "Liverpool affiliate" "Liverpool supporers"  Value: 200 
+LINK "Liverpool affiliate" "Liverpool Art"  Value: 60 
+LINK "Liverpool affiliate" "Chlesea Women"  Value: 40 
+LINK "Liverpool affiliate" "Liverpool live score"  Value: 60 
+LINK "Liverpool affiliate" "Chlesea Contacts"  Value: 20 
+LINK "Liverpool affiliate" "Chlesea Int"  Value: 20 
+LINK "Liverpool affiliate" "Liverpool int"  Value: 100 
+LINK "Liverpool affiliate" "Man City affiliate"  Value: 20 
+LINK "Liverpool supporers" "Liverpool Art"  Value: 60 
+LINK "Liverpool supporers" "Chlesea Banners"  Value: 40 
+LINK "Liverpool supporers" "Tottenham entertainment"  Value: 120 
+LINK "Liverpool supporers" "Chlesea Women"  Value: 420 
+LINK "Liverpool supporers" "Liverpool live score"  Value: 120 
+LINK "Liverpool supporers" "Chlesea Int"  Value: 20 
+LINK "Liverpool supporers" "Man City Women"  Value: 60 
+LINK "Liverpool supporers" "Liverpool int"  Value: 3460 
+LINK "Liverpool supporers" "Man City affiliate"  Value: 940 
+LINK "Liverpool Art" "Liverpool live score"  Value: 440 
+LINK "Liverpool Art" "Liverpool int"  Value: 80 
+LINK "Liverpool Art" "Man U Team"  Value: 100 
+LINK "Liverpool Art" "Man City affiliate"  Value: 20 
+LINK "Liverpool Art" "Tottenham Clips"  Value: 20 
+LINK "Chlesea Banners" "Tottenham entertainment"  Value: 580 
+LINK "Chlesea Banners" "Chlesea Kids"  Value: 160 
+LINK "Chlesea Banners" "Chlesea Women"  Value: "Everton contacts" 
+LINK "Chlesea Banners" "Chlesea Commercial"  Value: 160 
+LINK "Chlesea Banners" "Chlesea Contacts"  Value: 920 
+LINK "Chlesea Banners" "Chlesea affiliate"  Value: 140 
+LINK "Chlesea Banners" "Chlesea Supporters"  Value: 60 
+LINK "Chlesea Banners" "Chlesea Art"  Value: 180 
+LINK "Chlesea Banners" "Chlesea live score"  Value: 800 
+LINK "Chlesea Banners" "Chlesea Int"  Value: 420 
+LINK "Chlesea Banners" "Chlesea Team"  Value: 60 
+LINK "Chlesea Banners" "Man City Women"  Value: 40 
+LINK "Chlesea Banners" "Man U Int"  Value: 60 
+LINK "Chlesea Banners" "Liverpool int"  Value: 40 
+LINK "Chlesea Banners" "Man City fantasy sport"  Value: 1180 
+LINK "Chlesea Banners" "Man U Team"  Value: 40 
+LINK "Chlesea Banners" "Man City affiliate"  Value: 240 
+LINK "Tottenham entertainment" "Chlesea Supporters"  Value: 80 
+LINK "Tottenham entertainment" "Chlesea Art"  Value: 40 
+LINK "Tottenham entertainment" "Chlesea Int"  Value: 1620 
+LINK "Tottenham entertainment" "Man City Women"  Value: 460 
+LINK "Tottenham entertainment" "Man City Commercial"  Value: 20 
+LINK "Tottenham entertainment" "Man City Contacts"  Value: 160 
+LINK "Tottenham entertainment" "Liverpool int"  Value: 160 
+LINK "Tottenham entertainment" "Man City fantasy sport"  Value: 100 
+LINK "Tottenham entertainment" "Man City Streaming"  Value: 100 
+LINK "Tottenham entertainment" "Man City affiliate"  Value: 280 
+LINK "Tottenham entertainment" "Man City Supporters"  Value: 100 
+LINK "Tottenham entertainment" "Man City Art"  Value: 180 
+LINK "Tottenham entertainment" "Man City Live score"  Value: 40 
+LINK "Chlesea Kids" "Chlesea Women"  Value: 60 
+LINK "Chlesea Kids" "Chlesea Commercial"  Value: 20 
+LINK "Chlesea Kids" "Chlesea Contacts"  Value: 20 
+LINK "Chlesea Kids" "Chlesea fantasy sport"  Value: 20 
+LINK "Chlesea Kids" "Chlesea Streaming"  Value: 40 
+LINK "Chlesea Kids" "Chlesea affiliate"  Value: 20 
+LINK "Chlesea Kids" "Chlesea Supporters"  Value: 20 
+LINK "Chlesea Kids" "Chlesea Art"  Value: 140 
+LINK "Chlesea Kids" "Chlesea live score"  Value: 420 
+LINK "Chlesea Kids" "Chlesea Int"  Value: 120 
+LINK "Chlesea Kids" "Chlesea Team"  Value: 60 
+LINK "Chlesea Kids" "Chlesea Music"  Value: 20 
+LINK "Chlesea Women" "Chlesea Commercial"  Value: 40 
+LINK "Chlesea Women" "Chlesea fantasy sport"  Value: 200 
+LINK "Chlesea Women" "Chlesea Streaming"  Value: 1040 
+LINK "Chlesea Women" "Chlesea affiliate"  Value: 100 
+LINK "Chlesea Women" "Chlesea Supporters"  Value: 440 
+LINK "Chlesea Women" "Chlesea Art"  Value: 220 
+LINK "Chlesea Women" "Chlesea Int"  Value: 260 
+LINK "Chlesea Women" "Chlesea Team"  Value: 40 
+LINK "Chlesea Women" "Chlesea Music"  Value: 20 
+LINK "Chlesea Women" "Man City fantasy sport"  Value: 120 
+LINK "Chlesea Women" "Man City affiliate"  Value: 960 
+LINK "Chlesea Commercial" "Chlesea Contacts"  Value: 80 
+LINK "Chlesea Commercial" "Chlesea Streaming"  Value: 180 
+LINK "Chlesea Commercial" "Chlesea affiliate"  Value: 20 
+LINK "Chlesea Commercial" "Chlesea Art"  Value: 40 
+LINK "Chlesea Commercial" "Chlesea live score"  Value: 280 
+LINK "Chlesea Commercial" "Chlesea Int"  Value: 180 
+LINK "Chlesea Commercial" "Chlesea Music"  Value: 40 
+LINK "Chlesea Commercial" "Man City fantasy sport"  Value: 20 
+LINK "Liverpool live score" "Liverpool int"  Value: 60 
+LINK "Liverpool live score" "Man U Team"  Value: 40 
+LINK "Liverpool live score" "Man City affiliate"  Value: 40 
+LINK "Liverpool live score" "Man City Supporters"  Value: 20 
+LINK "Chlesea Contacts" "Chlesea fantasy sport"  Value: 20 
+LINK "Chlesea Contacts" "Chlesea Streaming"  Value: 60 
+LINK "Chlesea Contacts" "Chlesea affiliate"  Value: 80 
+LINK "Chlesea Contacts" "Chlesea Supporters"  Value: 20 
+LINK "Chlesea Contacts" "Chlesea Art"  Value: 200 
+LINK "Chlesea Contacts" "Chlesea live score"  Value: 4280 
+LINK "Chlesea Contacts" "Chlesea Int"  Value: 340 
+LINK "Chlesea Contacts" "Chlesea Team"  Value: 380 
+LINK "Chlesea Contacts" "Chlesea Music"  Value: 80 
+LINK "Chlesea Contacts" "Man City Women"  Value: 60 
+LINK "Chlesea Contacts" "Man City fantasy sport"  Value: 420 
+LINK "Chlesea Contacts" "Man U Team"  Value: 20 
+LINK "Chlesea fantasy sport" "Chlesea affiliate"  Value: 20 
+LINK "Chlesea fantasy sport" "Chlesea Supporters"  Value: 1640 
+LINK "Chlesea fantasy sport" "Chlesea Art"  Value: 180 
+LINK "Chlesea fantasy sport" "Chlesea live score"  Value: 40 
+LINK "Chlesea fantasy sport" "Chlesea Int"  Value: 20 
+LINK "Chlesea fantasy sport" "Man U Int"  Value: 20 
+LINK "Chlesea Streaming" "Chlesea affiliate"  Value: 280 
+LINK "Chlesea Streaming" "Chlesea Supporters"  Value: 20 
+LINK "Chlesea Streaming" "Chlesea Art"  Value: 120 
+LINK "Chlesea Streaming" "Chlesea live score"  Value: 480 
+LINK "Chlesea Streaming" "Chlesea Int"  Value: 440 
+LINK "Chlesea Streaming" "Chlesea Team"  Value: 20 
+LINK "Chlesea Streaming" "Chlesea Music"  Value: 180 
+LINK "Chlesea Streaming" "Man U Team"  Value: 40 
+LINK "Chlesea affiliate" "Chlesea Supporters"  Value: 120 
+LINK "Chlesea affiliate" "Chlesea Art"  Value: 40 
+LINK "Chlesea affiliate" "Chlesea live score"  Value: 20 
+LINK "Chlesea affiliate" "Chlesea Int"  Value: 3000 
+LINK "Chlesea affiliate" "Chlesea Music"  Value: 80 
+LINK "Chlesea Supporters" "Chlesea Art"  Value: 100 
+LINK "Chlesea Supporters" "Chlesea live score"  Value: 40 
+LINK "Chlesea Supporters" "Chlesea Int"  Value: 100 
+LINK "Chlesea Supporters" "Chlesea Team"  Value: 460 
+LINK "Chlesea Supporters" "Chlesea Music"  Value: 60 
+LINK "Chlesea Supporters" "Man City fantasy sport"  Value: 20 
+LINK "Chlesea Supporters" "Man City affiliate"  Value: 20 
+LINK "Chlesea Art" "Chlesea live score"  Value: 200 
+LINK "Chlesea Art" "Chlesea Int"  Value: 180 
+LINK "Chlesea Art" "Chlesea Team"  Value: 220 
+LINK "Chlesea Art" "Chlesea Music"  Value: 160 
+LINK "Chlesea Art" "Man U Int"  Value: 20 
+LINK "Chlesea Art" "Man U Team"  Value: 20 
+LINK "Chlesea live score" "Chlesea Int"  Value: 380 
+LINK "Chlesea live score" "Chlesea Team"  Value: 20 
+LINK "Chlesea live score" "Chlesea Music"  Value: 100 
+LINK "Chlesea live score" "Man City Women"  Value: 20 
+LINK "Chlesea live score" "Liverpool int"  Value: 20 
+LINK "Chlesea live score" "Man City fantasy sport"  Value: 80 
+LINK "Chlesea live score" "Man City affiliate"  Value: 60 
+LINK "Chlesea live score" "Man U Music"  Value: 80 
+LINK "Chlesea Int" "Chlesea Team"  Value: 240 
+LINK "Chlesea Int" "Chlesea Music"  Value: 2700 
+LINK "Chlesea Int" "Man City Women"  Value: 60 
+LINK "Chlesea Int" "Man City Commercial"  Value: 20 
+LINK "Chlesea Int" "Man U Int"  Value: 20 
+LINK "Chlesea Int" "Man City fantasy sport"  Value: 160 
+LINK "Chlesea Int" "Man U Team"  Value: 140 
+LINK "Chlesea Int" "Man City affiliate"  Value: 80 
+LINK "Chlesea Int" "Man U Music"  Value: 1260 
+LINK "Chlesea Music" "Man U Team"  Value: 40 
+LINK "Man City Women" "Man City Commercial"  Value: 140 
+LINK "Man City Women" "Man City Contacts"  Value: 20 
+LINK "Man City Women" "Liverpool int"  Value: 800 
+LINK "Man City Women" "Man City fantasy sport"  Value: 300 
+LINK "Man City Women" "Man City affiliate"  Value: 200 
+LINK "Man City Women" "Man City Art"  Value: 100 
+LINK "Man City Women" "Man U Music"  Value: 40 
+LINK "Man City Commercial" "Man City Contacts"  Value: 80 
+LINK "Man City Commercial" "Man City fantasy sport"  Value: 20 
+LINK "Man City Commercial" "Man City affiliate"  Value: 180 
+LINK "Man City Commercial" "Man City Supporters"  Value: 580 
+LINK "Man City Commercial" "Man City Live score"  Value: 20 
+LINK "Man City Contacts" "Man City fantasy sport"  Value: 120 
+LINK "Man City Contacts" "Man City Streaming"  Value: 60 
+LINK "Man City Contacts" "Man City affiliate"  Value: 20 
+LINK "Man City Contacts" "Man City Supporters"  Value: 80 
+LINK "Man City Contacts" "Man City Art"  Value: 160 
+LINK "Man City Contacts" "Man City Live score"  Value: 240 
+LINK "Man U Int" "Man U Team"  Value: 700 
+LINK "Man U Int" "Man U Music"  Value: 120 
+LINK "Liverpool int" "Man City fantasy sport"  Value: 80 
+LINK "Liverpool int" "Man City affiliate"  Value: 20 
+LINK "Liverpool int" "Man U Music"  Value: 20 
+LINK "Man City fantasy sport" "Man U Team"  Value: 40 
+LINK "Man City fantasy sport" "Man City Streaming"  Value: 80 
+LINK "Man City fantasy sport" "Man City affiliate"  Value: 840 
+LINK "Man City fantasy sport" "Man City Supporters"  Value: 120 
+LINK "Man City fantasy sport" "Man City Art"  Value: 100 
+LINK "Man City fantasy sport" "Man City Live score"  Value: 20 
+LINK "Man U Team" "Man City affiliate"  Value: 20 
+LINK "Man U Team" "Man U Music"  Value: 120 
+LINK "Man City Streaming" "Man City affiliate"  Value: 20 
+LINK "Man City Streaming" "Man City Supporters"  Value: 20 
+LINK "Man City Streaming" "Man City Art"  Value: 400 
+LINK "Man City Streaming" "Man City Live score"  Value: 360 
+LINK "Man City affiliate" "Man City Supporters"  Value: 60 
+LINK "Man City affiliate" "Man City Art"  Value: 620 
+LINK "Man City affiliate" "Man City Live score"  Value: 300 
+LINK "Man City Supporters" "Man City Art"  Value: 140 
+LINK "Man City Art" "Man City Live score"  Value: 20 

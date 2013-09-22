@@ -1,0 +1,12 @@
+﻿<Window x:Class="mnConsoleBookmarkAnalyzer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Web Crawler" Height="278" Width="525">
+    <Grid Margin="9,10,2,44">
+        <Button Content="mnXMLPlanets" HorizontalAlignment="Left" Margin="342,116,0,0" VerticalAlignment="Top" Width="110" Click="CreatePlanetLinks_Click"/>
+        <Label Content="If you want to generate the mnXMLPlanets based on a bookmark, Press that button&#xD;&#xA;" HorizontalAlignment="Left" Margin="23,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="You can edit the paths of the files in the App.config" HorizontalAlignment="Left" Margin="26,20,0,0" VerticalAlignment="Top"/>
+        <ProgressBar HorizontalAlignment="Left" Height="11" Margin="26,116,0,0" VerticalAlignment="Top" Width="275" x:Name="progressBarLoadFile" />
+
+    </Grid>
+</Window>
